@@ -1,0 +1,10 @@
+[project]
+name = "cldw2"
+version = "0.1.0"
+license = "GPL-3.0-or-later"
+requires-python = ">=3.11"
+dependencies = [
+    "jinja2",      # bin/render.py
+    "matplotlib",  # src/plot_year_distributions.py
+    "numpy",       # src/plot_year_distributions.py
+]

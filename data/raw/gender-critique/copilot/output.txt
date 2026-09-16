@@ -1,0 +1,21 @@
+Using the metadata you provided, and counting unique authors represented in the corpus rather than individual texts:
+
+Total unique authors: 72
+Male authors: 67
+Female authors: 5
+Female authors represented in the CLDW
+Celia Fiennes
+Ann Radcliffe
+Priscilla Wakefield
+Catherine Hutton
+Harriet Martineau
+Gender balance
+Gender	Authors	PercentageMale	67	93.1%
+Female	5	6.9%
+Total	72	100%
+Notes
+This calculation is based on distinct authors, not the 80 texts themselves.
+Authors who contribute multiple texts (for example, George Smith, Thomas Pennant, William Wordsworth, John Robinson, Harriet Martineau, Edwin Waugh) are counted only once.
+Anonymous works in the metadata that nevertheless have a recorded gender value (e.g. “Anon.-Richard Phillips (pub.)”, “Anon.-John Garnett (pub.)”) were counted according to the gender field supplied in the metadata.
+
+The CLDW therefore exhibits a strong male predominance, with women comprising only 5 of 72 authors (6.9%). This is broadly consistent with the historical publishing landscape for travel writing, topography, guidebooks, and related genres between the seventeenth and nineteenth centuries.

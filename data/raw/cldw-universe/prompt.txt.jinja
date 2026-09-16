@@ -1,0 +1,99 @@
+I want to construct a Corpus of Lake District Writing (CLDW) with a large number of texts originally composed between 1622 and 1900, that represent a range of different genres and authors. Collectively, the text should constitute an indicative sample of writing about the English Lake District during the early seventeenth century and the early twentieth century.
+
+Here are some example texts:
+
+{{ read_file("subset.jsonl") }}
+
+You are a digital humanities research assistant. Your task is to find as many similar texts as you can (ideally several hundreds).
+
+Your selection should be representative of the period and have diverse authors and gender balance. The selection should also have a good balance of genres.
+
+There should be NO DUPLICATION with the current corpus.
+
+OUTPUT FORMAT (STRICT)
+
+Return ONLY JSONL (one valid JSON object per line). Each line must follow this schema:
+
+{
+  "title" : ,
+  "author" : ,
+  "gender" : ,
+  "genre" : ,
+  "year" : ,
+  "reason" : 
+}
+
+No markdown. No commentary. No surrounding structure. Only JSONL.
+
+REQUIREMENTS
+
+1. Scope of texts
+
+Include works from 1600 to the twentieth century (public domain only) with substantial Lake District content, including:
+
+- travel writing and tours
+- topographical and antiquarian works
+- guidebooks
+- geological surveys
+- natural history accounts
+- poetry collections focused on the Lake District
+- novels with significant Lake District setting
+- diaries, memoirs, letters
+- county histories (Cumberland, Westmorland, Furness)
+- mountaineering and walking literature
+- early modern chorographies and descriptions
+- tourism literature (18th–20th century)
+
+2. You can search any online catalogues including
+
+- WorldCat
+- Project Gutenberg 
+- Internet Archive 
+- British Library (only if direct file links exist)
+- Hathi Trust
+- Oxford text archive
+
+3. Lake District relevance rule
+
+Include only works where:
+
+- The Lake District is a central theme OR
+- At least ~20% of content concerns Lakeland geography, culture, travel, or history
+- Exclude trivial mentions.
+
+4. Deduplication rules
+
+Do NOT include duplicates:
+
+- multiple editions of same work (unless significantly different text)
+
+6. Accuracy constraints
+
+Do NOT hallucinate books or URLs
+Every entry must correspond to a real text
+If uncertain, exclude it
+
+7. Field definitions
+
+title: full work title
+author: primary author
+gender: M or F for Male or Female
+genre: category of classification
+year: publication year (use best-known estimate if necessary)
+reason: one sentence explaining Lake District relevance
+
+10. Example JSONL line
+
+{
+        "title" : "The English Lakes",
+        "author" : "W. T. Palmer",
+        "gender" : "M",
+        "genre" : "Guide",
+        "year" : 1906,
+        "reason": "Victorian walking guide covering major Lake District valleys and peaks"
+}
+
+
+The output should be written to texts.jsonl
+
+

@@ -1,0 +1,32 @@
+Genre distribution in the CLDW
+
+The metadata identifies 14 distinct genre labels across the corpus’s 80 texts. Percentages are calculated against the complete corpus of 80 texts, with each text counted according to its recorded Genre field.
+
+Genre	Number of texts	Percentage of corpusTravelogue	27	33.75%
+Guide	18	22.50%
+Poetry	8	10.00%
+Essay	7	8.75%
+Epistle	6	7.50%
+Journal	6	7.50%
+Drama	1	1.25%
+Epistle and Journal	1	1.25%
+Fiction	1	1.25%
+Miscellany	1	1.25%
+Novel	1	1.25%
+Painting	1	1.25%
+Prose Fiction	1	1.25%
+Survey	1	1.25%
+Total	80	100.00%
+Assessment
+
+The CLDW has a clearly uneven genre distribution. Travelogues are the largest category, accounting for approximately one-third of the corpus, while guides constitute a further 22.5%. Together, these two genres comprise 45 texts, or 56.25% of the corpus.
+
+The corpus therefore has a strong orientation towards travel writing and practical or descriptive guidebook literature. Poetry, essays, epistles, and journals provide meaningful secondary strands, but each is considerably less prominent. The remaining eight genre labels occur only once each.
+
+Some of this apparent fragmentation results from the metadata taxonomy. Closely related categories are treated separately, including:
+
+Fiction, Novel, and Prose Fiction
+Journal and Epistle and Journal
+Epistle and other forms of travel writing
+
+Consequently, the corpus is diverse in the sense that it contains numerous literary and non-literary forms, but it is not quantitatively balanced across those forms. Its genre profile is dominated by writing associated with travel, tourism, topographical description, and the interpretation of landscape.

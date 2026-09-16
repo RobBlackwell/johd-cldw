@@ -1,0 +1,178 @@
+I want to construct a Corpus of Lake District Writing (CLDW) with a large number of texts originally composed between 1622 and 1900, that represent a range of different genres and authors. Collectively, the text should constitute an indicative sample of writing about the English Lake District during the early seventeenth century and the early twentieth century.
+
+Here are some example texts:
+
+{"ID":"1612_a","Author":"Michael Drayton","Title_full":"Poly-Olbion; or, A chorographicall description of all the tracts, rivers, mountains, forrests, and other Parts of this Renowned Isle of Great Britain"}
+{"ID":"1698_a","Author":"Celia Fiennes","Title_full":"Through England on a Side-Saddle in the Time of William and Mary"}
+{"ID":"1724_a","Author":"Daniel Defoe","Title_full":"A Tour thro' the Whole Island of Great Britain "}
+{"ID":"1735_a","Author":"George Smith","Title_full":"A Journey up to Cross-Fell Mountain"}
+{"ID":"1735_b","Author":"George Smith","Title_full":"A Journey to Caudbec Fells"}
+{"ID":"1735_c","Author":"George Smith","Title_full":"An Account of a Survey of the Northwest Coast of England"}
+{"ID":"1755_a","Author":"John Dalton","Title_full":"A Descriptive Poem, Addressed to Two Ladies, at their Return from Viewing the Mines near Whitehaven"}
+{"ID":"1759_a","Author":"John Wesley","Title_full":"An Extract of the Rev. Mr. John Wesley's Journal"}
+{"ID":"1767_a","Author":"John Brown","Title_full":"Description of the Lake and Vale of Keswick"}
+{"ID":"1770_a","Author":"Arthur Young","Title_full":"A six month's tour through the north of England, containing, an account of the present state of agriculture, manufactures and population, in several counties of this kingdom"}
+{"ID":"1771_a","Author":"Thomas Pennant","Title_full":"A Tour in Scotland. MDCCLXIX"}
+{"ID":"1775_a","Author":"Thomas Gray","Title_full":"Journal of A Visit to the Lake District in 1769"}
+{"ID":"1776_a","Author":"William Hutchinson","Title_full":"An Excursion to the Lakes in Westmorland and Cumberland"}
+{"ID":"1776_b","Author":"Thomas Pennant","Title_full":"A Tour in Scotland, and Voyage to the Hebrides; MDCCLXXII"}
+{"ID":"1776_c","Author":"Richard Cumberland","Title_full":"Odes"}
+{"ID":"1778_a","Author":"Thomas West","Title_full":"A guide to the lakes : Dedicated to the lovers of landscape studies, and to all who have visited, or intend to visit, the lakes in Cumberland, Westmorland, and Lancashire"}
+{"ID":"1780_a","Author":"William Cockin","Title_full":"Ode to the Genius of the Lakes. A Poem"}
+{"ID":"1780_b","Author":"Richard Joseph Sullivan ","Title_full":"Observations made during a Tour through parts of England, Scotland, and Wales, in a series of Letters"}
+{"ID":"1786_a","Author":"William Gilpin","Title_full":"Observations, Relative Chiefly to Picturesque Beauty, Made in the Year 1772, on several parts of England; Particularly the Mountains, and Lakes of Cumberland, and Westmoreland"}
+{"ID":"1787_a","Author":"James Clarke","Title_full":"A Survey of the Lakes of Cumberland, Westmorland, and Lancashire"}
+{"ID":"1788_a","Author":"Thomas Newte","Title_full":"A Tour in England and Scotland, in 1785"}
+{"ID":"1788_b","Author":"Stebbing Shaw","Title_full":"A Tour in 1787, from London to the Western Highlands of Scotland"}
+{"ID":"1792_a","Author":"Adam Walker","Title_full":"Remarks Made In A Tour From London To The Lakes Of Westmoreland And Cumberland, in the Summer Of MDCCXCI"}
+{"ID":"1792_b","Author":"Joseph Budworth","Title_full":"A Fortnight's Ramble to the Lakes in Wesmorland, Lancashire, and Cumberland"}
+{"ID":"1795_a","Author":"Henry Skrine","Title_full":"Three Successive Tours in the North of England, and Great Part of Scotland : Interspersed with descriptions of the scenes they presented, and occasional observations on the state of society"}
+{"ID":"1795_b","Author":"Ann Radcliffe (nÃ©e Ward)","Title_full":"A Journey made in the Summer of 1794, through Holland and the Western Frontier of Germany: With a return down the Rhine: To which are added Observations during a tour to the lakes of Lancashire, Westmoreland, and Cumberland."}
+{"ID":"1798_f","Author":"James Plumptre","Title_full":"The Lakers: A Comic Opera in Three Acts"}
+{"ID":"1800_c","Author":"John Housman","Title_full":"A topographical description of Cumberland, Westmoreland, Lancashire, and a part of the West Riding of Yorkshire"}
+{"ID":"1802_a","Author":"Samuel Taylor Coleridge","Title_full":"Circumcision of the Lakes"}
+{"ID":"1804_a","Author":"Anon.-T. Ostell (pub.)","Title_full":"Observations, Chiefly Lithological, Made in a Five Weeks' Tour"}
+{"ID":"1804_b","Author":"James Denholm","Title_full":"A tour to the principal Scotch and English Lakes"}
+{"ID":"1804_c","Author":"Thomas Thornton","Title_full":"A Sporting Tour through the Northern Parts of England, and Great Part of the Highlands of Scotland"}
+{"ID":"1804_d","Author":"Priscilla Wakefield","Title_full":"A Family Tour through the British Empire"}
+{"ID":"1805_a","Author":"Anon.-Richard Phillips (pub.)","Title_full":"Gleanings of a Wanderer, in various parts of England, Scotland, & North Wales, made during an excursion in the year 1804"}
+{"ID":"1805_b","Author":"Joseph Mawman","Title_full":"An Excursion to the Highlands of Scotland and the English Lakes"}
+{"ID":"1807_a","Author":"Robert Southey","Title_full":"Letters from England, by Don Manuel Alvarez Espriella"}
+{"ID":"1812_a","Author":"William Combe","Title_full":"The tour of Doctor Syntax in Search of the Picturesque"}
+{"ID":"1813_a","Author":"Duke of Rutland [John Henry Manners]","Title_full":"Journal of a Tour to the Northern Parts of Great Britain (1796)"}
+{"ID":"1816_b","Author":"Samuel Heinrich Spiker","Title_full":"Travels through England, Wales & Scotland in the Year 1816"}
+{"ID":"1818_a","Author":"John Keats","Title_full":"Letters to Tom and George Keats"}
+{"ID":"1819_b","Author":"John Robinson","Title_full":"A Guide to the Lakes, in Cumberland, Westmorland, and Lancashire"}
+{"ID":"1819_c","Author":"Catherine Hutton","Title_full":"Oakwood Hall, a novel, including a description of the Lakes of Cumberland and Westmoreland, and a part of South Wales"}
+{"ID":"1820_a","Author":"William Wordsworth","Title_full":"The River Duddon: A Series of Sonnets"}
+{"ID":"1822_a","Author":"William Wordsworth","Title_full":"A Description of the Scenery of the Lakes in the North of England"}
+{"ID":"1823_a","Author":"Jonathan Otley","Title_full":"A Concise Description of the English Lakes and Adjacent Mountains: With general directions to tourists, notices of the botany, mineralogy, and geology of the district, observations on meteorology, the floating island in Derwent Lake, and the black-lead mine in Borrowdale"}
+{"ID":"1824_a","Author":"Thomas Wilkinson","Title_full":"Tours to the British Mountains, with the Descriptive Poems of Lowther"}
+{"ID":"1827_a","Author":"Charles Cooke","Title_full":"The Tourist's and Traveller's Companion to the Lakes of Cumberland, Westmoreland, and Lancashire: Including a description of the surrounding scenery"}
+{"ID":"1827_b","Author":"Nathaniel Hazeltine Carter","Title_full":"Letters from Europe: Comprising the Journal of a Tour Through Ireland, England, France, Italy, and Switzerland"}
+{"ID":"1829_a","Author":"Edward Baines","Title_full":"A Companion to the Lakes of Cumberland, Westmoreland, and Lancashire: In a descriptive account of a family tour and excursions on horseback and on foot"}
+{"ID":"1830_a","Author":"Samuel Leigh (pub.)","Title_full":"Leigh's Guide to the Lakes and Mountains of Cumberland, Westmorland, and Lancashire"}
+{"ID":"1832_a","Author":"John Bree","Title_full":"Saint Herbert's Isle: A Legendary Poem: In Five Cantos"}
+{"ID":"1833_a","Author":"John Robinson","Title_full":"Views of the Lakes in the North of England, from Original Paintings; with historical and descriptive illustrations"}
+{"ID":"1835_a","Author":"William Wordsworth","Title_full":"Guide through the District of the Lakes"}
+{"ID":"1844_b","Author":"James Thorne","Title_full":"Rambles by Rivers"}
+{"ID":"1846_a","Author":"Charles Mackay","Title_full":"The Scenery and Poetry of the English Lakes. A Summer Ramble."}
+{"ID":"1849_a","Author":"Alexander Craig Gibson","Title_full":"The Old Man; or Ravings and Ramblings round Conistone"}
+{"ID":"1852_b","Author":"Anon.-John Garnett (pub.)","Title_full":"Keswick and its Neighbourhood: A Hand-book for the Use of Visitors"}
+{"ID":"1852_e","Author":"James Freeman Clarke","Title_full":"Eleven Weeks in Europe; and What May Be Seen in that Time"}
+{"ID":"1853_a","Author":"A. and C. Black (pub.)","Title_full":"Black's Shilling Guide to the English Lakes"}
+{"ID":"1855_a","Author":"Harriet Martineau","Title_full":"A Complete Guide to the English Lakes"}
+{"ID":"1857_b","Author":"Anon.-Nelson (pub.)","Title_full":"The English Lakes"}
+{"ID":"1860_a","Author":"Edwin Waugh","Title_full":"Over Sands to the Lakes"}
+{"ID":"1861_b","Author":"Edwin Waugh","Title_full":"Rambles in the Lake Country and its Borders"}
+{"ID":"1861_c","Author":"Harriet Martineau","Title_full":"The Lights of the English Lakes"}
+{"ID":"1870_a","Author":"Nathaniel Hawthorne","Title_full":"English Notebooks"}
+{"ID":"1875_b","Author":"William Dickinson","Title_full":"Cumbriana: or Fragments of Cumbrian Life"}
+{"ID":"1881_a","Author":"Henry Frith","Title_full":"Wanderings in Wordsworthshire"}
+{"ID":"1884_a","Author":"John Burroughs","Title_full":"In Wordsworth's Country"}
+{"ID":"1884_d","Author":"Anon.-Charles Dickens  Jr.  ed.","Title_full":"The Climbs of the English Lake District"}
+{"ID":"1889_a","Author":"W. G. Collingwood","Title_full":"Coniston Tales"}
+{"ID":"1890_a","Author":"Frederick Amadeus Malleson","Title_full":"Holiday Studies of Wordsworth by Rivers, Woods and Alps"}
+{"ID":"1892_a","Author":"Samuel Barber","Title_full":"Beneath Helvellyn's Shade. Notes and Sketches in the Valley of Wythburn"}
+{"ID":"1893_a","Author":"Herbert Rix","Title_full":"Down the Duddon with Wordsworth"}
+{"ID":"1899_a","Author":"Ellis Yarnall","Title_full":"Walks and Visits in Wordsworth's Country"}
+{"ID":"1900_a","Author":"M. J. B. Baddeley","Title_full":"Black's Shilling Guide to the English Lakes"}
+{"ID":"1904_a","Author":"Lt. Hammond","Title_full":"A Relation of a Short Survey of 26 Counties "}
+{"ID":"1968_a","Author":"William Gell ","Title_full":"A Tour in the Lakes, 1797"}
+{"ID":"1969_a","Author":"John Ruskin","Title_full":"The Iteriad; or, Three Weeks Among the Lakes"}
+{"ID":"1983_a","Author":"William Wilberforce","Title_full":"Journey to the Lake District from Cambridge"}
+{"ID":"1983_b","Author":"Richard Colt Hoare","Title_full":"The journeys of Sir Richard Colt Hoare through Wales and England"}
+
+You are a digital humanities research assistant. Your task is to find as many similar texts as you can (ideally several hundreds).
+
+Your selection should be representative of the period and have diverse authors and gender balance. The selection should also have a good balance of genres.
+
+There should be NO DUPLICATION with the current corpus.
+
+OUTPUT FORMAT (STRICT)
+
+Return ONLY JSONL (one valid JSON object per line). Each line must follow this schema:
+
+{
+  "title" : ,
+  "author" : ,
+  "gender" : ,
+  "genre" : ,
+  "year" : ,
+  "reason" : 
+}
+
+No markdown. No commentary. No surrounding structure. Only JSONL.
+
+REQUIREMENTS
+
+1. Scope of texts
+
+Include works from 1600 to the twentieth century (public domain only) with substantial Lake District content, including:
+
+- travel writing and tours
+- topographical and antiquarian works
+- guidebooks
+- geological surveys
+- natural history accounts
+- poetry collections focused on the Lake District
+- novels with significant Lake District setting
+- diaries, memoirs, letters
+- county histories (Cumberland, Westmorland, Furness)
+- mountaineering and walking literature
+- early modern chorographies and descriptions
+- tourism literature (18th–20th century)
+
+2. You can search any online catalogues including
+
+- WorldCat
+- Project Gutenberg 
+- Internet Archive 
+- British Library (only if direct file links exist)
+- Hathi Trust
+- Oxford text archive
+
+3. Lake District relevance rule
+
+Include only works where:
+
+- The Lake District is a central theme OR
+- At least ~20% of content concerns Lakeland geography, culture, travel, or history
+- Exclude trivial mentions.
+
+4. Deduplication rules
+
+Do NOT include duplicates:
+
+- multiple editions of same work (unless significantly different text)
+
+6. Accuracy constraints
+
+Do NOT hallucinate books or URLs
+Every entry must correspond to a real text
+If uncertain, exclude it
+
+7. Field definitions
+
+title: full work title
+author: primary author
+gender: M or F for Male or Female
+genre: category of classification
+year: publication year (use best-known estimate if necessary)
+reason: one sentence explaining Lake District relevance
+
+10. Example JSONL line
+
+{
+        "title" : "The English Lakes",
+        "author" : "W. T. Palmer",
+        "gender" : "M",
+        "genre" : "Guide",
+        "year" : 1906,
+        "reason": "Victorian walking guide covering major Lake District valleys and peaks"
+}
+
+
+The output should be written to texts.jsonl
+
+

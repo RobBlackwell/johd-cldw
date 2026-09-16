@@ -1,0 +1,54 @@
+Can AI Build (Better) Literary Corpora? — data and code
+=======================================================
+
+This repository contains software and data, licensed separately.
+
+
+1. Software — GPL-3.0-or-later
+------------------------------
+
+The code — the analysis scripts in `src/` and `bin/`, the Makefiles, and
+`pyproject.toml` — is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public Licence as published by the Free
+Software Foundation, either version 3 of the Licence, or (at your option) any
+later version.
+
+It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public Licence for more details.
+
+The full text of version 3 is in `LICENSE-GPL-3.0.txt`, and also at
+<https://www.gnu.org/licenses/gpl-3.0.html>.
+
+
+2. Everything else — CC BY-NC-SA 4.0
+------------------------------------
+
+All the non-software material — the prompts, the model responses under `data/`,
+the CLDW-derived data, and the generated figures and tables in `reports/` — is
+licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International Licence (CC BY-NC-SA 4.0), the same licence as the original
+Corpus of Lake District Writing (CLDW) on which it draws.
+
+    Deed:       http://creativecommons.org/licenses/by-nc-sa/4.0/
+    Legal code: http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+You are free to share and adapt this material for non-commercial purposes,
+provided you give appropriate credit and distribute your contributions under
+the same licence.
+
+Suggested attribution:
+
+    Blackwell, R., Taylor, J. E., Rayson, P., Gregory, I. N., Ezeani, I., &
+    Cohn, N. "Can AI Build (Better) Literary Corpora? Preliminary lessons from
+    the Corpus of Lake District Writing." Journal of Open Humanities Data.
+
+The CLDW is published by UCREL at Lancaster University
+(https://github.com/UCREL/LakeDistrictCorpus). As its creators request, work
+using it should also cite:
+
+    Rayson, P., Reinhold, A., Butler, J., Donaldson, C. E., Gregory, I. N., &
+    Taylor, J. E. (2017). A deeply annotated testbed for geographical text
+    analysis: The Corpus of Lake District Writing.
+    https://doi.org/10.1145/3149858.3149865
+

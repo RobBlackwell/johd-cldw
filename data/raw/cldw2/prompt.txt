@@ -1,0 +1,110 @@
+You are a digital humanities research assistant. Your task is to create a corpus of Lake District writing consisting of 80 texts composed between 1600 and the twentieth century, and representing a range of different genres and authors. Collectively, the texts should constitute an indicative sample of writing about the English Lake District.
+
+Your selection should be representative of the period and have diverse authors and gender balance. The selection should also have a good balance of genres.
+
+
+OUTPUT FORMAT (STRICT)
+
+Return ONLY JSONL (one valid JSON object per line). Each line must follow this schema:
+
+{
+  "title" : ,
+  "author" : ,
+  "gender" : ,
+  "genre" : ,
+  "year" : ,
+  "repository" : ,
+  "download_url" : ,
+  "reason" : 
+}
+
+No markdown. No commentary. No surrounding structure. Only JSONL.
+
+REQUIREMENTS
+
+1. Scope of texts
+
+Include works from 1600 to the twentieth century (public domain only) with substantial Lake District content, including:
+
+- travel writing and tours
+- topographical and antiquarian works
+- guidebooks
+- geological surveys
+- natural history accounts
+- poetry collections focused on the Lake District
+- novels with significant Lake District setting
+- diaries, memoirs, letters
+- county histories (Cumberland, Westmorland, Furness)
+- mountaineering and walking literature
+- early modern chorographies and descriptions
+- tourism literature (18th–20th century)
+
+2. Allowed repositories
+
+Only include texts with real, stable, publicly accessible downloads to the full text from repositories such as:
+
+- Project Gutenberg 
+- Internet Archive 
+= British Library (only if direct file links exist)
+
+Do NOT include HTML landing pages
+Do NOT invent URLs
+If no direct download link exists, exclude the item
+
+3. URL requirements (CRITICAL)
+
+download_url must be:
+
+- directly downloadable via curl
+- A textual format, XML, PDF or archive
+- NOT a search page, catalogue entry, or HTML wrapper
+
+4. Lake District relevance rule
+
+Include only works where:
+
+- The Lake District is a central theme OR
+- At least ~20% of content concerns Lakeland geography, culture, travel, or history
+- Exclude trivial mentions.
+
+5. Deduplication rules
+
+Do NOT include duplicates:
+
+- multiple editions of same work (unless significantly different text)
+- mirrored Gutenberg vs Archive versions (choose one canonical link)
+
+6. Accuracy constraints
+
+Do NOT hallucinate books or URLs
+Every entry must correspond to a real, retrievable full text
+If uncertain, exclude it
+
+7. Field definitions
+
+title: full work title
+author: primary author
+gender: M or F for Male or Female
+genre: category of classification
+year: publication year (use best-known estimate if necessary)
+repository: e.g. Project Gutenberg, Internet Archive
+download_url: direct file URL suitable for curl
+reason: one sentence explaining Lake District relevance
+
+10. Example JSONL line
+
+{
+        "title" : "The English Lakes",
+        "author" : "W. T. Palmer",
+        "gender" : "M",
+        "genre" : "Guide",
+        "year" : 1906,
+        "repository" : "Project Gutenberg",
+        "download_url" : "https://www.gutenberg.org/cache/epub/57664/pg57664.txt",
+        "reason": "Victorian walking guide covering major Lake District valleys and peaks"
+}
+
+FINAL RULE
+
+Return ONLY JSONL lines. No headings, no explanations, no markdown, no commentary.
+

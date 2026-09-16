@@ -1,0 +1,2528 @@
+{
+  "title": "Britannia, or a Chorographicall Description of the Most Flourishing Kingdomes, England, Scotland, and Ireland",
+  "author": "William Camden",
+  "gender": "M",
+  "genre": "Chorography",
+  "year": 1610,
+  "reason": "Earliest sustained English chorography of Cumberland and Westmorland, describing the mountains, lakes and Roman remains of the region."
+}
+{
+  "title": "The Theatre of the Empire of Great Britaine",
+  "author": "John Speed",
+  "gender": "M",
+  "genre": "Chorography",
+  "year": 1611,
+  "reason": "County-by-county survey with maps and descriptive text for Cumberland and Westmorland, including Derwentwater and the northern fells."
+}
+{
+  "title": "The History of the Worthies of England",
+  "author": "Thomas Fuller",
+  "gender": "M",
+  "genre": "Chorography",
+  "year": 1662,
+  "reason": "Contains separate chapters on Cumberland and Westmorland describing their natural commodities, wonders and notable natives."
+}
+{
+  "title": "Strange Newes from Westmoreland",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Pamphlet",
+  "year": 1663,
+  "reason": "Sensational news pamphlet set in a Westmorland village, an early example of popular writing about the region."
+}
+{
+  "title": "Britannia, or a Geographical Description of the Kingdoms of England, Scotland and Ireland",
+  "author": "Richard Blome",
+  "gender": "M",
+  "genre": "Chorography",
+  "year": 1673,
+  "reason": "Restoration topographical description with sections on Cumberland and Westmorland, their lakes, mountains and market towns."
+}
+{
+  "title": "A Cursory Relation of All the Antiquities and Familyes in Cumberland",
+  "author": "Edmund Sandford",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1890,
+  "reason": "Late seventeenth-century manuscript survey of Cumberland's castles, halls and gentry families, printed by the CWAAS in 1890."
+}
+{
+  "title": "A Letter from Mr Thomas Machel of Kirkbythore in Westmorland to Sr W. D. concerning Some Antiquities Found There",
+  "author": "Thomas Machel",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1684,
+  "reason": "Reports Roman and other antiquities in the Eden valley of Westmorland to the Royal Society."
+}
+{
+  "title": "Description of the County of Westmorland",
+  "author": "Sir Daniel Fleming",
+  "gender": "M",
+  "genre": "Topography",
+  "year": 1882,
+  "reason": "Manorial and topographical description of Westmorland by the Rydal squire, edited for the CWAAS by Sir George Duckett in 1882."
+}
+{
+  "title": "An Essay towards a Natural History of Westmorland and Cumberland",
+  "author": "Thomas Robinson",
+  "gender": "M",
+  "genre": "Natural History",
+  "year": 1709,
+  "reason": "First systematic natural history of the two Lakeland counties, covering minerals, mountains, lakes and springs."
+}
+{
+  "title": "An Essay towards a Natural, Experimental and Medicinal History of the Principal Mineral Waters of Cumberland, Northumberland and Westmorland",
+  "author": "Thomas Short",
+  "gender": "M",
+  "genre": "Natural History",
+  "year": 1740,
+  "reason": "Analyses the mineral springs of the Lakeland counties with topographical description of their settings."
+}
+{
+  "title": "A Miscellany of Poems, consisting of Original Poems, Translations, Pastorals in the Cumberland Dialect",
+  "author": "Josiah Relph",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1747,
+  "reason": "Pioneering collection of Cumberland dialect pastorals by a Sebergham curate, foundational for Lakeland vernacular verse."
+}
+{
+  "title": "An Account of a Surprising Inundation in the Valley of St John's near Keswick in Cumberland",
+  "author": "John Lock",
+  "gender": "M",
+  "genre": "Natural History",
+  "year": 1749,
+  "reason": "Eyewitness scientific account of a cloudburst and flood in the vale of St John's near Keswick."
+}
+{
+  "title": "Vallum Romanum: or, the History and Antiquities of the Roman Wall, commonly called the Picts Wall, in Cumberland and Northumberland",
+  "author": "John Warburton",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1753,
+  "reason": "Antiquarian survey of the Roman Wall through Cumberland, with observations on the county's Roman stations."
+}
+{
+  "title": "Designs and Estimates of Farm Houses for the County of York, Northumberland, Cumberland, Westmoreland and Bishoprick of Durham",
+  "author": "Daniel Garret",
+  "gender": "M",
+  "genre": "Agriculture",
+  "year": 1772,
+  "reason": "Architectural pattern book for the farmsteads of Cumberland and Westmorland, documenting Lakeland vernacular building."
+}
+{
+  "title": "The Antiquities of Furness; or, an Account of the Royal Abbey of St Mary in the Vale of Nightshade",
+  "author": "Thomas West",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1774,
+  "reason": "The standard antiquarian history of Furness Abbey and the Furness fells by the author of the Guide to the Lakes."
+}
+{
+  "title": "The History and Antiquities of the Counties of Westmorland and Cumberland",
+  "author": "Joseph Nicolson and Richard Burn",
+  "gender": "M",
+  "genre": "County History",
+  "year": 1777,
+  "reason": "The great eighteenth-century county history of the two Lakeland counties, parish by parish."
+}
+{
+  "title": "Sketch of a Tour into Derbyshire and Yorkshire, including part of Buckingham, Warwick, Leicester, Nottingham, Northampton, Lincoln, Westmoreland and Lancaster",
+  "author": "William Bray",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1783,
+  "reason": "Tour narrative including an excursion to the Cumberland and Westmorland lakes at the height of picturesque tourism."
+}
+{
+  "title": "A Choice Collection of Poems in the Cumberland Dialect",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Poetry",
+  "year": 1780,
+  "reason": "Early anthology of Cumberland dialect verse, including Relph's pastorals, printed for a regional readership."
+}
+{
+  "title": "The Cumbrian Festival: a Poem. By a Cumbrian",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Poetry",
+  "year": 1783,
+  "reason": "Occasional poem celebrating Cumbrian customs and landscape by an anonymous native of the county."
+}
+{
+  "title": "Copy of a Letter wrote by a Young Shepherd to his Friend in Borrowdale",
+  "author": "Isaac Ritson",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1788,
+  "reason": "Celebrated Cumberland dialect letter set in Borrowdale, with a glossary of the local speech."
+}
+{
+  "title": "The Westmorland Dialect in Three Familiar Dialogues",
+  "author": "Ann Wheeler",
+  "gender": "F",
+  "genre": "Dialect",
+  "year": 1790,
+  "reason": "The first printed representation of Westmorland speech, in dialogues of rural life around Kendal."
+}
+{
+  "title": "The Lake of Windermere: a Novel",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Novel",
+  "year": 1791,
+  "reason": "Sentimental novel taking Windermere and its shores as its setting during the first wave of Lakes tourism."
+}
+{
+  "title": "The Carpenter's Daughter of Derham-Down; or, Sketches on the Banks of Windermere",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Novel",
+  "year": 1792,
+  "reason": "Novel of rural life explicitly located on the banks of Windermere."
+}
+{
+  "title": "An Evening Walk: An Epistle in Verse, addressed to a Young Lady, from the Lakes of the North of England",
+  "author": "William Wordsworth",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1793,
+  "reason": "Wordsworth's first published poem, a descriptive walk through the Esthwaite and Windermere landscape of his boyhood."
+}
+{
+  "title": "General View of the Agriculture of the County of Westmorland",
+  "author": "Andrew Pringle",
+  "gender": "M",
+  "genre": "Agriculture",
+  "year": 1794,
+  "reason": "Board of Agriculture report on Westmorland farming, enclosure, dales husbandry and the statesman class."
+}
+{
+  "title": "General View of the Agriculture of the County of Cumberland",
+  "author": "John Bailey and George Culley",
+  "gender": "M",
+  "genre": "Agriculture",
+  "year": 1794,
+  "reason": "Board of Agriculture survey of Cumberland farming, including fell grazing, Herdwick sheep and mountain land use."
+}
+{
+  "title": "The History of the County of Cumberland, and Some Places Adjacent",
+  "author": "William Hutchinson",
+  "gender": "M",
+  "genre": "County History",
+  "year": 1794,
+  "reason": "Monumental county history of Cumberland with extensive description of the lakes, dales and mountain parishes."
+}
+{
+  "title": "Windermere: a Poem",
+  "author": "Joseph Budworth",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1798,
+  "reason": "Verse celebration of Windermere by the author of A Fortnight's Ramble to the Lakes."
+}
+{
+  "title": "Lyrical Ballads, with a Few Other Poems",
+  "author": "William Wordsworth and Samuel Taylor Coleridge",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1798,
+  "reason": "Includes poems of Lakeland places and dales characters such as The Brothers, Michael and Poems on the Naming of Places."
+}
+{
+  "title": "A Companion and Useful Guide to the Beauties of Scotland, the Lakes of Westmoreland, Cumberland and Lancashire",
+  "author": "Sarah Murray",
+  "gender": "F",
+  "genre": "Guide",
+  "year": 1799,
+  "reason": "Practical guide to the Lakes by an intrepid woman traveller, with detailed routes and road conditions."
+}
+{
+  "title": "A Descriptive Tour and Guide to the Lakes, Caves, Mountains and Other Natural Curiosities in Cumberland, Westmoreland, Lancashire and a part of the West Riding of Yorkshire",
+  "author": "John Housman",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1800,
+  "reason": "Native Cumbrian's guidebook to the lakes, caves and mountains, distinct from his topographical description."
+}
+{
+  "title": "Cumberland Ballads",
+  "author": "Robert Anderson",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1805,
+  "reason": "The classic collection of Cumberland dialect ballads depicting fairs, weddings and dales manners."
+}
+{
+  "title": "Miscellaneous Poems, some of which are in the Cumberland Dialect",
+  "author": "John Stagg",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1805,
+  "reason": "Poems by the blind Wigton minstrel on Cumberland customs, landscape and legend."
+}
+{
+  "title": "Fragments in Prose and Verse",
+  "author": "Elizabeth Smith",
+  "gender": "F",
+  "genre": "Letters",
+  "year": 1810,
+  "reason": "Journals, letters and translations of a young scholar living at Coniston, with descriptions of the Coniston fells."
+}
+{
+  "title": "Select Views in Cumberland, Westmoreland and Lancashire",
+  "author": "Joseph Wilkinson",
+  "gender": "M",
+  "genre": "Views",
+  "year": 1810,
+  "reason": "Plates of Lake District scenery for which Wordsworth wrote the introduction that became his Guide to the Lakes."
+}
+{
+  "title": "A Description of Sixty Studies from Nature",
+  "author": "William Green",
+  "gender": "M",
+  "genre": "Views",
+  "year": 1810,
+  "reason": "Letterpress descriptions of Lake District scenes by the Ambleside artist who knew the district intimately."
+}
+{
+  "title": "A Topographical and Historical Description of the County of Westmorland",
+  "author": "John Hodgson",
+  "gender": "M",
+  "genre": "Topography",
+  "year": 1810,
+  "reason": "Systematic topographical account of Westmorland's towns, castles, antiquities and mountain scenery."
+}
+{
+  "title": "Cumbrian Legends; or, Tales of Other Times",
+  "author": "Mrs F. Ryves",
+  "gender": "F",
+  "genre": "Poetry",
+  "year": 1812,
+  "reason": "Verse legends drawn from the traditions and landscape of Cumberland."
+}
+{
+  "title": "The Excursion, being a portion of The Recluse",
+  "author": "William Wordsworth",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1814,
+  "reason": "Long philosophical poem set among the dales, churchyards and fells of the Lake District."
+}
+{
+  "title": "Magna Britannia, Volume IV: Cumberland",
+  "author": "Daniel Lysons and Samuel Lysons",
+  "gender": "M",
+  "genre": "County History",
+  "year": 1816,
+  "reason": "Detailed parochial history and topography of Cumberland in the Lysons brothers' national county series."
+}
+{
+  "title": "The Minstrel of the North; or, Cumbrian Legends",
+  "author": "John Stagg",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1816,
+  "reason": "Poetical miscellany of legendary and romantic tales rooted in Cumberland places and folklore."
+}
+{
+  "title": "The Tourist's New Guide, containing a Description of the Lakes, Mountains and Scenery in Cumberland, Westmorland and Lancashire",
+  "author": "William Green",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1819,
+  "reason": "Two-volume guide by a resident Ambleside artist, unusually detailed on fell paths and dales settlements."
+}
+{
+  "title": "The Remains of John Briggs: containing Letters from the Lakes, Westmorland as it was, Theological Essays, Tales and Poems",
+  "author": "John Briggs",
+  "gender": "M",
+  "genre": "Essays",
+  "year": 1825,
+  "reason": "Collected essays, letters and tales of Lakeland life by a Westmorland-born journalist."
+}
+{
+  "title": "Tales of Instruction and Amusement, comprising The Garden, a Cumberland Tale",
+  "author": "Jane Bourne",
+  "gender": "F",
+  "genre": "Short stories",
+  "year": 1830,
+  "reason": "Moral tales for young readers with a substantial narrative set in rural Cumberland."
+}
+{
+  "title": "An Account of the Mining Districts of Alston Moor, Weardale and Teesdale in Cumberland and Durham",
+  "author": "Thomas Sopwith",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1833,
+  "reason": "Geological and mining survey of the Cumberland fells of Alston Moor and their lead-mining communities."
+}
+{
+  "title": "Westmorland, Cumberland, Durham and Northumberland Illustrated",
+  "author": "Thomas Rose",
+  "gender": "M",
+  "genre": "Topography",
+  "year": 1832,
+  "reason": "Descriptive letterpress to Allom's engravings of Lakeland lakes, passes, abbeys and towns."
+}
+{
+  "title": "Scenes and Recollections of Fly-Fishing in Northumberland, Cumberland and Westmoreland",
+  "author": "William Andrew Chatto",
+  "gender": "M",
+  "genre": "Sport",
+  "year": 1834,
+  "reason": "Angling narrative through the rivers and lakes of Cumberland and Westmorland with landscape description."
+}
+{
+  "title": "The Maid of Skiddaw, Songs of Palestine, and Other Poems",
+  "author": "Thomas Bourne",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1836,
+  "reason": "Title poem is a legendary narrative set beneath Skiddaw above Keswick."
+}
+{
+  "title": "Rush-Bearing Sunday: A Sermon Preached in the Chapel of Ambleside",
+  "author": "Frederick William Faber",
+  "gender": "M",
+  "genre": "Sermon",
+  "year": 1838,
+  "reason": "Sermon on the Ambleside rushbearing, documenting a distinctive Lakeland parish custom."
+}
+{
+  "title": "A Description of Scenery in the Lake District, intended as a Guide to Strangers",
+  "author": "William Ford",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1839,
+  "reason": "Compact Victorian guide to the whole Lake District, frequently reprinted from Carlisle."
+}
+{
+  "title": "Westmoreland and Cumberland Dialects: Dialogues, Poems, Songs and Ballads by Various Writers",
+  "author": "John Russell Smith",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1839,
+  "reason": "Anthology of dialect writing from the two Lakeland counties with a comprehensive glossary."
+}
+{
+  "title": "Rambles at Home: being a Tour to a Few of the Principal Manufacturing Towns of England and to the Lakes of Westmoreland and Cumberland",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Travel",
+  "year": 1840,
+  "reason": "Victorian tour narrative devoting a substantial section to the Westmorland and Cumberland lakes."
+}
+{
+  "title": "The Poetical Works of Susanna Blamire, 'The Muse of Cumberland'",
+  "author": "Susanna Blamire",
+  "gender": "F",
+  "genre": "Poetry",
+  "year": 1842,
+  "reason": "Collected songs and poems of the eighteenth-century Cumberland poet, many in the county dialect and rooted in local places."
+}
+{
+  "title": "A Complete Guide to the Lakes, comprising Minute Directions for the Tourist, with Mr Wordsworth's Description of the Scenery and Three Letters on the Geology of the Lake District by Adam Sedgwick",
+  "author": "John Hudson",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1842,
+  "reason": "Standard Kendal guidebook that first printed Sedgwick's geological letters on the Lake District."
+}
+{
+  "title": "The Recreations of Christopher North",
+  "author": "John Wilson",
+  "gender": "M",
+  "genre": "Essays",
+  "year": 1842,
+  "reason": "Essays and sporting sketches by the Elleray-based 'Christopher North', much of it on Windermere and the fells."
+}
+{
+  "title": "The History and Antiquities of Allerdale Ward above Derwent, in the County of Cumberland",
+  "author": "Samuel Jefferson",
+  "gender": "M",
+  "genre": "County History",
+  "year": 1842,
+  "reason": "Parish-by-parish history of the Cumberland ward containing Keswick, Borrowdale and Derwentwater."
+}
+{
+  "title": "On the Meteorology of the Lake District of Cumberland and Westmoreland",
+  "author": "John Fletcher Miller",
+  "gender": "M",
+  "genre": "Meteorology",
+  "year": 1843,
+  "reason": "Pioneering rainfall and weather observations made at Whitehaven, Seathwaite and on the Lakeland fells."
+}
+{
+  "title": "James Hatfield and the Beauty of Buttermere: a Story of Modern Times",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Novel",
+  "year": 1841,
+  "reason": "Popular fictionalised account of the Buttermere impostor, one of the most famous Lakeland stories of the age."
+}
+{
+  "title": "The Tourists' Manual",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Guide",
+  "year": 1845,
+  "reason": "Ulverston-printed handbook directing visitors over the sands to Furness Abbey and the southern lakes."
+}
+{
+  "title": "Daniel Dennison, and the Cumberland Statesman",
+  "author": "Barbara Hofland",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1846,
+  "reason": "Domestic novel built around the life of a Cumberland 'statesman' farming family."
+}
+{
+  "title": "Coniston Hall; or, The Jacobites: A Historical Tale",
+  "author": "William Gresley",
+  "gender": "M",
+  "genre": "Novel",
+  "year": 1846,
+  "reason": "Historical novel of the 1745 rising centred on Coniston in the southern Lake District."
+}
+{
+  "title": "Sylvan's Pictorial Handbook to the English Lakes",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Guide",
+  "year": 1847,
+  "reason": "Mid-Victorian illustrated tourist handbook to the lakes and mountains of Cumberland and Westmorland."
+}
+{
+  "title": "Hand-book to the English Lakes",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Guide",
+  "year": 1847,
+  "reason": "Kendal-published pocket handbook of routes, distances and viewpoints in the Lake District."
+}
+{
+  "title": "Windermere: A Poem, and Sonnets",
+  "author": "Mortimer Collins",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1848,
+  "reason": "Extended poetic meditation on Windermere and the surrounding Westmorland landscape."
+}
+{
+  "title": "The Worthies of Westmorland; or, Notable Persons born in that County since the Reformation",
+  "author": "George Atkinson",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1849,
+  "reason": "Collective biography of notable Westmorland natives, with much local topography and family history."
+}
+{
+  "title": "An Excursion from Lancaster up the Vale of Lune, and from Kirkby Lonsdale to the Caves of Yorkshire",
+  "author": "Henry Harrison Davis",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1849,
+  "reason": "Excursion narrative through the Lune valley and Kirkby Lonsdale on the southern edge of Westmorland."
+}
+{
+  "title": "Grasmere Rush-bearing",
+  "author": "Edward Button",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1850,
+  "reason": "Poem describing the Grasmere rushbearing ceremony, a central Lakeland folk custom."
+}
+{
+  "title": "The Prelude; or, Growth of a Poet's Mind",
+  "author": "William Wordsworth",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1850,
+  "reason": "Autobiographical epic whose formative scenes are the lakes, fells and dales of Cumberland and Westmorland."
+}
+{
+  "title": "Memoirs of William Wordsworth, Poet-Laureate",
+  "author": "Christopher Wordsworth",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1851,
+  "reason": "Authorised life of Wordsworth, extensively documenting his residences and walks at Grasmere and Rydal."
+}
+{
+  "title": "Tales and Legends of the English Lakes and Mountains",
+  "author": "Wilson Armistead",
+  "gender": "M",
+  "genre": "Folklore",
+  "year": 1852,
+  "reason": "Collected legends and traditions attached to particular Lakeland lakes, mountains and valleys."
+}
+{
+  "title": "A Handbook of the Whitehaven and Furness Railway, being a Guide to the Lake District of West Cumberland",
+  "author": "John Linton",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1852,
+  "reason": "Railway guide describing the west Cumberland coast and the approaches to Ennerdale, Wasdale and Eskdale."
+}
+{
+  "title": "Black's Picturesque Guide to the English Lakes, including an Essay on the Geology of the District",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Guide",
+  "year": 1853,
+  "reason": "The most widely used Victorian guide to the Lakes, with John Phillips's geological essay."
+}
+{
+  "title": "The History of the Church of Crosthwaite, Cumberland",
+  "author": "Henry Manders",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1853,
+  "reason": "Parish history of Crosthwaite, the mother church of Keswick and Borrowdale."
+}
+{
+  "title": "Cwm Dhu; or, The Black Dingle. Windermere. The Curse of Earth, and Other Poems",
+  "author": "William Peach",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1853,
+  "reason": "Collection whose title sequence includes an extended descriptive poem on Windermere."
+}
+{
+  "title": "Guide to Windermere, with Tours to the Neighbouring Lakes and Other Interesting Places",
+  "author": "Harriet Martineau",
+  "gender": "F",
+  "genre": "Guide",
+  "year": 1854,
+  "reason": "Ambleside resident's guide to Windermere and its neighbourhood, preceding her fuller Complete Guide."
+}
+{
+  "title": "Henllywarc, or 'The Druids' Temple' near Keswick: A Poem",
+  "author": "George Newby",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1854,
+  "reason": "Narrative poem on the Castlerigg stone circle above Keswick."
+}
+{
+  "title": "The Northmen in Cumberland and Westmoreland",
+  "author": "Robert Ferguson",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1856,
+  "reason": "Study of Norse settlement and place-names in the Lake District counties."
+}
+{
+  "title": "Cumberland and Westmorland, Ancient and Modern: the People, Dialect, Superstitions and Customs",
+  "author": "Jeremiah Sullivan",
+  "gender": "M",
+  "genre": "Folklore",
+  "year": 1857,
+  "reason": "Classic account of Lakeland popular culture, dialect, belief and custom by a Kendal writer."
+}
+{
+  "title": "The Angler in the Lake District; or, Piscatory Colloquies and Fishing Excursions in Westmoreland and Cumberland",
+  "author": "John Davy",
+  "gender": "M",
+  "genre": "Sport",
+  "year": 1857,
+  "reason": "Angling dialogues and excursions on the lakes and rivers of Westmorland and Cumberland, with natural history."
+}
+{
+  "title": "Miscellaneous Poems and Ballads, chiefly in the Dialects of Cumberland and the English and Scotch Borders",
+  "author": "John Rayson",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1858,
+  "reason": "Dialect poems and ballads of Cumberland rural life and border tradition."
+}
+{
+  "title": "Lake Scenery of England",
+  "author": "James Baker Pyne",
+  "gender": "M",
+  "genre": "Views",
+  "year": 1859,
+  "reason": "Chromolithographic series of Lake District views with descriptive letterpress."
+}
+{
+  "title": "Chapel Island; or, An Adventure on Ulverstone Sands",
+  "author": "Edwin Waugh",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1860,
+  "reason": "Narrative of a crossing of the Leven sands to Chapel Island on the southern approach to the Lakes."
+}
+{
+  "title": "A Guide to the Mountains, Lakes and North-West Coast of England",
+  "author": "Mackenzie E. C. Walcott",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1860,
+  "reason": "Descriptive guide combining Lakeland scenery with archaeological and ecclesiastical notes."
+}
+{
+  "title": "The History and Topography of the Counties of Cumberland and Westmoreland",
+  "author": "William Whellan",
+  "gender": "M",
+  "genre": "County History",
+  "year": 1860,
+  "reason": "Comprehensive directory-history of every parish and township in the two Lakeland counties."
+}
+{
+  "title": "The Annals of Kendal: being a Historical and Descriptive Account of Kendal and the Neighbourhood",
+  "author": "Cornelius Nicholson",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1861,
+  "reason": "Standard history of Kendal, the southern gateway town of the Lake District."
+}
+{
+  "title": "Recollections of the Lakes and the Lake Poets: Coleridge, Wordsworth and Southey",
+  "author": "Thomas De Quincey",
+  "gender": "M",
+  "genre": "Memoir",
+  "year": 1862,
+  "reason": "Insider memoir of Grasmere and Keswick life and of the Lake Poets by a resident of Dove Cottage."
+}
+{
+  "title": "The Lake Country",
+  "author": "Eliza Lynn Linton",
+  "gender": "F",
+  "genre": "Travel",
+  "year": 1864,
+  "reason": "Full-length descriptive tour of the Lake District by a Cumberland-born writer, illustrated by W. J. Linton."
+}
+{
+  "title": "The Life of John Hatfield, commonly called the Keswick Impostor",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Biography",
+  "year": 1864,
+  "reason": "Life and trial of the forger who married the Beauty of Buttermere, set in Keswick and Buttermere."
+}
+{
+  "title": "The Ferns of the English Lake Country",
+  "author": "William James Linton",
+  "gender": "M",
+  "genre": "Natural History",
+  "year": 1865,
+  "reason": "Field botany of Lakeland ferns with locality notes from across the district."
+}
+{
+  "title": "Specimens of the Westmorland Dialect, consisting of T' Reysh Bearin and Jonny Shippard's Journa to Lunnan",
+  "author": "Thomas Clarke",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1865,
+  "reason": "Dialect pieces on the Westmorland rushbearing and a countryman's journey to London."
+}
+{
+  "title": "The Fells of Swarthmoor Hall and their Friends",
+  "author": "Maria Webb",
+  "gender": "F",
+  "genre": "Biography",
+  "year": 1865,
+  "reason": "History of the Fell family of Swarthmoor Hall in Furness and the origins of Quakerism there."
+}
+{
+  "title": "The Songs and Ballads of Cumberland, to which are added Dialect and Other Poems",
+  "author": "Sidney Gilpin",
+  "gender": "M",
+  "genre": "Anthology",
+  "year": 1866,
+  "reason": "The standard anthology of Cumberland song and dialect verse, with biographies of the poets."
+}
+{
+  "title": "Transactions of the Cumberland and Westmorland Antiquarian and Archaeological Society",
+  "author": "Cumberland and Westmorland Antiquarian and Archaeological Society",
+  "gender": "U",
+  "genre": "Antiquarian",
+  "year": 1866,
+  "reason": "Founding volume of the learned society devoted to the archaeology and history of the Lake District counties."
+}
+{
+  "title": "The Worthies of Cumberland",
+  "author": "Henry Lonsdale",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1867,
+  "reason": "Multi-volume collective biography of notable Cumbrians with detailed local and topographical background."
+}
+{
+  "title": "The North Lonsdale Magazine and Lake District Miscellany",
+  "author": "James P. Morris",
+  "gender": "M",
+  "genre": "Periodical",
+  "year": 1867,
+  "reason": "Regional miscellany of history, dialect and topography for Furness and the Lake District."
+}
+{
+  "title": "Legends of Westmorland and the Lake District",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Folklore",
+  "year": 1868,
+  "reason": "Collection of legendary tales attached to Westmorland and Lake District localities."
+}
+{
+  "title": "Handbook for Travellers in Westmorland, Cumberland and the Lakes",
+  "author": "John Murray (publisher)",
+  "gender": "U",
+  "genre": "Guide",
+  "year": 1869,
+  "reason": "Murray's authoritative red handbook to the Lake District, with routes, walks and antiquities."
+}
+{
+  "title": "The Folk-Speech of Cumberland and Some Districts Adjacent",
+  "author": "Alexander Craig Gibson",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1869,
+  "reason": "Stories and rhymes in the dialects of west Cumberland and the Lakeland dales."
+}
+{
+  "title": "A Glossary of the Words and Phrases of Furness (North Lancashire)",
+  "author": "James P. Morris",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1869,
+  "reason": "Dialect glossary of the Furness fells and coast within the historic Lake District."
+}
+{
+  "title": "Geological Fragments collected principally from Rambles among the Rocks of Furness and Cartmel",
+  "author": "John Bolton",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1869,
+  "reason": "Field geology of the Furness and Cartmel districts on the southern edge of the Lakes."
+}
+{
+  "title": "The Lakes of England",
+  "author": "W. F. Topham",
+  "gender": "M",
+  "genre": "Views",
+  "year": 1869,
+  "reason": "Illustrated descriptive volume on the principal English lakes and their surrounding scenery."
+}
+{
+  "title": "Wrestliana; or, The History of the Cumberland and Westmorland Wrestling Society in London since 1824",
+  "author": "Walter Armstrong",
+  "gender": "M",
+  "genre": "Sport",
+  "year": 1870,
+  "reason": "History of Cumberland and Westmorland wrestling, the district's characteristic sport, with dales biographies."
+}
+{
+  "title": "Early Cumberland and Westmorland Friends: A Series of Biographical Sketches",
+  "author": "Richard Saul Ferguson",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1871,
+  "reason": "Lives of the first Quakers of the Lake District counties, including the Swarthmoor circle."
+}
+{
+  "title": "Glacial Drift of the Central Part of the Lake District, up to 2800 Feet above the Sea",
+  "author": "Daniel Mackintosh",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1872,
+  "reason": "Field study of glacial deposits on the central Lake District fells."
+}
+{
+  "title": "Shaw's Tourist's Picturesque Guide to the English Lakes",
+  "author": "George Shaw",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1873,
+  "reason": "Illustrated tourist guide to Windermere, Furness Abbey and the lakes for railway visitors."
+}
+{
+  "title": "Lays and Legends of the English Lake Country, with Copious Notes",
+  "author": "John Pagen White",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1873,
+  "reason": "Verse renderings of Lakeland legends with extensive antiquarian annotation."
+}
+{
+  "title": "The Dialect of Cumberland, with a Chapter on its Place-Names",
+  "author": "Robert Ferguson",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1873,
+  "reason": "Philological study of Cumberland speech and the Norse element in Lakeland place-names."
+}
+{
+  "title": "History of Methodism in Ambleside",
+  "author": "Myles Holmes",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1873,
+  "reason": "Congregational history of a central Lakeland town at the head of Windermere."
+}
+{
+  "title": "The Baron of Borrowdale and Other Poems",
+  "author": "Charles Bennett",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1874,
+  "reason": "Title narrative poem set in Borrowdale, with other verse on Lakeland subjects."
+}
+{
+  "title": "Echoes of Old Cumberland: Poems and Translations",
+  "author": "Mary Powley",
+  "gender": "F",
+  "genre": "Poetry",
+  "year": 1875,
+  "reason": "Poems on Cumberland places, traditions and dales life by a Langwathby writer."
+}
+{
+  "title": "The Geology of the Northern Part of the English Lake District",
+  "author": "James Clifton Ward",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1876,
+  "reason": "Geological Survey memoir on Skiddaw, Borrowdale and the northern Lakeland fells."
+}
+{
+  "title": "A Protest against the Extension of Railways in the Lake District",
+  "author": "Robert Somervell",
+  "gender": "M",
+  "genre": "Conservation",
+  "year": 1876,
+  "reason": "Foundational Lake District preservation pamphlet, with a prefatory letter from Ruskin."
+}
+{
+  "title": "The History and Traditions of Ravenstonedale, Westmorland",
+  "author": "W. Nicholls",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1877,
+  "reason": "Detailed history, customs and traditions of a Westmorland fell parish."
+}
+{
+  "title": "The Manchester and Thirlmere Scheme: An Appeal to the Public on the Facts of the Case",
+  "author": "Robert Somervell",
+  "gender": "M",
+  "genre": "Conservation",
+  "year": 1878,
+  "reason": "Campaign pamphlet against the damming of Thirlmere for Manchester's water supply."
+}
+{
+  "title": "The English Lake District as Interpreted in the Poems of Wordsworth",
+  "author": "William Angus Knight",
+  "gender": "M",
+  "genre": "Literary topography",
+  "year": 1878,
+  "reason": "Systematic identification of the Lakeland places named or described in Wordsworth's poetry."
+}
+{
+  "title": "A Glossary of Words and Phrases pertaining to the Dialect of Cumberland",
+  "author": "William Dickinson",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1878,
+  "reason": "Standard dialect dictionary of Cumberland by the author of Cumbriana."
+}
+{
+  "title": "Tourists' Guide to the English Lake District",
+  "author": "Henry Irwin Jenkinson",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1879,
+  "reason": "Exceptionally detailed walkers' guide covering fell routes throughout the district."
+}
+{
+  "title": "Gate's New Shepherd's Guide for Cumberland, Westmoreland and Lancashire",
+  "author": "Daniel Gate",
+  "gender": "M",
+  "genre": "Agriculture",
+  "year": 1879,
+  "reason": "Register of Lakeland sheep smit marks farm by farm, documenting fell-farming practice."
+}
+{
+  "title": "Lakeland: A Descriptive Poem in Four Cantos",
+  "author": "John Smyth",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1879,
+  "reason": "Extended descriptive poem surveying the scenery of the English Lake District."
+}
+{
+  "title": "The Echoes of the Lakes and Mountains; or, Wonderful Things in the Lake District",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Guide",
+  "year": 1880,
+  "reason": "Companion volume to the guidebooks gathering curiosities, echoes and wonders of the Lake District."
+}
+{
+  "title": "Pre-historic Remains in the Lake District",
+  "author": "W. Kinsey Dover",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1880,
+  "reason": "Paper to the Keswick Literary and Scientific Society on the stone circles and prehistoric sites of the district."
+}
+{
+  "title": "The Thorough Guide to the English Lake District",
+  "author": "M. J. B. Baddeley",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1880,
+  "reason": "The most exact of Victorian walking guides to the Lakes, with contour maps and fell routes."
+}
+{
+  "title": "Handy Guide to the English Lakes and Shap Spa",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Guide",
+  "year": 1880,
+  "reason": "Pocket guide linking the Westmorland spa at Shap with tours of the principal lakes."
+}
+{
+  "title": "The Curwens of Workington Hall and Kindred Families",
+  "author": "William Jackson",
+  "gender": "M",
+  "genre": "Family History",
+  "year": 1880,
+  "reason": "History of a leading west Cumberland family and their estates around Workington and Windermere."
+}
+{
+  "title": "Observations on the Heron and the Heronry at Dallam Tower, Westmorland",
+  "author": "Thomas Gough",
+  "gender": "M",
+  "genre": "Natural History",
+  "year": 1880,
+  "reason": "Detailed natural-history study of a long-established Westmorland heronry."
+}
+{
+  "title": "Sonnets at the English Lakes",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1881,
+  "reason": "Sonnet sequence on Lakeland places written by the vicar of Crosthwaite, Keswick."
+}
+{
+  "title": "Wordsworth",
+  "author": "Frederic William Henry Myers",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1881,
+  "reason": "English Men of Letters life of Wordsworth, closely tied to the Grasmere and Rydal landscape."
+}
+{
+  "title": "The Runic Crosses at Gosforth, Cumberland, Described and Explained",
+  "author": "Charles Arundel Parker",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1882,
+  "reason": "Study of the Viking-age sculpture of west Cumberland, notably the Gosforth Cross."
+}
+{
+  "title": "The Salmonidae of Westmorland: Angling Reminiscences and Leaves from an Angler's Note Book",
+  "author": "George Foster Braithwaite",
+  "gender": "M",
+  "genre": "Sport",
+  "year": 1884,
+  "reason": "Fifty years of angling on Windermere and the Westmorland rivers, with fish natural history."
+}
+{
+  "title": "A Flora of the English Lake District",
+  "author": "John Gilbert Baker",
+  "gender": "M",
+  "genre": "Natural History",
+  "year": 1885,
+  "reason": "The standard Victorian flora of the Lake District, with habitats and altitudinal ranges."
+}
+{
+  "title": "Thoughts and Recollections of Keswick and its Inhabitants during Sixty Years",
+  "author": "Samuel Ladyman",
+  "gender": "M",
+  "genre": "Memoir",
+  "year": 1885,
+  "reason": "Personal recollections of Keswick life and townspeople across six decades."
+}
+{
+  "title": "Chronicles of the Town and Church of Ulverston",
+  "author": "Charles Wareing Bardsley",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1885,
+  "reason": "History of Ulverston, the chief town of Furness at the southern edge of the Lakes."
+}
+{
+  "title": "The Shadow of a Crime: A Cumbrian Romance",
+  "author": "Hall Caine",
+  "gender": "M",
+  "genre": "Novel",
+  "year": 1885,
+  "reason": "Novel of seventeenth-century Cumberland set in Wythburn and the Vale of Newlands."
+}
+{
+  "title": "The Autobiography of Christopher Kirkland",
+  "author": "Eliza Lynn Linton",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1885,
+  "reason": "Thinly veiled autobiographical novel drawing on the author's upbringing at Crosthwaite near Keswick."
+}
+{
+  "title": "The Birds of Cumberland, critically studied, including some Notes on the Birds of Westmorland",
+  "author": "Hugh Alexander Macpherson",
+  "gender": "M",
+  "genre": "Natural History",
+  "year": 1886,
+  "reason": "County avifauna covering the fells, tarns and coastal marshes of Lakeland."
+}
+{
+  "title": "The Beckside Boggle and Other Lake Country Stories",
+  "author": "Alice Rea",
+  "gender": "F",
+  "genre": "Short stories",
+  "year": 1886,
+  "reason": "Short stories of dales life and supernatural tradition in the Lake Country."
+}
+{
+  "title": "Dorothy Wordsworth: The Story of a Sister's Love",
+  "author": "Edmund Lee",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1886,
+  "reason": "Life of Dorothy Wordsworth centred on the Grasmere and Rydal years."
+}
+{
+  "title": "Legends and Historical Notes on Places of North Westmoreland",
+  "author": "Thomas Gibson",
+  "gender": "M",
+  "genre": "Folklore",
+  "year": 1887,
+  "reason": "Legends, customs and local history of the fell parishes of northern Westmorland."
+}
+{
+  "title": "Hortus Inclusus: Messages from the Wood to the Garden, sent in Happy Days to the Sister Ladies of the Thwaite, Coniston",
+  "author": "John Ruskin",
+  "gender": "M",
+  "genre": "Letters",
+  "year": 1887,
+  "reason": "Ruskin's letters from Brantwood on Coniston Water to his Coniston neighbours."
+}
+{
+  "title": "Through the Wordsworth Country",
+  "author": "William Angus Knight",
+  "gender": "M",
+  "genre": "Literary topography",
+  "year": 1887,
+  "reason": "Illustrated topographical tour of the Wordsworth localities of Westmorland and Cumberland."
+}
+{
+  "title": "Robert Elsmere",
+  "author": "Mary Augusta Ward (Mrs Humphry Ward)",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1888,
+  "reason": "Bestselling novel whose opening books are set in the Westmorland dale of Long Whindale."
+}
+{
+  "title": "A Woman's Face; or, A Lakeland Mystery",
+  "author": "Florence Warden",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1888,
+  "reason": "Mystery novel set in the Lake District fells and dales."
+}
+{
+  "title": "North Country Poets: Poems and Biographies of Natives or Residents of Northumberland, Cumberland, Westmoreland, Durham, Lancashire and Yorkshire",
+  "author": "William Andrews",
+  "gender": "M",
+  "genre": "Anthology",
+  "year": 1888,
+  "reason": "Anthology with substantial representation of Cumberland and Westmorland poets and their landscape verse."
+}
+{
+  "title": "Westmorland Church Notes: the Heraldry, Epitaphs and Other Inscriptions in the Ancient Parish Churches",
+  "author": "Edward Bellasis",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1888,
+  "reason": "Record of monuments and inscriptions in the ancient parish churches of Westmorland."
+}
+{
+  "title": "Leaves from the Annals of a Mountain Parish in Lakeland: the Church and Benefice of Torver",
+  "author": "Thomas Ellwood",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1888,
+  "reason": "History of the fell parish of Torver above Coniston Water."
+}
+{
+  "title": "The Geology of the Country around Kendal, Sedbergh, Bowness and Tebay",
+  "author": "William Talbot Aveline",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1888,
+  "reason": "Geological Survey memoir on the south-eastern Lake District and its border fells."
+}
+{
+  "title": "Letters from the Lake Poets, Samuel Taylor Coleridge, William Wordsworth and Robert Southey, to Daniel Stuart",
+  "author": "Samuel Taylor Coleridge",
+  "gender": "M",
+  "genre": "Letters",
+  "year": 1889,
+  "reason": "Correspondence from Keswick and Grasmere by the three resident Lake Poets."
+}
+{
+  "title": "The Life of William Wordsworth",
+  "author": "William Angus Knight",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1889,
+  "reason": "Three-volume life of Wordsworth documenting his Lakeland residences, walks and neighbours."
+}
+{
+  "title": "A History of Cumberland",
+  "author": "Richard Saul Ferguson",
+  "gender": "M",
+  "genre": "County History",
+  "year": 1890,
+  "reason": "Concise scholarly history of Cumberland in the Popular County Histories series."
+}
+{
+  "title": "Visitations of the Plague in Cumberland and Westmorland",
+  "author": "Henry Barnes",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1890,
+  "reason": "Historical study of epidemics in the Lake District counties from parish records."
+}
+{
+  "title": "De Quincey's Editorship of the Westmorland Gazette, with Selections from his Work on that Journal",
+  "author": "Charles Pollitt",
+  "gender": "M",
+  "genre": "Literary history",
+  "year": 1890,
+  "reason": "Account of De Quincey's Kendal editorship with reprinted Westmorland journalism."
+}
+{
+  "title": "Mayburgh and King Arthur's Round Table",
+  "author": "Charles William Dymond",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1890,
+  "reason": "Survey of the prehistoric henge monuments at Eamont Bridge near Penrith."
+}
+{
+  "title": "William Wordsworth",
+  "author": "Elizabeth Wordsworth",
+  "gender": "F",
+  "genre": "Biography",
+  "year": 1891,
+  "reason": "Short life of the poet by a kinswoman, drawing on the Lakeland settings of his work."
+}
+{
+  "title": "A Vertebrate Fauna of Lakeland, including Cumberland and Westmorland with Lancashire North of the Sands",
+  "author": "Hugh Alexander Macpherson",
+  "gender": "M",
+  "genre": "Natural History",
+  "year": 1892,
+  "reason": "The definitive Victorian faunal survey of the Lake District region."
+}
+{
+  "title": "The Old Manorial Halls of Westmorland and Cumberland",
+  "author": "Michael Waistell Taylor",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1892,
+  "reason": "Architectural and historical account of the pele towers and manor houses of Lakeland."
+}
+{
+  "title": "Papers and Pedigrees mainly relating to Cumberland and Westmorland",
+  "author": "William Jackson",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1892,
+  "reason": "Collected antiquarian papers on the families and places of the two Lakeland counties."
+}
+{
+  "title": "Climbing in the British Isles: I. England",
+  "author": "Walter Parry Haskett Smith",
+  "gender": "M",
+  "genre": "Mountaineering",
+  "year": 1894,
+  "reason": "The first climbers' guide to English crags, dominated by the Lake District fells and gullies."
+}
+{
+  "title": "The Landnama Book of Iceland as it illustrates the Dialect, Place Names, Folk Lore and Antiquities of Cumberland, Westmorland and North Lancashire",
+  "author": "Thomas Ellwood",
+  "gender": "M",
+  "genre": "Place-names",
+  "year": 1894,
+  "reason": "Comparative study using Icelandic sources to explain Lakeland dialect and place-names."
+}
+{
+  "title": "Literary Associations of the English Lakes",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Literary topography",
+  "year": 1894,
+  "reason": "Two-volume account of writers associated with particular Lake District places."
+}
+{
+  "title": "Middleton's Illustrated Handbook to Grasmere",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Guide",
+  "year": 1894,
+  "reason": "Local handbook to Grasmere village, its church, rushbearing and surrounding walks."
+}
+{
+  "title": "A History of Westmorland",
+  "author": "Richard Saul Ferguson",
+  "gender": "M",
+  "genre": "County History",
+  "year": 1894,
+  "reason": "Companion county history to Ferguson's Cumberland, covering the Westmorland dales and towns."
+}
+{
+  "title": "Thorstein of the Mere: A Saga of the Northmen in Lakeland",
+  "author": "William Gershom Collingwood",
+  "gender": "M",
+  "genre": "Novel",
+  "year": 1895,
+  "reason": "Historical novel of Norse settlement around Coniston Water and the Furness fells."
+}
+{
+  "title": "Legends of Westmorland and Other Poems",
+  "author": "Anthony Whitehead",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1896,
+  "reason": "Verse legends of Westmorland places with explanatory notes."
+}
+{
+  "title": "Westmorland Slates, their Geology, Chemistry and Architectural Value",
+  "author": "J. J. Thomas",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1896,
+  "reason": "Study of the green slate of the Westmorland fells and its quarrying and use."
+}
+{
+  "title": "Rock-Climbing in the English Lake District",
+  "author": "Owen Glynne Jones",
+  "gender": "M",
+  "genre": "Mountaineering",
+  "year": 1897,
+  "reason": "The classic early climbing guide that established Lakeland rock-climbing as a sport."
+}
+{
+  "title": "The Geology of the Country between Appleby, Ullswater and Haweswater",
+  "author": "John Roche Dakyns",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1897,
+  "reason": "Geological Survey memoir covering the eastern Lake District fells and lakes."
+}
+{
+  "title": "Wordsworth at Rydal, and Other Poems",
+  "author": "Tinsley Pratt",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1897,
+  "reason": "Poems centred on Rydal, Grasmere and the Wordsworth country."
+}
+{
+  "title": "Journals of Dorothy Wordsworth",
+  "author": "Dorothy Wordsworth",
+  "gender": "F",
+  "genre": "Diary",
+  "year": 1897,
+  "reason": "The Alfoxden and Grasmere journals, the fullest day-by-day record of early nineteenth-century Lakeland life."
+}
+{
+  "title": "Lakeland Words: A Collection of Dialect Words and Phrases as used in Cumberland and Westmorland",
+  "author": "Bryham Kirkby",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1898,
+  "reason": "Dialect glossary with illustrative sentences drawn from Lakeland speech."
+}
+{
+  "title": "A Thousand Miles of Wandering along the Roman Wall, the Old Border Region, Lakeland and Ribblesdale",
+  "author": "Edmund Bogg",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1898,
+  "reason": "Illustrated walking narrative with an extensive Lakeland section."
+}
+{
+  "title": "Helbeck of Bannisdale",
+  "author": "Mary Augusta Ward (Mrs Humphry Ward)",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1898,
+  "reason": "Novel wholly set in a Westmorland dale, with sustained description of the Lakeland landscape and Catholic gentry."
+}
+{
+  "title": "Bob, Son of Battle",
+  "author": "Alfred Ollivant",
+  "gender": "M",
+  "genre": "Novel",
+  "year": 1898,
+  "reason": "Sheepdog novel set among the Cumberland fell farms and shepherds of the northern Lake District."
+}
+{
+  "title": "The English Lake District Fisheries",
+  "author": "John Watson",
+  "gender": "M",
+  "genre": "Sport",
+  "year": 1899,
+  "reason": "Survey of the fish and fisheries of the Lake District lakes, tarns and rivers."
+}
+{
+  "title": "Life and Nature at the English Lakes",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Essays",
+  "year": 1899,
+  "reason": "Essays on Lakeland natural history, custom and dales character by the vicar of Crosthwaite."
+}
+{
+  "title": "Bygone Cumberland and Westmorland",
+  "author": "Daniel Scott",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1899,
+  "reason": "Popular history of customs, characters and events in the two Lakeland counties."
+}
+{
+  "title": "Flora of the Wordsworth Country",
+  "author": "Thomas R. Hayes",
+  "gender": "M",
+  "genre": "Natural History",
+  "year": 1899,
+  "reason": "Botanical catalogue of the central Lake District around Grasmere and Ambleside."
+}
+{
+  "title": "Some Records of a Cistercian Abbey: Holm Cultram, Cumberland",
+  "author": "George Ernest Gilbanks",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1899,
+  "reason": "History of the Cumberland abbey whose estates reached into the Lakeland fells."
+}
+{
+  "title": "Granite Chips and Clints; or, Westmorland in Words",
+  "author": "Bryham Kirkby",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1900,
+  "reason": "Dialect sketches and sayings of Westmorland dales life."
+}
+{
+  "title": "Highways and Byways in the Lake District",
+  "author": "Arthur Granville Bradley",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1901,
+  "reason": "Widely read literary tour of the whole Lake District, illustrated by Joseph Pennell."
+}
+{
+  "title": "Ruskin and the English Lakes",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1901,
+  "reason": "Account of Ruskin's Lakeland years at Brantwood and his influence on the district."
+}
+{
+  "title": "The Victoria History of the County of Cumberland",
+  "author": "James Wilson",
+  "gender": "M",
+  "genre": "County History",
+  "year": 1901,
+  "reason": "Standard scholarly county history covering Cumberland's geology, natural history, archaeology and manors."
+}
+{
+  "title": "The Lake Counties",
+  "author": "William Gershom Collingwood",
+  "gender": "M",
+  "genre": "Topography",
+  "year": 1902,
+  "reason": "Authoritative regional survey of the Lake District's history, geology, dales and dialect."
+}
+{
+  "title": "The English Lakes",
+  "author": "Frederick Gaspard Brabant",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1902,
+  "reason": "Methuen Little Guide to the Lake District, arranged by lake and valley."
+}
+{
+  "title": "Lake-Country Rambles",
+  "author": "William Thomas Palmer",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1902,
+  "reason": "Walking essays across the Lakeland fells by a Kendal-born writer."
+}
+{
+  "title": "A Rambler's Note-Book at the English Lakes",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Essays",
+  "year": 1902,
+  "reason": "Field notes and essays on Lakeland places, people and seasons."
+}
+{
+  "title": "Records of Patterdale, Historical and Descriptive",
+  "author": "William Prosser Morris",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1903,
+  "reason": "History and description of the Ullswater valley parish of Patterdale."
+}
+{
+  "title": "Lake Country Sketches",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Essays",
+  "year": 1903,
+  "reason": "Sketches of Lakeland characters, customs and landscape."
+}
+{
+  "title": "In Lakeland Dells and Fells",
+  "author": "William Thomas Palmer",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1903,
+  "reason": "Descriptive rambles through the less-frequented dales and fell tops of the Lake District."
+}
+{
+  "title": "A Westmorland Village: the Story of the Old Homesteads and 'Statesman' Families of Troutbeck by Windermere",
+  "author": "S. H. Scott",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1904,
+  "reason": "Detailed social history of a single Westmorland dale community above Windermere."
+}
+{
+  "title": "Cumberland Ballads and Songs, Centenary Edition",
+  "author": "Robert Anderson",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1904,
+  "reason": "Centenary edition of Anderson's Cumberland dialect ballads with life and glossaries."
+}
+{
+  "title": "The Registers of the Parish of Askham in the County of Westmorland, 1566-1812",
+  "author": "Mary E. Noble",
+  "gender": "F",
+  "genre": "Records",
+  "year": 1904,
+  "reason": "Transcribed parish registers of a Westmorland fell parish near Ullswater."
+}
+{
+  "title": "Literary Celebrities of the English Lake District",
+  "author": "Frederick Sessions",
+  "gender": "M",
+  "genre": "Literary topography",
+  "year": 1905,
+  "reason": "Survey of the writers who lived in or wrote about the Lake District."
+}
+{
+  "title": "Lakeland Poems and Others",
+  "author": "Thomas Harrison Collinson",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1905,
+  "reason": "Poems on Lake District scenes and seasons."
+}
+{
+  "title": "A Supplement to the Glossary of the Dialect of Cumberland",
+  "author": "E. W. Prevost",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1905,
+  "reason": "Additional dialect vocabulary of Cumberland gathered after Dickinson's glossary."
+}
+{
+  "title": "The Geology of the English Lake District, with Notes on the Minerals",
+  "author": "John Postlethwaite",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1906,
+  "reason": "Keswick mineralogist's classic account of Lakeland rocks, mines and minerals."
+}
+{
+  "title": "The Book of Coniston",
+  "author": "William Gershom Collingwood",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1906,
+  "reason": "History, antiquities and topography of Coniston and its fells."
+}
+{
+  "title": "Months at the Lakes",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Essays",
+  "year": 1906,
+  "reason": "Seasonal essays following the Lakeland year month by month."
+}
+{
+  "title": "A Grammar of the Dialect of Kendal (Westmorland), Descriptive and Historical",
+  "author": "Tom Oakes Hirst",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1906,
+  "reason": "Philological grammar of the speech of Kendal with specimens and glossary."
+}
+{
+  "title": "A Series of Letters written by the Rev. James Jackson of Sandwith, Whitehaven, describing his Ascents of the Pillar Rock",
+  "author": "James Jackson",
+  "gender": "M",
+  "genre": "Letters",
+  "year": 1906,
+  "reason": "Letters of the 'Patriarch of the Pillarites' recording early ascents of Pillar Rock in Ennerdale."
+}
+{
+  "title": "A Bibliography of the Dialect Literature of Cumberland and Westmorland, and Lancashire North of the Sands",
+  "author": "Archibald Sparke",
+  "gender": "M",
+  "genre": "Bibliography",
+  "year": 1907,
+  "reason": "Systematic bibliography of Lakeland dialect writing."
+}
+{
+  "title": "Some Records of Two Lakeland Townships, Blawith and Nibthwaite, chiefly from Original Documents",
+  "author": "Arthur Paul Brydson",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1907,
+  "reason": "Documentary history of two townships at the foot of Coniston Water."
+}
+{
+  "title": "The Complete Mountaineer",
+  "author": "George Dixon Abraham",
+  "gender": "M",
+  "genre": "Mountaineering",
+  "year": 1907,
+  "reason": "Keswick climber's manual illustrated largely from Lake District crags and fells."
+}
+{
+  "title": "A Handy Guide to the Ruins of Furness Abbey",
+  "author": "James P. Morris",
+  "gender": "M",
+  "genre": "Guide",
+  "year": 1907,
+  "reason": "Visitor guide to the ruins of Furness Abbey in the southern Lake District."
+}
+{
+  "title": "Letters of the Wordsworth Family from 1787 to 1855",
+  "author": "William Wordsworth",
+  "gender": "M",
+  "genre": "Letters",
+  "year": 1907,
+  "reason": "Three volumes of family correspondence written largely from Grasmere and Rydal Mount."
+}
+{
+  "title": "With Wordsworth in England: a Selection of the Poems and Letters which have to do with English Scenery and English Life",
+  "author": "Anna Benneson McMahan",
+  "gender": "F",
+  "genre": "Anthology",
+  "year": 1907,
+  "reason": "Illustrated selection pairing Wordsworth's writing with the Lakeland places that prompted it."
+}
+{
+  "title": "The Early Iron Industry of Furness and District",
+  "author": "Alfred Fell",
+  "gender": "M",
+  "genre": "Industrial History",
+  "year": 1908,
+  "reason": "History of bloomeries, charcoal burning and iron making in Furness and the southern Lakeland woods."
+}
+{
+  "title": "History of the Parish Church Windermere",
+  "author": "Euston John Nurse",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1908,
+  "reason": "History of the ancient parish church at Bowness on Windermere."
+}
+{
+  "title": "Westmorland",
+  "author": "John Edward Marr",
+  "gender": "M",
+  "genre": "Topography",
+  "year": 1909,
+  "reason": "Cambridge County Geography of Westmorland by the leading geologist of the Lake District."
+}
+{
+  "title": "Round the Lake Country",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1909,
+  "reason": "Circuit of the Lake District combining topography, history and anecdote."
+}
+{
+  "title": "Cumberland",
+  "author": "John Edward Marr",
+  "gender": "M",
+  "genre": "Topography",
+  "year": 1909,
+  "reason": "Cambridge County Geography of Cumberland, covering fells, lakes, industry and settlement."
+}
+{
+  "title": "The Vale of Lyvennet, its Picturesque Peeps and Legendary Lore",
+  "author": "John Salkeld Bland",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1910,
+  "reason": "Topography, legend and history of a Westmorland valley near Crosby Ravensworth."
+}
+{
+  "title": "Cumberland Parish Registers: Marriages",
+  "author": "William Phillimore Watts Phillimore",
+  "gender": "M",
+  "genre": "Records",
+  "year": 1910,
+  "reason": "Printed marriage registers of Cumberland parishes, a source for Lakeland family and social history."
+}
+{
+  "title": "Wordsworthshire: An Introduction to a Poet's Country",
+  "author": "Eric Sutherland Robertson",
+  "gender": "M",
+  "genre": "Literary topography",
+  "year": 1911,
+  "reason": "Guide to the Lake District organised around Wordsworth's life and poems."
+}
+{
+  "title": "Sidelights on Mediaeval Windermere",
+  "author": "Arthur Paul Brydson",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1911,
+  "reason": "Documentary study of medieval settlement, fisheries and manors around Windermere."
+}
+{
+  "title": "The Ejected of 1662 in Cumberland and Westmorland, their Predecessors and Successors",
+  "author": "Benjamin Nightingale",
+  "gender": "M",
+  "genre": "Religious History",
+  "year": 1911,
+  "reason": "Detailed parish-level study of nonconformity across the two Lakeland counties."
+}
+{
+  "title": "By Fell and Dale at the English Lakes",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Essays",
+  "year": 1911,
+  "reason": "Essays on Lakeland fells, dales, birds and country customs."
+}
+{
+  "title": "Beautiful Lakeland",
+  "author": "Ashley Perry Abraham",
+  "gender": "M",
+  "genre": "Views",
+  "year": 1912,
+  "reason": "Photographic survey of Lake District scenery by the Keswick photographer and climber."
+}
+{
+  "title": "The Church of Grasmere: A History",
+  "author": "Mary Louisa Armitt",
+  "gender": "F",
+  "genre": "Local History",
+  "year": 1912,
+  "reason": "Scholarly history of Grasmere church and parish by a resident antiquary and naturalist."
+}
+{
+  "title": "Westmorland Agriculture, 1800-1900",
+  "author": "Frank Walls Garnett",
+  "gender": "M",
+  "genre": "Agriculture",
+  "year": 1912,
+  "reason": "History of a century of farming in Westmorland, including fell sheep and dales estates."
+}
+{
+  "title": "Carlisle in Ballad and Story",
+  "author": "James Walter Brown",
+  "gender": "M",
+  "genre": "Folklore",
+  "year": 1912,
+  "reason": "Ballads and traditions of Carlisle and the northern Cumberland countryside."
+}
+{
+  "title": "The Castles and Fortified Towers of Cumberland, Westmorland and Lancashire North of the Sands",
+  "author": "John F. Curwen",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1913,
+  "reason": "Architectural survey of the pele towers and castles of the Lake District counties."
+}
+{
+  "title": "Cumberland and Westmorland (County Churches)",
+  "author": "J. Charles Cox",
+  "gender": "M",
+  "genre": "Antiquarian",
+  "year": 1913,
+  "reason": "Descriptive gazetteer of the ancient churches of the two Lakeland counties."
+}
+{
+  "title": "The Hardys of Barbon, and some other Westmorland Statesmen",
+  "author": "Charles Frederick Hardy",
+  "gender": "M",
+  "genre": "Family History",
+  "year": 1913,
+  "reason": "History of a Westmorland statesman family and their dales neighbours."
+}
+{
+  "title": "Motor Ways in Lakeland",
+  "author": "George Dixon Abraham",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1913,
+  "reason": "Early motoring tour of the Lake District passes and valleys."
+}
+{
+  "title": "A Grammar of the Dialect of Lorton (Cumberland), Historical and Descriptive",
+  "author": "Borje Brilioth",
+  "gender": "M",
+  "genre": "Dialect",
+  "year": 1913,
+  "reason": "Philological description of the dialect of a Cumberland fell parish near Cockermouth."
+}
+{
+  "title": "Chapters at the English Lakes",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Essays",
+  "year": 1913,
+  "reason": "Further essays on the history, literature and natural history of the Lake District."
+}
+{
+  "title": "Barbara Lynn: A Tale of the Dales and Fells",
+  "author": "Emily J. Jenkinson",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1914,
+  "reason": "Novel of dales farming life set in the Lakeland fells."
+}
+{
+  "title": "The Lonely Plough",
+  "author": "Constance Holme",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1914,
+  "reason": "Novel of estate and farming life in the Westmorland countryside between the fells and Morecambe Bay."
+}
+{
+  "title": "Odd Yarns of English Lakeland",
+  "author": "William Thomas Palmer",
+  "gender": "M",
+  "genre": "Short stories",
+  "year": 1914,
+  "reason": "Collected tales and anecdotes of Lakeland dalesfolk, shepherds and guides."
+}
+{
+  "title": "Rock-Climbing in Cumberland: A Note-Book for Novices",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Mountaineering",
+  "year": 1914,
+  "reason": "Beginner's handbook to the Cumberland crags of the Lake District."
+}
+{
+  "title": "The Place-Names of Cumberland and Westmorland",
+  "author": "Walter John Sedgefield",
+  "gender": "M",
+  "genre": "Place-names",
+  "year": 1915,
+  "reason": "Scholarly analysis of Lakeland place-names and their Norse and Celtic elements."
+}
+{
+  "title": "The Older Nonconformity in Kendal: a History of the Unitarian Chapel in the Market Place",
+  "author": "Francis Nicholson",
+  "gender": "M",
+  "genre": "Religious History",
+  "year": 1915,
+  "reason": "History of dissent in the principal town of Westmorland, with register transcripts."
+}
+{
+  "title": "The Geology of the Lake District and the Scenery as Influenced by Geological Structure",
+  "author": "John Edward Marr",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1916,
+  "reason": "The standard early twentieth-century account of how Lakeland geology shapes its scenery."
+}
+{
+  "title": "Rydal",
+  "author": "Mary Louisa Armitt",
+  "gender": "F",
+  "genre": "Local History",
+  "year": 1916,
+  "reason": "Posthumously published history of Rydal, its manor, church and Wordsworth associations."
+}
+{
+  "title": "Red Screes: A Romance of Lakeland",
+  "author": "Cecil Headlam",
+  "gender": "M",
+  "genre": "Novel",
+  "year": 1916,
+  "reason": "Novel named for the fell above Ambleside and set in the Lake District."
+}
+{
+  "title": "A Pictorial and Descriptive Guide to the English Lake District",
+  "author": "Ward, Lock and Company",
+  "gender": "U",
+  "genre": "Guide",
+  "year": 1916,
+  "reason": "Popular illustrated guide with outline routes for pedestrians throughout the district."
+}
+{
+  "title": "Past and Present at the English Lakes",
+  "author": "Hardwicke Drummond Rawnsley",
+  "gender": "M",
+  "genre": "Essays",
+  "year": 1916,
+  "reason": "Essays contrasting older Lakeland customs and landscapes with modern change."
+}
+{
+  "title": "The Old Road from Spain",
+  "author": "Constance Holme",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1916,
+  "reason": "Westmorland novel of land, inheritance and the country between Kendal and the sands."
+}
+{
+  "title": "Beautiful End",
+  "author": "Constance Holme",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1918,
+  "reason": "Novel of Westmorland village life by a writer rooted in the county's landscape and speech."
+}
+{
+  "title": "The Splendid Fairing",
+  "author": "Constance Holme",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1919,
+  "reason": "Prize-winning novel of a Westmorland farming family on the edge of the Lakeland fells."
+}
+{
+  "title": "Foxhunting on the Lakeland Fells",
+  "author": "Richard Clapham",
+  "gender": "M",
+  "genre": "Sport",
+  "year": 1920,
+  "reason": "Account of fell-pack foxhunting on foot in the Lake District."
+}
+{
+  "title": "The Household Account Book of Sarah Fell of Swarthmoor Hall",
+  "author": "Sarah Fell",
+  "gender": "F",
+  "genre": "Diary",
+  "year": 1920,
+  "reason": "Seventeenth-century household accounts from Swarthmoor Hall in Furness, a unique record of Lakeland domestic economy."
+}
+{
+  "title": "Cumberland and Westmorland",
+  "author": "Daniel Scott",
+  "gender": "M",
+  "genre": "Topography",
+  "year": 1920,
+  "reason": "Descriptive county volume covering the towns, dales and fells of the Lake District."
+}
+{
+  "title": "Round and About Ambleside",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Guide",
+  "year": 1920,
+  "reason": "Local guide to Ambleside and the walks and passes of the central Lake District."
+}
+{
+  "title": "The Trumpet in the Dust",
+  "author": "Constance Holme",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1921,
+  "reason": "Westmorland novel of small-town and dales life in the shadow of the fells."
+}
+{
+  "title": "Wild Lakeland",
+  "author": "Mackenzie MacBride",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1922,
+  "reason": "Descriptive account of the wilder Lake District, illustrated by A. Heaton Cooper."
+}
+{
+  "title": "On Cambrian and Cumbrian Hills: Pilgrimages to Snowdon and Scafell",
+  "author": "Henry Stephens Salt",
+  "gender": "M",
+  "genre": "Mountaineering",
+  "year": 1922,
+  "reason": "Walking essays with an extended section on Scafell and the Cumbrian mountains."
+}
+{
+  "title": "Fishing in Eden: A Record of Fifty Years with Rod and Line in the Valleys of the Eden and Eamont",
+  "author": "William Nelson",
+  "gender": "M",
+  "genre": "Sport",
+  "year": 1922,
+  "reason": "Angling memoir of the rivers of eastern Cumberland and Westmorland."
+}
+{
+  "title": "The English Lakeland: Fifty-two Views in Deluxe Photogravure",
+  "author": "Ashley Perry Abraham",
+  "gender": "M",
+  "genre": "Views",
+  "year": 1922,
+  "reason": "Photogravure portfolio covering all the principal lakes and fells."
+}
+{
+  "title": "A Backwater in Lakeland",
+  "author": "Isaac Hinchliffe",
+  "gender": "M",
+  "genre": "Travel",
+  "year": 1923,
+  "reason": "Exploration of a quieter corner of the Lake District, on foot and in detail."
+}
+{
+  "title": "Lake District History",
+  "author": "William Gershom Collingwood",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1925,
+  "reason": "Synthesis of Lake District history from prehistory to the nineteenth century by a Coniston scholar."
+}
+{
+  "title": "Days in Lakeland, Past and Present",
+  "author": "E. M. Ward",
+  "gender": "U",
+  "genre": "Essays",
+  "year": 1929,
+  "reason": "Essays on Lakeland places and their history, contrasting older ways with the present."
+}
+{
+  "title": "Rogue Herries",
+  "author": "Hugh Walpole",
+  "gender": "M",
+  "genre": "Novel",
+  "year": 1930,
+  "reason": "First of the Herries novels, set at Rosthwaite in Borrowdale and across eighteenth-century Cumberland."
+}
+{
+  "title": "Swallows and Amazons",
+  "author": "Arthur Ransome",
+  "gender": "M",
+  "genre": "Novel",
+  "year": 1930,
+  "reason": "Children's novel set on a lake compounded of Windermere and Coniston Water, with Lakeland fells and farms."
+}
+{
+  "title": "Furness Folk and Facts",
+  "author": "William White",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1930,
+  "reason": "Sketches of the people, customs and history of the Furness district."
+}
+{
+  "title": "Some Ulverston Records",
+  "author": "James Park",
+  "gender": "M",
+  "genre": "Records",
+  "year": 1932,
+  "reason": "Documentary records of Ulverston and the Furness peninsula."
+}
+{
+  "title": "The English Lakes: their Topographical, Historical and Literary Landmarks",
+  "author": "William Thomas Palmer",
+  "gender": "M",
+  "genre": "Topography",
+  "year": 1932,
+  "reason": "Comprehensive survey of Lakeland topography and its literary and historical associations."
+}
+{
+  "title": "Dorothy Wordsworth: The Early Years",
+  "author": "Catherine Macdonald Maclean",
+  "gender": "F",
+  "genre": "Biography",
+  "year": 1932,
+  "reason": "Life of Dorothy Wordsworth centred on the Grasmere years and her journals of Lakeland life."
+}
+{
+  "title": "In a Cumberland Dale",
+  "author": "Percy Withers",
+  "gender": "M",
+  "genre": "Memoir",
+  "year": 1933,
+  "reason": "Memoir of living in a Cumberland dale, its farms, weather and inhabitants."
+}
+{
+  "title": "Walking in the Lake District",
+  "author": "H. H. Symonds",
+  "gender": "M",
+  "genre": "Walking",
+  "year": 1933,
+  "reason": "Influential walkers' book of Lake District routes, also arguing for the protection of the fells."
+}
+{
+  "title": "Shelagh of Eskdale; or, The Stone of Shame",
+  "author": "Nicholas Size",
+  "gender": "M",
+  "genre": "Novel",
+  "year": 1933,
+  "reason": "Historical romance set in Eskdale and the western Lake District by the Buttermere author."
+}
+{
+  "title": "Lakeland Passes",
+  "author": "John B. Barber and George Atkinson",
+  "gender": "M",
+  "genre": "Walking",
+  "year": 1934,
+  "reason": "Guide to the mountain passes of the Lake District for walkers."
+}
+{
+  "title": "Poems of Lakeland",
+  "author": "Mrs Ashley P. Abraham",
+  "gender": "F",
+  "genre": "Poetry",
+  "year": 1934,
+  "reason": "Collection of poems on Lake District landscape and mountaineering."
+}
+{
+  "title": "The Northern Tourist: Seventy-three Views of Lake and Mountain Scenery in Westmorland, Cumberland, Durham and Northumberland",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Views",
+  "year": 1837,
+  "reason": "Plate book of Lake District lakes, passes and mountains with descriptive letterpress."
+}
+{
+  "title": "The Life of Sir Philip Musgrave, Bart., of Hartley Castle, Westmorland, and of Edenhall, Cumberland",
+  "author": "Gilbert Burton",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1840,
+  "reason": "Life of a Westmorland and Cumberland royalist landowner, with much local estate history."
+}
+{
+  "title": "Kendal and Windermere Railway: Two Letters Reprinted from the Morning Post",
+  "author": "William Wordsworth",
+  "gender": "M",
+  "genre": "Conservation",
+  "year": 1845,
+  "reason": "Wordsworth's public protest against the railway into the heart of the Lake District."
+}
+{
+  "title": "Memoir of Sir John Barrow, Bart., and Description of the Barrow Monument erected on the Hill of Hoad, Ulverston",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Biography",
+  "year": 1852,
+  "reason": "Life of the Ulverston-born traveller and the Furness monument raised to him."
+}
+{
+  "title": "A Trip to the English Lakes in May, 1864",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Travel",
+  "year": 1864,
+  "reason": "Private account of a Victorian tour through the principal lakes and passes."
+}
+{
+  "title": "An Essay on the Geology of Cumberland and Westmoreland",
+  "author": "Henry Alleyne Nicholson",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1868,
+  "reason": "Concise geological account of the rocks and structure of the Lake District counties."
+}
+{
+  "title": "History of the Congregational Church, Cockermouth",
+  "author": "William Lewis",
+  "gender": "M",
+  "genre": "Religious History",
+  "year": 1870,
+  "reason": "Records of dissent in the west Cumberland market town where Wordsworth was born."
+}
+{
+  "title": "The Life of John Heysham, M.D., and his Correspondence relative to the Carlisle Bills of Mortality",
+  "author": "Henry Lonsdale",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1870,
+  "reason": "Life of a Carlisle physician whose mortality tables made the Cumberland city famous in statistics."
+}
+{
+  "title": "The Christian Patriarch: the Life of Mr Robert Gate, with Notices of Early Methodism in the Penrith Circuit",
+  "author": "George G. S. Thomas",
+  "gender": "M",
+  "genre": "Religious History",
+  "year": 1869,
+  "reason": "Biography documenting Methodism in the Penrith district of Cumberland."
+}
+{
+  "title": "The Pedigree of Wilson of High Wray and Kendal and the Families Connected with Them",
+  "author": "Joseph Foster",
+  "gender": "M",
+  "genre": "Family History",
+  "year": 1871,
+  "reason": "Genealogy of a Westmorland family seated between Windermere and Kendal."
+}
+{
+  "title": "The Visitation of the County of Cumberland in the Year 1615",
+  "author": "Sir Richard St George",
+  "gender": "M",
+  "genre": "Records",
+  "year": 1872,
+  "reason": "Heralds' visitation recording the arms and pedigrees of Cumberland gentry, printed in 1872."
+}
+{
+  "title": "Some Account of the Family of Robinson of the White House, Appleby, Westmorland",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Family History",
+  "year": 1874,
+  "reason": "Genealogical account of an Appleby family in the Eden valley of Westmorland."
+}
+{
+  "title": "Some Municipal Records of Carlisle",
+  "author": "Cumberland and Westmorland Antiquarian and Archaeological Society",
+  "gender": "U",
+  "genre": "Records",
+  "year": 1877,
+  "reason": "Edited borough records of Carlisle, the county town of Cumberland."
+}
+{
+  "title": "All the Monumental Inscriptions in the Graveyards of Brigham and Bridekirk, near Cockermouth",
+  "author": "Henry Thomas Wake",
+  "gender": "M",
+  "genre": "Records",
+  "year": 1878,
+  "reason": "Transcribed monumental inscriptions from two west Cumberland parishes."
+}
+{
+  "title": "History of Craft Masonry in Cumberland and Westmorland",
+  "author": "W. F. Lamonby",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1879,
+  "reason": "Institutional history of freemasonry in the two Lakeland counties, with much local detail."
+}
+{
+  "title": "The English Lakes, and Other Poems",
+  "author": "Alexander Mitchell",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1873,
+  "reason": "Poetic sequence on the English lakes and their scenery."
+}
+{
+  "title": "Views of the English Lakes",
+  "author": "William Banks",
+  "gender": "M",
+  "genre": "Views",
+  "year": 1873,
+  "reason": "Photographic and engraved views of the principal Lake District lakes with descriptions."
+}
+{
+  "title": "The Coucher Book of Furness Abbey",
+  "author": "Furness Abbey",
+  "gender": "U",
+  "genre": "Records",
+  "year": 1886,
+  "reason": "Cartulary of Furness Abbey recording its estates through Furness and the southern Lakeland fells."
+}
+{
+  "title": "The Pedigree of Birkbeck of Mallerstang, Braithwaite of Kendal, Benson of Stang End",
+  "author": "Sandys Birket Foster",
+  "gender": "M",
+  "genre": "Family History",
+  "year": 1890,
+  "reason": "Genealogy of Westmorland dales families in Mallerstang and around Kendal."
+}
+{
+  "title": "The Pedigrees of Crewdson of Crook, Whitwell of Kendal, Pease of Hutton and Low Cross",
+  "author": "Sandys Birket Foster",
+  "gender": "M",
+  "genre": "Family History",
+  "year": 1890,
+  "reason": "Genealogies of Quaker families of the Kendal district of Westmorland."
+}
+{
+  "title": "Pedigrees recorded at the Heralds' Visitations of the Counties of Cumberland and Westmorland",
+  "author": "Sir Richard St George",
+  "gender": "M",
+  "genre": "Records",
+  "year": 1891,
+  "reason": "Printed visitation pedigrees of the gentry of the two Lakeland counties."
+}
+{
+  "title": "Sedbergh, Garsdale and Dent: Peeps at the Past History and Present Condition of some Picturesque Yorkshire Dales",
+  "author": "William Thompson",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1892,
+  "reason": "History and topography of the dales at the eastern edge of the Lake District counties, now in Cumbria."
+}
+{
+  "title": "Report of the Cumberland Excavation Committee, 1896",
+  "author": "Cumberland and Westmorland Antiquarian and Archaeological Society",
+  "gender": "U",
+  "genre": "Archaeology",
+  "year": 1897,
+  "reason": "Field report on excavations of Roman and prehistoric sites in Cumberland."
+}
+{
+  "title": "Genealogical Memoirs of the Carus-Wilson Family, being an Account of the Families of Carus of Kendal",
+  "author": "H. Carus-Wilson",
+  "gender": "M",
+  "genre": "Family History",
+  "year": 1899,
+  "reason": "Genealogy of a long-established Kendal and Westmorland family."
+}
+{
+  "title": "The Birkbecks of Westmorland and their Descendants",
+  "author": "Robert Birkbeck",
+  "gender": "M",
+  "genre": "Family History",
+  "year": 1900,
+  "reason": "History of a Westmorland dales family and its branches."
+}
+{
+  "title": "On the Origin of the Dunmail Raise (Lake District)",
+  "author": "Richard Dixon Oldham",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1901,
+  "reason": "Geological explanation of the pass between Grasmere and Thirlmere at the centre of the Lake District."
+}
+{
+  "title": "The Fossil Flora of the Cumberland Coalfield",
+  "author": "Edward Alexander Newell Arber",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1903,
+  "reason": "Palaeobotanical study of the west Cumberland coalfield on the Lakeland coast."
+}
+{
+  "title": "The Pipe Rolls of Cumberland and Westmorland, 1222-1260",
+  "author": "Great Britain Exchequer",
+  "gender": "U",
+  "genre": "Records",
+  "year": 1905,
+  "reason": "Edited medieval exchequer records for the two Lakeland counties."
+}
+{
+  "title": "Northern Notes and Queries, devoted to the Antiquities of Northumberland, Cumberland, Westmorland and Durham",
+  "author": "Anon.",
+  "gender": "U",
+  "genre": "Antiquarian",
+  "year": 1907,
+  "reason": "Antiquarian periodical carrying notes and queries on Lakeland history and topography."
+}
+{
+  "title": "Notes on the Faunal Succession in the Carboniferous Limestone of Westmorland and Neighbouring Portions of Lancashire and Yorkshire",
+  "author": "Edmund Johnston Garwood",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1907,
+  "reason": "Stratigraphic study of the limestone belt fringing the Westmorland fells."
+}
+{
+  "title": "Cumbrian Carols and Other Poems",
+  "author": "John Denwood",
+  "gender": "M",
+  "genre": "Poetry",
+  "year": 1907,
+  "reason": "Poems and carols in and about the Cumberland dialect and countryside."
+}
+{
+  "title": "The Beetham Repository, 1770",
+  "author": "William Hutton",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1906,
+  "reason": "Eighteenth-century parish memorandum book for Beetham in Westmorland, printed by the CWAAS."
+}
+{
+  "title": "On some Intrusive Rocks in the Neighbourhood of Eskdale, Cumberland",
+  "author": "Arthur Richard Dwerryhouse",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1909,
+  "reason": "Petrological study of the granite and intrusions of Eskdale in the western Lake District."
+}
+{
+  "title": "The Howgill Fells and their Topography",
+  "author": "John Edward Marr",
+  "gender": "M",
+  "genre": "Geology",
+  "year": 1909,
+  "reason": "Analysis of the form and drainage of the Howgill Fells on the Westmorland border."
+}
+{
+  "title": "Crosby Garrett, Westmorland: a History of the Manor, with Local Custom and Legends",
+  "author": "Josiah Walker Nicholson",
+  "gender": "M",
+  "genre": "Local History",
+  "year": 1914,
+  "reason": "Manorial history, customs and legends of a Westmorland fell parish."
+}
+{
+  "title": "The Lands of the Scottish Kings in England: the Honour of Huntingdon, the Liberty of Tyndale and the Honour of Penrith",
+  "author": "Margaret Findlay Moore",
+  "gender": "F",
+  "genre": "Medieval History",
+  "year": 1915,
+  "reason": "Study of Scottish royal landholding in Cumberland centred on the honour of Penrith."
+}
+{
+  "title": "Records of Queen Elizabeth Grammar School, Penrith",
+  "author": "Queen Elizabeth Grammar School, Penrith",
+  "gender": "U",
+  "genre": "Records",
+  "year": 1915,
+  "reason": "Documentary records of an old Cumberland grammar school and its town."
+}
+{
+  "title": "The Registers of the Parish Church of Barton, Westmorland",
+  "author": "Henry Brierley",
+  "gender": "M",
+  "genre": "Records",
+  "year": 1917,
+  "reason": "Transcribed registers of a Westmorland parish near Ullswater."
+}
+{
+  "title": "The Development of Vegetation in the English Lakes, considered in Relation to the General Evolution of Glacial Lakes and Rock Basins",
+  "author": "William Harold Pearsall",
+  "gender": "M",
+  "genre": "Ecology",
+  "year": 1921,
+  "reason": "Foundational ecological study of the vegetation and sedimentation of the English lakes."
+}
+{
+  "title": "Milly and Olly; or, A Holiday among the Mountains",
+  "author": "Mary Augusta Ward (Mrs Humphry Ward)",
+  "gender": "F",
+  "genre": "Children's fiction",
+  "year": 1881,
+  "reason": "Children's story of a family holiday in a Lake District valley, closely observed from Westmorland."
+}
+{
+  "title": "Harriet Martineau's Autobiography",
+  "author": "Harriet Martineau",
+  "gender": "F",
+  "genre": "Memoir",
+  "year": 1877,
+  "reason": "Autobiography whose later books describe her building of The Knoll at Ambleside and her Lakeland life."
+}
+{
+  "title": "The Fairy Caravan",
+  "author": "Beatrix Potter",
+  "gender": "F",
+  "genre": "Children's fiction",
+  "year": 1929,
+  "reason": "Fantasy woven from the fells, farms and place-names around Sawrey and Coniston."
+}
+{
+  "title": "William Wordsworth: the Story of his Life, with Critical Remarks on his Writings",
+  "author": "James Middleton Sutherland",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1887,
+  "reason": "Life of Wordsworth set among the Lakeland scenes that shaped his poetry."
+}
+{
+  "title": "Wordsworthiana: A Selection from Papers read to the Wordsworth Society",
+  "author": "William Angus Knight",
+  "gender": "M",
+  "genre": "Literary history",
+  "year": 1889,
+  "reason": "Papers on Wordsworth's life and Lakeland surroundings by members of the Wordsworth Society."
+}
+{
+  "title": "The Early Life of William Wordsworth, 1770-1798: a Study of The Prelude",
+  "author": "Emile Legouis",
+  "gender": "M",
+  "genre": "Literary history",
+  "year": 1897,
+  "reason": "Study of Wordsworth's Cumberland and Westmorland boyhood as recorded in The Prelude."
+}
+{
+  "title": "The Life and Correspondence of Robert Southey",
+  "author": "Robert Southey",
+  "gender": "M",
+  "genre": "Letters",
+  "year": 1849,
+  "reason": "Southey's letters written over forty years at Greta Hall, Keswick, with much on Lakeland life."
+}
+{
+  "title": "Cumberland and Westmorland Antiquarian and Archaeological Society Tract Series",
+  "author": "Cumberland and Westmorland Antiquarian and Archaeological Society",
+  "gender": "U",
+  "genre": "Antiquarian",
+  "year": 1882,
+  "reason": "Monograph series on the archaeology, records and topography of the Lake District counties."
+}
+{
+  "title": "Phantasmion",
+  "author": "Sara Coleridge",
+  "gender": "F",
+  "genre": "Novel",
+  "year": 1837,
+  "reason": "Fairy romance written at Greta Hall, Keswick, whose mountain and lake landscapes are drawn from the poet's Lakeland childhood."
+}
+{
+  "title": "Memoir and Letters of Sara Coleridge, edited by her Daughter",
+  "author": "Sara Coleridge",
+  "gender": "F",
+  "genre": "Letters",
+  "year": 1873,
+  "reason": "Letters and recollections of a childhood at Greta Hall, Keswick, among the Southey and Wordsworth households."
+}
+{
+  "title": "The Diary of the Lady Anne Clifford",
+  "author": "Anne Clifford",
+  "gender": "F",
+  "genre": "Diary",
+  "year": 1923,
+  "reason": "Seventeenth-century diary of the Westmorland heiress who rebuilt Appleby, Brougham, Brough and Pendragon castles."
+}
+{
+  "title": "Dora Wordsworth: Her Book",
+  "author": "Dora Wordsworth",
+  "gender": "F",
+  "genre": "Diary",
+  "year": 1924,
+  "reason": "Commonplace book kept at Rydal Mount by Wordsworth's daughter, recording Lakeland visitors and scenes."
+}
+{
+  "title": "Lady Anne Clifford, Countess of Dorset, Pembroke and Montgomery, 1590-1676",
+  "author": "George Charles Williamson",
+  "gender": "M",
+  "genre": "Biography",
+  "year": 1922,
+  "reason": "Biography of the great Westmorland landowner, drawn from her estate and castle records in the Eden valley."
+}
+{
+  "title": "Holiday Rambles in the English Lake District",
+  "author": "Arthur Bagley",
+  "gender": "M",
+  "genre": "Walking",
+  "year": 1931,
+  "reason": "Interwar walking book describing routes and days out across the Lakeland fells."
+}
