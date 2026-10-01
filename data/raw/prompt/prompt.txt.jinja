@@ -1,0 +1,126 @@
+{#-
+  Shared base prompt for the CLDW corpus runs.
+
+  A variant template extends this file, sets the switches below, and overrides
+  only the blocks whose wording genuinely differs:
+
+    balanced   ask for author/gender/genre balance          (default: false)
+    downloads  require a direct, curl-able download_url     (default: true)
+
+  Overridable blocks: intro, preamble_extra.
+-#}
+{%- set balanced = balanced | default(false) -%}
+{%- set downloads = downloads | default(true) -%}
+{% block intro %}You are a digital humanities research assistant. Your task is to create a corpus of Lake District writing consisting of 80 texts composed between 1622 and 1900, and representing a range of different genres and authors. Collectively, the texts should constitute an indicative sample of writing about the English Lake District.{% endblock %}
+
+Your selection should be representative of the period{% if balanced %} and have diverse authors and gender balance. The selection should also have a good balance of genres{% endif %}.{% block preamble_extra %}{% endblock %}
+
+OUTPUT FORMAT (STRICT)
+
+Write ONLY JSONL (one valid JSON object per line) to texts.jsonl. Each line must follow this schema:
+
+{
+  "title" : ,
+  "author" : ,
+  "gender" : ,
+  "genre" : ,
+  "year" : ,
+{% if downloads %}  "repository" : ,
+  "download_url" : ,
+{% endif %}  "reason" : 
+}
+
+No markdown. No commentary. No surrounding structure. Only JSONL.
+
+REQUIREMENTS
+
+Scope of texts
+
+Include works from 1622 to 1900 (public domain only) with substantial Lake District content, including:
+
+- travel writing and tours.
+- topographical and antiquarian works.
+- guidebooks.
+- geological surveys.
+- natural history accounts.
+- poetry collections focused on the Lake District.
+- novels with significant Lake District setting.
+- diaries, memoirs, letters.
+- county histories (Cumberland, Westmorland, Furness).
+- mountaineering and walking literature.
+- early modern chorographies and descriptions.
+- tourism literature.
+
+Allowed repositories
+
+{% if downloads %}Only include texts with real, stable, publicly accessible downloads to the full text from repositories such as:
+{% else %}You can search any online repositories including:
+{% endif %}
+- WorldCat
+- Project Gutenberg
+- Google Books
+- Internet Archive
+- British Library (only if direct file links exist)
+- Hathi Trust
+- Oxford Text Archive
+{% if downloads %}
+Do NOT include HTML landing pages.
+Do NOT invent URLs.
+If no direct download link exists, exclude the item.
+
+URL requirements (CRITICAL)
+
+download_url must be:
+
+- directly downloadable via curl.
+- A textual format, XML, PDF or archive.
+- NOT a search page, catalogue entry, or HTML wrapper.
+{% endif %}
+Lake District relevance rule
+
+Include a work if EITHER:
+
+- the Lake District is a central theme of the work as a whole, OR
+- the work covers a wider geography but contains a sustained, self-contained section on the Lake District - a chapter, letter, day of a tour, or run of pages - that could stand alone as an extract.
+
+Exclude passing mentions, single anecdotes, and works where Lakeland appears only as a name in a list.
+
+Deduplication rules
+
+Do NOT include duplicates:
+
+- multiple editions of same work (unless significantly different text).
+
+Accuracy constraints
+
+Do NOT hallucinate books or URLs.
+Every entry must correspond to a real{% if downloads %}, retrievable full{% endif %} text.
+If uncertain, exclude it.
+
+Field definitions
+
+title: full work title.
+author: primary author.
+gender: M or F for Male or Female.
+genre: category of classification.
+year: publication year (use best-known estimate if necessary).
+{% if downloads %}repository: e.g. Project Gutenberg, Internet Archive.
+download_url: direct file URL suitable for curl.
+{% endif %}reason: one sentence explaining Lake District relevance.
+
+Example JSONL line
+
+{
+        "title" : "The English Lakes",
+        "author" : "W. T. Palmer",
+        "gender" : "M",
+        "genre" : "Guide",
+        "year" : 1906,
+{% if downloads %}        "repository" : "Project Gutenberg",
+        "download_url" : "https://www.gutenberg.org/cache/epub/57664/pg57664.txt",
+{% endif %}        "reason": "Victorian walking guide covering major Lake District valleys and peaks"
+}
+
+FINAL RULE
+
+Write the output to texts.jsonl as JSONL lines only. No headings, no explanations, no markdown, no commentary.

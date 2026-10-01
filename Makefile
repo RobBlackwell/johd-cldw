@@ -1,44 +1,42 @@
-# Regenerate the outputs in reports/ that appear in the paper.
+# Top-level build for the rendered prompts.
 #
-#   make sync      install dependencies into .venv (uv)
-#   make reports   rebuild the figure and the generated tables
-#   make clean     remove generated outputs
+#   make           # render every prompt.txt that is out of date
+#   make clean     # remove the rendered prompt.txt files and generated inputs
+#   make rebuild   # clean, then render everything from scratch
+#   make list      # show the variant directories that were discovered
+#
+# Each variant under data/raw/ carries its own Makefile; this one just
+# fans out to them, so a new variant directory is picked up automatically
+# as soon as it has a Makefile.
+#
+# The interim LD80 dataset (data/interim/ld80-metadata) is deliberately
+# left out: it regenerates from a LakeDistrictCorpus checkout outside this
+# repo, and its outputs are committed. Build it on demand with
+#   make -C data/interim/ld80-metadata
 
-FIGDIR = reports/figures
-TABDIR = reports/tables
+MAKE_FLAGS := --no-print-directory
 
-# Run the scripts inside the project environment created by `make sync`.
-# Override for a plain virtualenv, e.g.  make reports PYTHON=../.venv/bin/python
-PYTHON = uv run python
+PROMPT_DIRS := $(patsubst %/Makefile,%,$(wildcard data/raw/*/Makefile))
 
-sync:
-	uv sync
+BUILD_TARGETS := $(addprefix build-,$(PROMPT_DIRS))
+CLEAN_TARGETS := $(addprefix clean-,$(PROMPT_DIRS))
 
-reports: $(FIGDIR)/corpus_year_distributions.pdf \
-         $(TABDIR)/gender_balance_table.tex \
-         $(TABDIR)/genre_balance_table.tex \
-         $(TABDIR)/corpus_table.tex
+.PHONY: all clean rebuild list $(BUILD_TARGETS) $(CLEAN_TARGETS)
 
-# Figure 1: year-distribution strip plot for the three corpora.
-$(FIGDIR)/corpus_year_distributions.pdf: src/plot_year_distributions.py
-	cd src && $(PYTHON) plot_year_distributions.py ../$@
+all: $(BUILD_TARGETS)
 
-# Table 1: author gender balance.
-$(TABDIR)/gender_balance_table.tex: src/print_gender_ratios.py
-	cd src && $(PYTHON) print_gender_ratios.py --latex-output ../$@
+$(BUILD_TARGETS):
+	$(MAKE) $(MAKE_FLAGS) -C $(patsubst build-%,%,$@) all
 
-# Table 2: genre balance.
-$(TABDIR)/genre_balance_table.tex: src/print_genre_distributions.py
-	cd src && $(PYTHON) print_genre_distributions.py --latex-output ../$@
+clean: $(CLEAN_TARGETS)
 
-# Full CLDW2 text listing (supplementary; not included in the paper body).
-$(TABDIR)/corpus_table.tex: src/make_corpus_table.py
-	cd src && $(PYTHON) make_corpus_table.py --output ../$@
+$(CLEAN_TARGETS):
+	$(MAKE) $(MAKE_FLAGS) -C $(patsubst clean-%,%,$@) clean
 
-clean:
-	rm -f $(FIGDIR)/corpus_year_distributions.pdf \
-	      $(TABDIR)/gender_balance_table.tex \
-	      $(TABDIR)/genre_balance_table.tex \
-	      $(TABDIR)/corpus_table.tex
+# Two passes so that -j never interleaves the clean with the rebuild.
+rebuild:
+	$(MAKE) $(MAKE_FLAGS) clean
+	$(MAKE) $(MAKE_FLAGS) all
 
-.PHONY: sync reports clean
+list:
+	@$(foreach d,$(PROMPT_DIRS),echo $(d);)

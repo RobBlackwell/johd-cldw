@@ -1,0 +1,23 @@
+I'll research this systematically, then write the JSONL. Let me start by checking the working directory and existing corpus metadata.
+
+Network access works. Let me harvest candidate records systematically from the Internet Archive API.
+
+Now let me run targeted verification for known Lakeland bibliography items not yet caught by the harvest.
+
+I have a verified candidate pool. Now let me compose the JSONL.
+
+Now let me validate the output against every requirement — schema, date range, and overlap with the existing corpus.
+
+`/work/texts.jsonl` is written: **291 entries**, JSONL only, one object per line, schema exactly as specified.
+
+**How it was built** — every entry was checked against a live repository record rather than recalled from memory. I harvested ~4,800 pre-1902 records from the Internet Archive advancedsearch API across ~190 subject/title/creator queries, triaged them by Lakeland place-name and genre keywords, then ran ~350 targeted confirmation queries for named works from the Lakeland bibliography. Anything I could not confirm was dropped (e.g. Bailey & Culley's Cumberland agricultural report, Farington's *Views of the Lakes*, Peter Crosthwaite's maps, W. T. Palmer's pre-1900 titles, "Betty Wilson's Cumberland Teals").
+
+**Validated:** 0 schema errors; all years within 1622–1900; no empty fields; no duplicate titles; fuzzy-matched against all 82 existing corpus records (all 31 flagged pairs inspected and confirmed distinct works).
+
+**Coverage** — 1620s–1700s: 12 · 1700s–1790s: 25 · 1800s–1840s: 70 · 1850s–1900: 184. Genres span chorography, tours, guidebooks, county and parish histories, geology and Geological Survey memoirs, natural history and flora/fauna, dialect and folklore, poetry, novels, journals/letters/memoirs, mountaineering, angling and sporting, and conservation polemic (the Thirlmere and railway pamphlets). 18 entries are by women.
+
+Three judgement calls you should know about, since they affect what counts as "in scope":
+
+- **Wider-geography works** are included only where the Lakeland part is an extractable run — e.g. Dickens and Collins's *Lazy Tour* (the Carrock Fell episode), Emerson's *English Traits* (the Rydal Mount visit), Howitt, Cobbett, Dibdin, Burritt. A few of these rest on my knowledge of the book's structure rather than a page-level check, so they are the likeliest candidates for pruning: Burritt, *Picturesque Europe*, *The Land We Live In*, and Manning & Green's *English Pictures*.
+- **Composition vs publication year.** Following the pattern in your existing corpus (Hammond, Gell, Wilberforce), I dated works by composition where that differs sharply from printing: Sandford 1675, Fleming 1671, Lowther 1629, Todd 1700. All were printed later, in the 19th century.
+- **Editions.** I excluded reissues of works already in the corpus, and dropped Otley's 1842 *Descriptive Guide* and Black's *Economical Guide* as too close to texts you already hold. Black's *Picturesque Guide* (1850) is retained — it is a substantially larger book carrying Phillips's geology essay, not a reprint of the *Shilling Guide*.

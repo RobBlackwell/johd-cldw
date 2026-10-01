@@ -1,0 +1,34 @@
+I'll start by checking the working directory, then research Lake District texts across repositories.
+
+Internet Archive's API works. Let me run a broad systematic harvest.
+
+Strong signal. Now a much wider query sweep.
+
+The early-period results are noisy. Let me tighten the filter and review properly.
+
+Good coverage. Let me run additional targeted sweeps for under-represented genres.
+
+Let me verify a batch of specific known works, especially by women authors.
+
+I have a verified candidate pool. Now writing the corpus file.
+
+255 entries. Let me fix two issues and expand further with another harvest round.
+
+Now extending the build with the additional verified works.
+
+Let me improve gender balance with targeted searching for women authors.
+
+`/work/texts.jsonl` now holds **324 JSONL lines** — one work per line, no other content in the file.
+
+**How it was built**
+- Harvested ~10,500 catalogue records from the Internet Archive advanced-search API across ~60 query strands (place names, valleys, fells, county terms, genre terms), then filtered to ~1,150 candidates and hand-reviewed them by period.
+- Verified individually uncertain items with targeted title/creator lookups in Internet Archive, Open Library and Google Books. Anything I could not confirm exists was dropped (e.g. Beck's *Annales Furnesienses*, a Hutton caves tour, Ward & Lock's Lakes guide, Hodgson-attribution checks).
+- Cross-checked every entry against your 83 existing records; the two apparent collisions were false positives (Linton's *The Lake Country*, 1864 is a distinct book from Waugh's *Rambles in the Lake Country*), and I removed Waugh's *In the Lake Country* (1880) because it is likely a reissue of his 1861 volume.
+
+**Composition**
+- Span 1629–1900, weighted to 1850–1900 (198 items) as the print record itself is; 45 items pre-1780.
+- 242 distinct authors, 29 genres: Poetry 49, Antiquarian 31, Guide 26, Local History 24, Travel 21, Natural History 19, Biography 19, Topography 15, Dialect 15, Geology 14, Novel 12, County History 11, Memoir 10, plus Letters, Diary, Drama, Chapbook, Periodical, Mountaineering, Sport, Agricultural/Industrial Survey, Chorography, Folklore, Legend, Tract.
+
+**Two things to flag**
+- Gender is 297 M / 27 F. I searched specifically for women writers and added every one I could verify (Wheeler, Blamire, Powley, Ponsonby, Sarah Murray, Dorothy Wordsworth ×2, Sara Coleridge, Eliza Fletcher, Elizabeth Smith, Anna Seward, Martineau ×2, Lynn Linton ×2, Mrs Humphry Ward ×2, Hofland, Rea, Warden, Stowe, Briton, Blair, Bourne, Ryves, plus anonymous novels). The published Lake District corpus for this period is genuinely male-dominated; a balanced sample is not achievable from print sources alone without going to manuscript diaries, so the imbalance is in the record, not the search.
+- For four anonymous works the `gender` field is an inference from attribution evidence rather than a known fact (e.g. *The Lake of Windermere*, whose "Editor of The Letters of Maria" points to Elizabeth Hervey); *The Carpenter's Daughter of Derham-Down* is the weakest of these. I excluded *Eugenia; or, Early Scenes in Cumberland* (1823) entirely because its author is catalogued only as "Marshall" and I had no basis for the gender field.

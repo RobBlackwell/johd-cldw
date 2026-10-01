@@ -1,0 +1,35 @@
+I'll start by checking the working directory and then research Lake District texts across repositories.
+
+Network access works. Let me build a harvesting pipeline against the Internet Archive API.
+
+Now let me filter the 18,650 candidates for Lakeland relevance and deduplicate.
+
+Let me take a precision approach: verify a knowledge-driven candidate list against repository APIs, plus mine the harvest for discoveries.
+
+Good yield. Let me run targeted searches for underrepresented categories (women authors, novels, mountaineering, natural history, American travellers).
+
+I have a strong verified pool. Now let me verify my additional knowledge-based candidates against the APIs.
+
+Let me verify a final batch, focusing on gender balance and remaining gaps.
+
+I have a well-verified pool. Now writing the final corpus file.
+
+280 entries. Let me strengthen the count and gender balance with another targeted discovery round.
+
+Now finalizing the corpus file with all verified additions.
+
+`texts.jsonl` is written (321 lines, JSONL only, no other content) at `/work/texts.jsonl` — and also in `/work/out/`.
+
+**How it was built:** harvested ~19,000 Internet Archive records via the advancedsearch API across ~70 targeted queries, filtered on ~70 Lakeland place-name/keyword signals, then verified every knowledge-derived candidate against Internet Archive and OpenLibrary before inclusion. Anything I could not confirm against a real record was dropped (e.g. Herman Prior's Lake District guides, Braithwaite variants I couldn't pin down, several plausible-sounding titles).
+
+**Composition:**
+- **321 entries**, 1627–1900 by publication, plus a few posthumous printings of in-period texts (following the existing corpus's own practice with its 1904/1968/1983 IDs)
+- Period spread: 17th c. 5, 18th c. ~36, 1800–1850 ~79, 1850–1900 ~195 — weighted to the later period, matching where the writing actually is
+- ~60 genres: Poetry 43, Guide 24, Local history 24, Antiquarian 21, Travel 21, Novel 16, Biography 16, Natural history 13, Geology 13, Dialect 12, Memoir 12, plus mountaineering, angling, agriculture, mining, meteorology, folklore, archaeology, drama-adjacent comic travel, learned-society transactions
+- Zero overlap with your 84 existing records — I ran a normalised title cross-check and removed the two genuine collisions it surfaced (Thorne's *Rambles by Rivers*, Waugh's *In the Lake Country*), plus five edition-duplicates within my own list (Black's guides, Gilpin's and Dickinson's revised editions, a West reissue)
+
+**Two things worth flagging:**
+
+1. **Gender balance is 283 M / 38 F.** That is much better than the source corpus (roughly 7 women in 84) but nowhere near parity. I searched hard for more — Blamire, Lickbarrow, Wheeler, Powley, Rea, Ponsonby, Bourne, Elizabeth Smith, Sarah Murray, Spence, Eliza Fletcher, Mary Wilson Gordon, Edith Coleridge, Dorothy Wordsworth, Martineau, Linton, Mrs Humphry Ward, Gaskell, Stowe, Greenwood, Kirkland, Hofland, St John, Warden, Kemble, Sara Coleridge. The ceiling is real: published Lakeland topography, geology, county history and guidebooks in this period were almost entirely male. Pushing much past ~12% would mean padding with works whose Lake District content I could not defend under your relevance rule.
+
+2. **`gender` for anonymous and corporate authors is an inference.** Nine entries are anonymous or attributed to firms (Black's, Nelson, Shaw, Cumberland and Westmorland Antiquarian Society). The schema forces M or F with no third option, so I assigned the most probable value — "M" for publishers' compilations, "F" for two 1790s sentimental novels whose conventions and imprint suggest a woman author. Treat those nine as low-confidence if gender is a variable in your analysis; I can supply the list if you want them flagged or dropped.

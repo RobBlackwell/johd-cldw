@@ -1,0 +1,568 @@
+Corpora: cldw = Original CLDW, c2-u = cldw2-unbalanced, c2-b = cldw2-balanced, un-u = universe-unbalanced, un-b = universe-balanced, un-b2 = universe-balanced-run2
+
+date              author                          title                                                     g  genre                 cldw  c2-u  c2-b  un-u  un-b  un-b2
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1622 (1598)       Michael Drayton                 Poly-Olbion; or, A chorographicall description of all t…  M  Poetry                   x     .     .     .     .      .
+1622              Michael Drayton                 The Second Part, or a Continuance of Poly-Olbion, from …  M  Chorographical po…       .     x     x     .     .      .
+1627              John Speed                      The Theatre of the Empire of Great Britaine: Presenting…  M  Chorography              .     .     .     x     x      .
+1629              Sir Christopher Lowther         Our Journall into Scotland, Anno Domini 1629, 5th of No…  M  Travel journal           .     .     .     x     .      x
+1637-1806         William Camden                  Britannia, or a Chorographical Description of the Flour…  M  Chorography              .     .     x     .     .      x
+1638              Richard Brathwait               Barnabae Itinerarium; or, Drunken Barnaby's Four Journe…  M  Travel poetry            .     .     .     x     x      .
+1662              Thomas Fuller                   The History of the Worthies of England                    M  Topographical bio…       .     .     .     x     .      .
+1671-1882 (1671)  Sir Daniel Fleming              Description of the County of Westmorland                  M  Topography               .     .     .     x     x      x
+1673              Richard Blome                   Britannia, or a Geographical Description of the Kingdom…  M  Chorography              .     .     .     x     .      .
+1675-1890         Edmund Sandford                 A Cursory Relation of all the Antiquities and Familyes …  M  Antiquarian              .     .     .     x     x      x
+1684              Thomas Machell                  A Letter from Mr. Thomas Machel of Kirkbythore in Westm…  M  Antiquarian              .     .     .     x     x      x
+1694 (1652)       George Fox                      A Journal, or Historical Account of the Life, Travels, …  M  Diary                    .     .     .     .     .      x
+1694              George Fox                      The Journal of George Fox                                 M  Journal                  .     .     .     .     x      .
+1695-1722         William Camden                  Britannia, or a Chorographical Description of Great Bri…  M  Chorography              .     x     .     x     x      x
+1700-1891         Hugh Todd                       Notitia Ecclesiae Cathedralis Carliolensis, et Notitia …  M  Antiquarian              .     .     .     x     x      x
+1705              Anon.                           The Pleasant and Delightful History of the Renowned Nor…  M  Chapbook                 .     .     .     .     .      x
+1708              Anon.                           The Union-Proverb: viz. If Skiddaw has a Cap, Scruffell…  M  Pamphlet                 .     .     .     x     x      x
+1709              Thomas Robinson                 An Essay towards a Natural History of Westmorland and C…  M  Natural history          .     .     x     x     x      x
+1710              Hugh Todd                       A Letter from the Reverend Dr Hugh Todd of Carlisle to …  M  Antiquarian              .     .     .     .     x      .
+1710              Hugh Todd                       A Letter from the Reverend Dr. Hugh Todd, Prebendary of…  M  Antiquarian letter       .     .     .     x     .      .
+1711              John Leland                     The Itinerary of John Leland the Antiquary                M  Chorography              .     .     .     .     .      x
+1720              John Ogilby                     Britannia Depicta, or Ogilby Improv'd                     M  Road book                .     .     .     x     .      .
+1720              Thomas Cox                      Magna Britannia et Hibernia, Antiqua et Nova: or, A New…  M  Topography               .     .     .     x     x      x
+1722              John Macky                      A Journey through England, in Familiar Letters from a G…  M  Travel letters           .     .     .     x     .      .
+1726              Alexander Gordon                Itinerarium Septentrionale: or, a Journey thro' most of…  M  Antiquarian travel       .     .     .     x     x      .
+1727              Browne Willis                   A Survey of the Cathedrals of York, Durham, Carlisle, C…  M  Antiquarian survey       .     .     .     x     x      .
+1727-1753 (1722)  Daniel Defoe                    A Tour thro' the Whole Island of Great Britain, Divided…  M  Travel writing           x     x     x     .     .      .
+1733              James Lowther                   An Account of the Damp Air in a Coal-Pit of Sir James L…  M  Scientific paper         .     .     .     x     .      .
+1740              Thomas Short                    An Essay towards a Natural, Experimental and Medicinal …  M  Natural history          .     .     .     .     x      .
+1740              Thomas Short                    An Essay towards a Natural, Experimental and Medicinal …  M  Natural History          .     .     .     .     .      x
+1746 (1745)       Anon.                           An Authentic History of the Life and Character of Thoma…  M  Biography                .     .     .     .     .      x
+1746              Charles Easy                    The Siege of Carlisle: A Poem                             M  Poetry                   .     .     .     .     .      x
+1746 (1745)       James Ray                       The Acts of the Rebels: being an Abstract of the Journa…  M  Journal                  .     .     .     .     x      .
+1747              A Volunteer                     A Journey through part of England and Scotland along wi…  M  Travel                   .     .     .     .     x      .
+1747              George Smith                    A Journey to Caudbec Fells                                M  Essay                    x     .     .     .     .      .
+1747              George Smith                    A Journey up to Cross-Fell Mountain                       M  Essay                    x     .     .     .     .      .
+1747              George Smith                    An Account of a Survey of the Northwest Coast of England  M  Essay                    x     .     .     .     .      .
+1747              Josiah Relph                    A Miscellany of Poems, consisting of Original Poems, Tr…  M  Poetry                   .     .     x     x     x      x
+1747              Thomas Story                    A Journal of the Life of Thomas Story                     M  Journal                  .     .     .     .     x      x
+1749              John Lock                       An Account of a Surprising Inundation in the Valley of …  M  Scientific account       .     .     .     x     x      x
+1753              John Warburton                  Vallum Romanum: or, the History and Antiquities of the …  M  Antiquarian              .     .     .     x     x      x
+1755              Anon.                           Some Thoughts on Building and Planting, addressed to Si…  M  Estate improvement       .     .     .     x     .      .
+1755              John Dalton                     A Descriptive Poem, Addressed to Two Ladies, at their R…  M  Poetry                   x     .     .     .     .      .
+1757              Philip Miller                   An Account of the Effects of a Storm at Wigton in Cumbe…  M  Scientific account       .     .     .     x     x      x
+1763              John Taylor                     Observations on Two Antient Roman Inscriptions Discover…  M  Antiquarian paper        .     .     .     x     .      .
+1763              William Milbourne               An Account of a Remarkable Decrease of the River Eden, …  M  Scientific account       .     .     .     x     .      .
+1764 (1759)       John Wesley                     An Extract of the Rev. Mr. John Wesley's Journal          M  Journal                  x     .     .     .     .      .
+1767 (1751)       John Brown                      Description of the Lake and Vale of Keswick               M  Epistle                  x     .     .     .     .      .
+1768              'C. S., Surgeon in His Majest…  A Panegyric Poem, on Lady Mary Lowther's Arrival at Whi…  M  Poetry                   .     .     .     x     .      x
+1769              Anon.                           A Description of England and Wales, containing a Partic…  M  Topography               .     .     .     x     .      .
+1769              Anon.                           The History of Carlisle, Ancient and Modern; also Carli…  M  Chapbook                 .     .     .     .     .      x
+1770-1771         Arthur Young                    Six Months' Tour Through the North of England, etc.       M  Travel writing           x     x     .     .     .      .
+1771              John Brown                      A Description of the Lake at Keswick, and the Adjacent …  M  Topographical des…       .     x     .     .     .      .
+1771              Robert Sanders                  The Complete English Traveller: or, A New Survey and De…  M  Topography               .     .     .     .     x      .
+1771              Thomas Pennant                  A Tour in Scotland. MDCCLXIX                              M  Travelogue               x     .     .     .     .      .
+1772              John Walker                     An Account of the Irruption of Solway Moss, December 16…  M  Scientific account       .     .     .     x     .      x
+1773              Francis Grose                   The Antiquities of England and Wales                      M  Antiquarian topog…       .     .     .     x     .      .
+1774              Thomas Pennant                  A Tour in Scotland, and Voyage to the Hebrides; MDCCLXX…  M  Travelogue               x     .     .     .     .      .
+1774              Thomas West                     The Antiquities of Furness; or, an Account of the Royal…  M  Antiquarian              .     x     x     x     x      x
+1774-1776 (1773)  William Hutchinson              An Excursion to the Lakes in Westmoreland and Cumberlan…  M  Travel writing           x     x     x     .     .      .
+1775 (1769)       Thomas Gray                     Journal of A Visit to the Lake District in 1769           M  Epistle                  x     .     .     .     .      .
+1775-1821 (1769)  Thomas Gray                     The Works of Thomas Gray                                  M  Travel journal an…       .     x     x     .     .      .
+1776              Richard Cumberland              Odes                                                      M  Poetry                   x     .     .     .     .      .
+1776              Robert Goadby                   A New Display of the Beauties of England; or, a Descrip…  M  Topography               .     .     .     .     .      x
+1777              Joseph Nicolson and Richard B…  The History and Antiquities of the Counties of Westmorl…  M  County history           .     x     x     x     x      x
+1778              Thomas West                     A Guide to the Lakes: Dedicated to the Lovers of Landsc…  M  Guide                    x     x     x     .     .      .
+1779              Ewan Clark                      Miscellaneous Poems                                       M  Poetry                   .     .     .     .     x      x
+1779              Mark Elstob                     A Trip to Kilkenny, from Durham by way of Whitehaven an…  M  Travel                   .     .     .     x     x      x
+1780              Anon.                           A Choice Collection of Poems in the Cumberland Dialect    M  Poetry                   .     .     .     x     x      x
+1780              Richard Joseph Sullivan         Observations Made During a Tour through Parts of Englan…  M  Travelogue               x     .     .     .     .      .
+1780              William Cockin                  Ode to the Genius of the Lakes. A Poem                    M  Poetry                   x     .     .     .     .      .
+1782              Peter Crosthwaite               To the Editor of the General Evening Post: on the Unpar…  M  Letters                  .     .     .     .     .      x
+1783              Anon. ('A Cumbrian')            The Cumbrian Festival: A Poem. By a Cumbrian              M  Poetry                   .     .     .     x     .      x
+1783              William Bray                    Sketch of a Tour into Derbyshire and Yorkshire, includi…  M  Travel                   .     .     .     .     .      x
+1786-1788 (1772)  William Gilpin                  Observations, Relative Chiefly to Picturesque Beauty, M…  M  Travel, picturesq…       x     x     x     .     .      .
+1787-1789         James Clarke                    A Survey of the Lakes of Cumberland, Westmorland, and L…  M  Topographical sur…       x     x     x     .     .      .
+1788              Isaac Ritson                    A Copy of a Letter wrote by a Young Shepherd to his Fri…  M  Dialect letter           .     .     .     x     x      x
+1788              John Aikin                      England Delineated; or, a Geographical Description of E…  M  Topography               .     .     .     .     x      .
+1788              Stebbing Shaw                   A Tour in 1787, from London to the Western Highlands of…  M  Travelogue               x     .     .     .     .      .
+1788              Thomas Newte                    A Tour in England and Scotland, in 1785                   M  Travelogue               x     .     .     .     .      .
+1789              Hayman Rooke                    Antiquities in Cumberland and Westmorland: in a Letter …  M  Antiquarian paper        .     .     .     x     .      x
+1790              Ann Wheeler                     The Westmorland Dialect, in Three Familiar Dialogues      F  Dialect                  .     .     .     x     x      x
+1790              Samuel Beilby                   A Sermon on Religious Toleration, preached in the Churc…  M  Sermon                   .     .     .     .     x      .
+1791              Anon. ('Editor of The Letters…  The Lake of Windermere: A Novel                           F  Novel                    .     .     .     x     x      x
+1792              Adam Walker                     Remarks Made in a Tour from London to the Lakes of West…  M  Travel writing           x     x     .     .     .      .
+1792              Anon.                           The Carpenter's Daughter of Derham-Down; or, Sketches o…  F  Novel                    .     .     .     x     x      x
+1792-1795         Joseph Budworth                 A Fortnight's Ramble to the Lakes in Westmorland, Lanca…  M  Travel writing           x     x     x     .     .      .
+1793              Joseph Fisher                   Observations and Inquiries made upon and concerning the…  M  Industrial Survey        .     .     .     .     x      x
+1793              William Wordsworth              An Evening Walk: An Epistle in Verse, Addressed to a Yo…  M  Poetry                   .     .     .     .     x      x
+1794              Andrew Pringle                  General View of the Agriculture of the County of Westmo…  M  Agriculture              .     .     .     x     x      x
+1794              William Hutchinson              The History of the County of Cumberland, and some Place…  M  County history           .     x     x     x     x      x
+1795 (1794)       Ann Radcliffe                   A Journey Made in the Summer of 1794, etc.                F  Travel writing           x     x     x     .     .      .
+1795              Henry Skrine                    Three Successive Tours in the North of England, etc.      M  Travelogue               x     .     .     .     .      .
+1796              William Hutchinson              The History and Antiquities of the City of Carlisle, an…  M  County History           .     .     .     x     .      x
+1797              John Jackson                    Poems on several occasions, written chiefly in the remo…  M  Poetry                   .     .     .     x     x      x
+1798              George Thompson                 A Sentimental Tour, collected from a Variety of Occurre…  M  Travel                   .     .     .     .     x      x
+1798              George Thompson                 A Sentimental Tour, collected from a variety of occurre…  M  Travel narrative         .     .     .     x     .      .
+1798              James Plumptre                  The Lakers: A Comic Opera in Three Acts                   M  Drama, satire            x     .     x     .     .      .
+1798              Joseph Budworth (Palmer)        Windermere, a Poem                                        M  Poetry                   .     x     .     x     x      x
+1798-1800         William Wordsworth and Samuel…  Lyrical Ballads, with Other Poems                         M  Poetry                   .     .     .     x     x      x
+1799              Rowland Hill                    Journal of a Tour through the North of England and Part…  M  Travel journal           .     .     .     x     x      .
+1799              Sarah Murray                    A Companion, and Useful Guide to the Beauties of Scotla…  F  Guide                    .     x     x     x     x      x
+1800              Anon.                           A Wonderful Prophecy by a Mermaid, who was seen and spo…  M  Chapbook                 .     .     .     x     .      .
+1800              Anon.                           The North-Country Angler; or, the Art of Angling as Pra…  M  Angling                  .     .     .     x     .      .
+1800-1808         John Housman                    A Descriptive Tour, and Guide to the Lakes, Caves, Moun…  M  Guide                    .     x     x     x     x      x
+1800              John Housman                    A Topographical Description of Cumberland, Westmoreland…  M  Guide                    x     .     .     .     .      .
+1800              Robert Anderson                 A Garland of New Songs: Daft Watty's Ramble to Carlisle   M  Dialect song             .     .     .     x     .      x
+1800              Thomas Sanderson                Original Poems                                            M  Poetry                   .     .     .     x     x      x
+1801              Clement Cruttwell               A Tour through the Whole Island of Great Britain, divid…  M  Travel                   .     .     .     .     .      x
+1801              Thomas Pennant                  A Tour from Downing to Alston-Moor                        M  Travel narrative         .     .     .     x     .      .
+1802-1840         Ann Coward Wheeler              The Westmoreland Dialect in Four Familiar Dialogues       F  Dialect                  .     .     .     .     x      .
+1802              John Britton and Edward Wedla…  The Beauties of England and Wales: Cumberland and Westm…  M  Topography               .     .     .     x     .      x
+1802              John Britton and Edward Wedla…  The Beauties of England and Wales; or, Delineations Top…  M  Topography               .     .     .     .     x      .
+1802              Richard Warner                  A Tour through the Northern Counties of England and the…  M  Travel                   .     .     .     x     x      x
+1802              William Hutton                  The History of the Roman Wall, which crosses the Island…  M  Antiquarian              .     .     .     .     .      x
+1804              Anon.-T. Ostell (pub.)          Observations, Chiefly Lithological, Made in a Five Week…  M  Travelogue               x     .     .     .     .      .
+1804              James Denholm                   A tour to the principal Scotch and English Lakes          M  Travelogue               x     .     .     .     .      .
+1804              Priscilla Wakefield             A Family Tour through the British Empire                  F  Fiction                  x     .     .     .     .      .
+1804              Thomas Pennant                  A Tour from Alston-Moor to Harrowgate, and Brimham Crags  M  Travel narrative         .     .     .     x     .      .
+1804              Thomas Thornton                 A Sporting Tour through the Northern Parts of England, …  M  Travelogue               x     .     .     .     .      .
+1805              Anon.-Richard Phillips (pub.)   Gleanings of a Wanderer, in Various Parts of England, S…  M  Travelogue               x     .     .     .     .      .
+1805              John Stagg                      Miscellaneous Poems, some of which are in the Cumberlan…  M  Poetry                   .     .     .     x     x      x
+1805              Joseph Mawman                   An Excursion to the Highlands of Scotland and the Engli…  M  Travel writing           x     x     .     .     .      .
+1805              Josiah Relph                    Poems, Humorous and Sentimental: consisting of Cumberla…  M  Poetry                   .     .     .     x     x      .
+1806              John Feltham                    A Guide to all the Watering and Sea-Bathing Places; wit…  M  Guide                    .     .     .     .     x      x
+1807-1808         Robert Southey                  Letters from England, by Don Manuel Alvarez Espriella     M  Travel, letters          x     x     x     .     .      .
+1807              William Wordsworth              Poems, in Two Volumes                                     M  Poetry                   .     .     .     x     x      x
+1808-1818         Elizabeth Smith                 Fragments, in Prose and Verse, by Miss Elizabeth Smith,…  F  Letters and poetry       .     .     x     .     x      x
+1808-1840         Robert Anderson                 Ballads in the Cumberland Dialect                         M  Poetry                   .     x     x     x     x      x
+1808              William Marshall                A Review of the Reports to the Board of Agriculture fro…  M  Agricultural surv…       .     .     .     x     .      x
+1808              William Marshall                Review and Abstract of the County Reports to the Board …  M  Agriculture              .     .     .     .     x      .
+1809              Elizabeth Isabella Spence       Summer Excursions through parts of Oxfordshire, Yorkshi…  F  Travel                   .     .     .     .     x      .
+1809              William Nicolson                Letters on Various Subjects, Literary, Political and Ec…  M  Letters                  .     .     .     .     .      x
+1810              George Alexander Cooke          Topographical and Statistical Description of the County…  M  Topography               .     .     .     .     x      .
+1810              John Hodgson                    A Topographical and Historical Description of Westmorla…  M  Topography               .     .     .     x     x      x
+1810              John Stagg                      The Minstrel of the North; or, Cumbrian Legends: being …  M  Poetry                   .     .     x     x     x      x
+1810              Joseph Wilkinson                Select Views in Cumberland, Westmoreland and Lancashire   M  Views and descrip…       .     .     .     x     x      x
+1810              William Green                   A Description of Sixty Studies from Nature, etched in t…  M  Topographical des…       .     .     .     x     x      .
+1811 (1784)       Anna Seward                     Letters of Anna Seward, written between the Years 1784 …  F  Letters                  .     .     .     .     .      x
+1811              Charles Farish                  The Minstrels of Winandermere                             M  Poetry                   .     .     .     .     x      .
+1811              Francis Jollie                  Jollie's Sketch of Cumberland Manners and Customs, part…  M  Dialect and folkl…       .     .     .     .     x      .
+1812              John Wilson                     The Isle of Palms, and other Poems                        M  Poetry                   .     .     .     .     x      x
+1812              Mrs F. Ryves                    Cumbrian Legends; or, Tales of Other Times                F  Poetry                   .     .     .     x     x      x
+1812 (1809)       William Combe                   The tour of Doctor Syntax in Search of the Picturesque    M  Poetry                   x     .     .     .     .      .
+1813 (1796)       Duke of Rutland [John Henry M…  Journal of a Tour to the Northern Parts of Great Britai…  M  Journal                  x     .     .     .     .      .
+1813              Sir Walter Scott                The Bridal of Triermain                                   M  Narrative poetry         .     .     x     x     x      .
+1814              Isabella Lickbarrow             Poetical Effusions                                        F  Poetry                   .     .     .     .     x      .
+1814              William Green                   A Description of a Series of Sixty Small Prints           M  Topographical des…       .     .     .     x     x      x
+1814              William Wordsworth              The Excursion, being a Portion of The Recluse: A Poem     M  Poetry                   .     .     x     x     x      x
+1815 (1810)       Louis Simond                    Journal of a Tour and Residence in Great Britain during…  M  Travel                   .     .     .     .     x      x
+1815              Thomas Greatorex                Observations on the Heights of Mountains in the North o…  M  Scientific paper         .     .     .     x     x      .
+1815              William Wordsworth              The White Doe of Rylstone; or, The Fate of the Nortons    M  Poetry                   .     .     .     .     .      x
+1816              Daniel and Samuel Lysons        Magna Britannia: Volume the Fourth, containing Cumberla…  M  County topography        .     .     .     x     .      .
+1816              Jane Harvey                     Brougham Castle: A Novel                                  F  Novel                    .     .     .     x     .      .
+1816              Samuel Heinrich Spiker          Travels through England, Wales & Scotland in the Year 1…  M  Travelogue               x     .     .     .     .      .
+1816              Samuel Taylor Coleridge         Christabel; Kubla Khan, a Vision; The Pains of Sleep      M  Poetry                   .     .     .     .     x      x
+1816              William Reid Clanny             A Treatise on the Mineral Waters of Gilsland              M  Medical topography       .     .     .     x     .      .
+1817              Sir Walter Scott                The Border Antiquities of England and Scotland            M  Antiquarian topog…       .     .     .     x     .      .
+1819              Catherine Hutton                Oakwood Hall, a novel, including a description of the L…  F  Novel                    x     x     .     .     .      .
+1819              John Robinson                   A Guide to the Lakes, in Cumberland, Westmorland, and L…  M  Guide                    x     .     .     .     .      .
+1819              Joseph John Gurney              Notes on a Visit made to some of the Prisons in Scotlan…  M  Reform narrative         .     .     .     x     .      .
+1819              William Green                   The Tourist's New Guide, containing a Description of th…  M  Guide                    .     x     x     x     x      x
+1819              William Wordsworth              Peter Bell: A Tale in Verse                               M  Poetry                   .     .     .     .     .      x
+1819              William Wordsworth              The Waggoner: A Poem, to which are added Sonnets          M  Poetry                   .     .     .     .     x      x
+1820 (1700)       Anon.                           A Political History of the City of Carlisle, from the Y…  M  Local history            .     .     .     x     .      x
+1820              Robert Anderson                 The Poetical Works of Robert Anderson, Author of 'Cumbe…  M  Poetry                   .     .     .     .     x      x
+1820              Various                         The Lonsdale Magazine, or Provincial Repository           M  Periodical               .     .     .     .     .      x
+1820 (1809)       William Wordsworth              The River Duddon: A Series of Sonnets                     M  Poetry                   x     .     .     .     .      .
+1821              John Stagg                      The Cumbrian Minstrel                                     M  Poetry                   .     .     .     .     x      .
+1822 (1809)       William Wordsworth              A Description of the Scenery of the Lakes in the North …  M  Guide                    x     .     .     .     .      .
+1823              Anon.                           Eugenia; or, Early Scenes in Cumberland                   F  Novel                    .     .     .     .     x      .
+1823              Jonathan Otley                  A Concise Description of the English Lakes, the Mountai…  M  Guide                    x     .     .     .     .      .
+1823              William Litt                    Wrestliana; or, an Historical Account of Ancient and Mo…  M  Sport                    .     .     .     x     x      x
+1824              Thomas Wilkinson                Tours to the British Mountains, with the Descriptive Po…  M  Travel writing an…       x     x     x     .     .      .
+1825              John Briggs                     The Remains of John Briggs, containing Letters from the…  M  Essays and letters       .     x     .     x     x      x
+1825              William Litt                    Henry and Mary: A Local Tale                              M  Novel                    .     .     .     x     x      x
+1827              Charles Cooke                   The Tourist's and Traveller's Companion to the Lakes, e…  M  Guide                    x     .     .     .     .      .
+1827              Jonathan Otley                  A Concise Description of the English Lakes, and Adjacen…  M  Guidebook and geo…       .     x     x     .     .      .
+1827              Nathaniel Hazeltine Carter      Letters from Europe Comprising the Journal of a Tour th…  M  Epistle                  x     .     .     .     .      .
+1828              Joseph Ritson                   Annals of the Caledonians, Picts and Scots; and of Stra…  M  Antiquarian              .     .     .     .     x      x
+1829              Edward Baines                   A Companion to the Lakes of Cumberland, Westmoreland, e…  M  Guide                    x     .     .     .     .      .
+1829              John Roby                       Traditions of Lancashire                                  M  Legends                  .     .     .     x     .      .
+1829              Robert Southey                  Sir Thomas More; or, Colloquies on the Progress and Pro…  M  Philosophical dia…       .     .     .     x     x      x
+1829              Thomas Sanderson                Life and Literary Remains of Thomas Sanderson             M  Memoir                   .     .     .     .     .      x
+1829              William Parson and William Wh…  History, Directory and Gazetteer of the Counties of Cum…  M  County History           .     .     .     .     .      x
+1830              Jane Bourne                     Tales of Instruction and Amusement: comprising The Gard…  F  Short fiction            .     .     .     x     x      x
+1830              Samuel Leigh (pub.)             Leigh's Guide to the Lakes and Mountains of Cumberland,…  M  Guide                    x     .     .     .     .      .
+1832              John Bree                       Saint Herbert's Isle: A Legendary Poem: In Five Cantos    M  Poetry                   x     .     .     .     .      .
+1832              Thomas Rose                     Westmorland, Cumberland, Durham and Northumberland Illu…  M  Views and descrip…       .     .     .     x     x      x
+1833              John Robinson                   Views of the Lakes in the North of England, from Origin…  M  Painting                 x     .     .     .     .      .
+1833              Thomas Sopwith                  An Account of the Mining Districts of Alston Moor, Wear…  M  Mining survey            .     .     .     x     x      x
+1833              William Cobbett                 Cobbett's Tour in Scotland; and in the Four Northern Co…  M  Travel narrative         .     .     .     x     x      .
+1834              William Andrew Chatto           Scenes and Recollections of Fly-Fishing, in Northumberl…  M  Angling narrative        .     .     .     x     x      x
+1835              James Raine                     Wills and Inventories illustrative of the History, Mann…  M  Documentary editi…       .     .     .     x     .      .
+1835 (1810)       William Wordsworth              A Guide through the District of the Lakes in the North …  M  Guide                    x     x     x     .     .      .
+1835              William Wordsworth              Yarrow Revisited, and Other Poems                         M  Poetry                   .     .     .     .     .      x
+1836              Adam Sedgwick                   Description of a Series of Longitudinal and Transverse …  M  Geology                  .     .     .     x     .      .
+1836              Henry Brooke                    Sketch of the Railroad from Carlisle to Greenhead, with…  M  Travel                   .     .     .     .     .      x
+1836              John Blackmore                  Views on the Newcastle and Carlisle Railway               M  Topography               .     .     .     .     .      x
+1836              Samuel Taylor Coleridge         Letters, Conversations and Recollections of S. T. Coler…  M  Letters                  .     .     .     .     x      .
+1836              Thomas Bourne                   The Maid of Skiddaw, Songs of Palestine, and other Poems  M  Poetry                   .     .     .     x     x      x
+1837              Anon.                           The Bridal of Naworth: A Poem                             M  Poetry                   .     .     .     x     .      x
+1837              Gage D'Amitie                   The Northern Tourist: Seventy-Three Views of Lake and M…  M  Views and descrip…       .     .     .     x     x      x
+1837              Sara Coleridge                  Phantasmion                                               F  Novel                    .     .     .     .     x      .
+1838              Charles James Apperley ('Nimr…  Nimrod's Northern Tour: Descriptive of the Principal Hu…  M  Sporting narrative       .     .     .     x     .      .
+1838              Frederick William Faber         Rush-Bearing Sunday: A Sermon Preached in the Chapel of…  M  Sermon                   .     .     .     x     x      .
+1838              Samuel Jefferson                History and Antiquities of Carlisle; with an Account of…  M  Local history            .     .     .     x     x      x
+1838              Thomas Frognall Dibdin          A Bibliographical, Antiquarian and Picturesque Tour in …  M  Travel narrative         .     .     .     x     x      .
+1838              Thomas James Serle              St Mary's Eve: A Story of the Solway                      M  Drama                    .     .     .     .     .      x
+1839              John Russell Smith              Westmoreland and Cumberland Dialects: Dialogues, Poems,…  M  Dialect                  .     .     .     x     x      x
+1839              John Urpeth Rastrick            West Cumberland, Furness, and Morecambe Bay Railway: Re…  M  Engineering report       .     .     .     x     .      x
+1839              William Ford                    A Description of the Scenery in the Lake District, inte…  M  Guide                    .     .     .     x     x      x
+1840              Anon.                           Rambles at Home: being a Tour to a few of the Principal…  M  Travel                   .     .     .     x     x      x
+1840              Gilbert Burton                  The Life of Sir Philip Musgrave, Bart., of Hartley Cast…  M  Biography                .     .     .     .     x      x
+1840              Robert William Billings         Architectural Illustrations: History and Description of…  M  Architectural his…       .     .     .     x     .      x
+1840              Samuel Jefferson                The History and Antiquities of Leath Ward, in the Count…  M  Local history            .     .     .     .     x      .
+1840              William Howitt                  Visits to Remarkable Places: Old Halls, Battlefields, a…  M  Literary topograp…       .     .     .     x     x      .
+1841              Anon., illustrated by Robert …  James Hatfield and the Beauty of Buttermere: A Story of…  M  Fiction                  .     .     .     x     .      x
+1841              Edward Quillinan                The Conspirators                                          M  Novel                    .     .     .     .     x      .
+1842              John Hudson                     A Complete Guide to the Lakes, comprising Minute Direct…  M  Guide, geology           .     .     x     .     .      .
+1842              John Hudson and Adam Sedgwick   A Complete Guide to the Lakes, comprising Minute Direct…  M  Guide                    .     x     .     x     x      .
+1842              John Hudson and Adam Sedgwick   A Complete Guide to the Lakes, comprising Minute Direct…  M  Guide                    .     .     .     .     .      x
+1842              John Wilson                     The Recreations of Christopher North                      M  Essays                   .     x     x     x     .      x
+1842              Jonathan Otley                  A Descriptive Guide to the English Lakes and Adjacent M…  M  Guide                    .     .     .     .     .      x
+1842              Samuel Jefferson                The History and Antiquities of Allerdale Ward, above De…  M  County history           .     .     .     x     x      x
+1842              Susanna Blamire                 The Poetical Works of Miss Susanna Blamire, 'The Muse o…  F  Poetry                   .     x     x     .     x      x
+1843              Elizabeth M. Stewart            Lord Dacre of Gilsland                                    F  Novel                    .     .     .     x     .      .
+1843              John Fletcher Miller            On the Meteorology of the Lake District of Cumberland a…  M  Meteorology              .     .     .     x     x      x
+1844              Arthur Penrhyn Stanley          The Life and Correspondence of Thomas Arnold              M  Biography and let…       .     .     .     x     .      .
+1844              James Thorne                    Rambles by Rivers                                         M  Travelogue               x     .     .     .     .      .
+1844              Thomas Alcock Beck              Annales Furnesienses: History and Antiquities of the Ab…  M  Antiquarian              .     .     .     .     x      .
+1845              William Wordsworth              Kendal and Windermere Railway: Two Letters Re-printed f…  M  Polemical letters        .     x     .     x     x      x
+1846              Barbara Hofland                 Daniel Dennison, and the Cumberland Statesman             F  Novel                    .     .     .     .     x      x
+1846              Bayard Taylor                   Views A-Foot; or, Europe seen with Knapsack and Staff     M  Travel                   .     .     .     .     x      .
+1846              Charles Mackay                  The Scenery and Poetry of the English Lakes: A Summer R…  M  Travel writing           x     x     x     .     .      .
+1846              William Gresley                 Coniston Hall; or, The Jacobites: A Historical Tale       M  Novel                    .     .     .     x     x      x
+1846              William Ross Wallace            Wordsworth: A Poem                                        M  Poetry                   .     .     .     .     .      x
+1847              'Sylvan'                        Sylvan's Pictorial Handbook to the English Lakes          M  Guide                    .     .     .     x     x      x
+1847              Anon.                           Hand-Book to the English Lakes                            M  Guide                    .     .     .     .     x      x
+1847              Anon.                           The Land We Live In: A Pictorial and Literary Sketch-Bo…  M  Illustrated topog…       .     .     .     x     .      .
+1847              Joseph Cottle                   Reminiscences of Samuel Taylor Coleridge and Robert Sou…  M  Memoir                   .     .     .     .     x      .
+1847              William Howitt                  Homes and Haunts of the Most Eminent British Poets        M  Literary topograp…       .     .     x     x     x      x
+1848              Edward James Mortimer Collins   Windermere: A Poem, and Sonnets                           M  Poetry                   .     .     .     x     x      x
+1848              Frances Blair                   Memoir of Margery Jackson, the Carlisle Miser and Misan…  F  Biography                .     .     .     .     .      x
+1848              Henry Tudor                     Domestic Memoirs of a Christian Family resident in the …  M  Memoir                   .     .     .     .     x      x
+1849              Alexander Craig Gibson          The Old Man; or, Ravings and Ramblings round Conistone    M  Topography               x     .     x     .     .      .
+1849              Caroline Matilda Kirkland       Holidays Abroad; or, Europe from the West                 F  Travel                   .     .     .     .     x      .
+1849              Charles Cuthbert Southey        The Life and Correspondence of Robert Southey             M  Letters and biogr…       .     .     .     x     x      x
+1849              George Atkinson                 The Worthies of Westmorland; or, Notable Persons born i…  M  Biography                .     .     .     .     x      x
+1849              Henry Harrison Davis            An Excursion from Lancaster up the Vale of Lune, and fr…  M  Travel                   .     .     .     .     x      x
+1849              P. J. Mannex                    History, Topography and Directory of Westmorland, and o…  M  County History           .     .     .     .     .      x
+1850-1853         Adam and Charles Black          Black's Picturesque Guide to the English Lakes, includi…  M  Guide                    .     x     .     x     x      x
+1850              Anon.                           Inman's Visit to Wordsworth                               M  Memoir                   .     .     .     .     .      x
+1850              Catherine Ponsonby              Lays of the Lakes, and other Poems                        F  Poetry                   .     .     .     .     x      x
+1850              Edward Button                   Grasmere Rush-Bearing                                     M  Descriptive accou…       .     .     .     x     x      x
+1850              William Bell Scott              Antiquarian Gleanings in the North of England             M  Antiquarian survey       .     .     .     x     .      .
+1850              William Wordsworth              The Prelude; or, Growth of a Poet's Mind: An Autobiogra…  M  Poetry                   .     x     .     x     x      x
+1851              Christopher Wordsworth          Memoirs of William Wordsworth, Poet-Laureate              M  Biography                .     .     .     x     x      x
+1851              Hartley Coleridge               Poems by Hartley Coleridge, with a Memoir of his Life b…  M  Poetry                   .     .     .     x     x      x
+1851              John Collingwood Bruce          The Roman Wall: a Historical, Topographical and Descrip…  M  Antiquarian survey       .     .     .     x     .      x
+1851              Samuel Sidney                   Rides on Railways Leading to the Lake and Mountain Dist…  M  Travel                   .     x     .     .     x      x
+1852              Anon.                           Memoir of Sir John Barrow, Bart., and Description of th…  M  Biography                .     .     .     x     x      x
+1852              Anon.-John Garnett (pub.)       Keswick and its Neighbourhood: A Hand-book for the Use …  M  Guide                    x     .     .     .     .      .
+1852              George Searle Phillips          Memoirs of William Wordsworth, compiled from authentic …  M  Biography                .     .     .     .     x      .
+1852              Hartley Coleridge               Lives of Northern Worthies                                M  Biography                .     .     .     .     .      x
+1852              James Freeman Clarke            Eleven Weeks in Europe; and What May Be Seen in that Ti…  M  Travelogue               x     .     .     .     .      .
+1852              John Linton                     A Handbook of the Whitehaven and Furness Railway: being…  M  Guide                    .     .     .     x     x      x
+1852              William Dickinson               On the Farming of Cumberland                              M  Agriculture              .     .     .     .     x      .
+1852-1891         Wilson Armistead                Tales and Legends of the English Lakes and Mountains      M  Folklore                 .     x     x     x     x      x
+1853              A. and C. Black (pub.)          Black's Shilling Guide to the English Lakes               M  Guide                    x     .     .     .     .      .
+1853              Henry Manders                   The History of the Church of Crosthwaite, Cumberland      M  Local history            .     .     .     x     x      x
+1853-1854         Thomas De Quincey               Autobiographic Sketches, with Recollections of the Lakes  M  Memoir                   .     .     .     x     x      x
+1853              William Peach                   Cwm Dhu; or, The Black Dingle. Windermere. The Curse of…  M  Poetry                   .     .     .     x     x      x
+1854              Anon.                           Pencil-Making at Keswick                                  M  Industrial account       .     .     .     x     .      x
+1854              George Newby                    Henllywarc, or 'The Druids' Temple', near Keswick. A Po…  M  Poetry                   .     .     .     x     x      x
+1854              Grace Greenwood                 Haps and Mishaps of a Tour in Europe                      F  Travel                   .     .     .     .     x      .
+1854              Harriet Beecher Stowe           Sunny Memories of Foreign Lands                           F  Travel                   .     .     .     .     x      x
+1854              Harriet Martineau               Guide to Windermere, with Tours to the Neighbouring Lak…  F  Guide                    .     .     .     x     x      x
+1854              William Ffolliott               Cartmel Parish and Parish Church, and Sermons preached …  M  Local history            .     .     .     x     x      x
+1855              Edward Hepple Hall              The Northern Counties Gazetteer and Directory             M  Gazetteer                .     .     .     x     .      .
+1855              Elizabeth Cleghorn Gaskell      Half a Life-Time Ago                                      F  Short fiction            .     .     x     .     x      .
+1855              Harriet Martineau               A Complete Guide to the English Lakes                     F  Guide                    x     x     x     .     .      .
+1855              John Ruskin                     The Poetry of Architecture; or, the Architecture of the…  M  Aesthetic critici…       .     .     .     x     .      x
+1856              Edwin Paxton Hood               William Wordsworth: A Biography                           M  Biography                .     .     .     .     x      .
+1856              John Wood Warter                Selections from the Letters of Robert Southey             M  Letters                  .     .     .     .     x      x
+1856              Ralph Waldo Emerson             English Traits                                            M  Travel essays            .     .     .     x     x      .
+1856              Robert Ferguson                 The Northmen in Cumberland and Westmoreland               M  Antiquarian              .     .     x     x     x      .
+1857-1884         Charles Dickens and Wilkie Co…  The Lazy Tour of Two Idle Apprentices                     M  Travel fiction           .     x     x     x     x      x
+1857              Jeremiah Sullivan               Cumberland and Westmorland, Ancient and Modern: the Peo…  M  Folklore and dial…       .     .     x     x     x      x
+1857              John Davy                       The Angler in the Lake District; or, Piscatory Colloqui…  M  Angling narrative        .     x     .     x     x      x
+1857              John Maughan                    Mural Controversy: The Question 'Who Built Hadrian's Wa…  M  Antiquarian              .     .     .     x     x      x
+1858              James Payn                      Leaves from Lakeland                                      M  Sketches                 .     .     .     x     .      x
+1858              John Rayson                     Miscellaneous Poems and Ballads, chiefly in the Dialect…  M  Poetry                   .     .     .     x     x      x
+1859              Adam and Charles Black          Black's Economical Guide to the English Lakes             M  Guide                    .     .     .     .     x      x
+1859              Anon.-Nelson (pub.)             The English Lakes                                         M  Guide                    x     .     .     .     .      .
+1859              Elizabeth Cleghorn Gaskell      The Half-Brothers                                         F  Short fiction            .     .     x     .     x      .
+1859              Elizabeth Gaskell               Round the Sofa, Volume 2                                  F  Fiction                  .     x     .     .     .      .
+1859              James Baker Pyne                Lake Scenery of England                                   M  Views and descrip…       .     .     .     x     x      x
+1859-1880         William Dickinson               A Glossary of the Words and Phrases of Cumberland         M  Dialect                  .     .     .     x     x      x
+1860              Edwin Waugh                     Chapel Island; or, An Adventure on Ulverstone Sands       M  Travel sketch            .     .     .     x     x      .
+1860              Edwin Waugh                     Over Sands to the Lakes                                   M  Guide                    x     .     .     .     .      .
+1860              Mackenzie Edward Charles Walc…  A Guide to the Mountains, Lakes and North-West Coast of…  M  Guide                    .     .     .     x     x      .
+1860              Wilkie Collins                  The Woman in White                                        M  Novel                    .     .     .     .     x      .
+1860              William Whellan                 The History and Topography of the Counties of Cumberlan…  M  County history           .     x     x     x     x      x
+1861              Cornelius Nicholson             The Annals of Kendal: being a Historical and Descriptiv…  M  Local history            .     .     x     x     x      x
+1861              Edwin Waugh                     Rambles in the Lake Country and its Borders               M  Guide                    x     .     .     .     .      .
+1861              Harriet Martineau               The Lights of the English Lakes                           F  Essay                    x     .     .     .     .      .
+1862              Thomas De Quincey               Recollections of the Lakes and the Lake Poets: Coleridg…  M  Memoir                   .     x     x     x     x      x
+1863              John Collingwood Bruce          The Wallet-Book of the Roman Wall: A Guide to Pilgrims …  M  Guide                    .     .     .     x     .      .
+1863              Mary Wilson Gordon              Christopher North: A Memoir of John Wilson                F  Biography                .     .     .     .     x      .
+1864              Anon.                           A Trip to the English Lakes in May, 1864                  M  Travel                   .     .     .     x     x      x
+1864              Anon.                           The Life of John Hatfield, commonly called the Keswick …  M  Biography                .     .     .     x     x      x
+1864              Elihu Burritt                   A Walk from London to John O'Groat's, with Notes by the…  M  Travel narrative         .     .     .     x     x      .
+1864              Eliza Lynn Linton               The Lake Country                                          F  Travel and topogr…       .     x     x     x     x      x
+1865              Maria Webb                      The Fells of Swarthmoor Hall and their Friends, with an…  F  Religious history        .     .     .     x     .      .
+1865-1874         Sidney Gilpin                   The Songs and Ballads of Cumberland, to which are added…  M  Poetry anthology         .     x     .     x     x      x
+1865-1872         Thomas Clarke                   Specimens of the Westmorland Dialect                      M  Dialect                  .     .     .     x     x      x
+1865              William James Linton            The Ferns of the English Lake Country, with a List of V…  M  Natural history          .     x     .     x     x      x
+1866-1874         Cumberland and Westmorland An…  Transactions of the Cumberland and Westmorland Antiquar…  M  Antiquarian              .     .     .     x     x      x
+1866              Edward Brown                    The Prince of Wales Lake Hotel Guide and Hand Book to G…  M  Guide                    .     .     .     .     x      .
+1866              Eliza Lynn Linton               Lizzie Lorton of Greyrigg                                 F  Novel                    .     x     x     x     x      x
+1867              Henry Lonsdale                  The Worthies of Cumberland                                M  Biography                .     .     x     .     x      x
+1867              James P. Morris                 The North Lonsdale Magazine and Lake District Miscellany  M  Periodical miscel…       .     .     .     x     x      x
+1867              John Harland and Thomas Turne…  Lancashire Folk-Lore: Illustrative of the Superstitious…  M  Folklore                 .     .     .     x     .      .
+1868              Anon.                           Legends of Westmorland and the Lake District              M  Folklore                 .     .     .     x     x      x
+1868              Anon.                           Old Castles, including Sketches of Carlisle, Corby and …  M  Antiquarian sketc…       .     .     .     x     .      x
+1868              Charles George Vernon Harcourt  Legends of St Augustine, St Anthony and St Cuthbert pai…  M  Antiquarian              .     .     .     .     .      x
+1868              Henry Alleyne Nicholson         An Essay on the Geology of Cumberland and Westmoreland    M  Geology                  .     .     .     x     x      x
+1868              William Wordsworth              Our English Lakes, Mountains and Waterfalls, as seen by…  M  Illustrated poetry       .     .     .     x     x      x
+1869              Alexander Craig Gibson          The Folk-Speech of Cumberland and some Districts Adjace…  M  Dialect                  .     .     x     x     x      x
+1869              Anon.                           Cumberland Farm Life: Memorandum of Old Times             M  Memoir                   .     .     .     .     x      x
+1869              George G. S. Thomas             The Christian Patriarch: the Life of Mr Robert Gate, wi…  M  Biography                .     .     .     .     x      x
+1869              Henry Crabb Robinson            Diary, Reminiscences and Correspondence of Henry Crabb …  M  Diary                    .     .     .     .     x      .
+1869              James P. Morris                 A Glossary of the Words and Phrases of Furness (North L…  M  Dialect                  .     .     .     x     x      x
+1869              John Bolton                     Geological Fragments collected principally from Rambles…  M  Geology                  .     .     .     x     x      x
+1869              John Murray                     Handbook for Travellers in Westmorland, Cumberland and …  M  Guide                    .     x     .     x     x      x
+1869              Richard John King               Handbook to the Northern Cathedrals of England: York, R…  M  Guide                    .     .     .     .     .      x
+1869              Robert Backhouse Peacock        A Glossary of the Dialect of the Hundred of Lonsdale, N…  M  Dialect                  .     .     .     .     x      x
+1869              W. F. Topham                    The Lakes of England                                      M  Views and descrip…       .     .     .     x     x      x
+1870              Henry Lonsdale                  The Life of John Heysham, M.D., and his Correspondence …  M  Biography                .     .     .     .     x      .
+1870              Henry Lonsdale                  The Life of John Heysham, M.D., and his Correspondence …  M  Biography                .     .     .     .     .      x
+1870              Roper Robinson                  Forness Folk, the'r Sayins an' Dewins; or, Sketches of …  M  Dialect                  .     .     .     .     .      x
+1870              W. Lewis                        History of the Congregational Church, Cockermouth: Sele…  M  Local history            .     .     .     .     x      x
+1870 (1824)       Walter Armstrong                Wrestliana; or, the History of the Cumberland and Westm…  M  Sport                    .     .     .     x     x      x
+1871              Daniel Mackintosh               On the Drifts of the West and South Borders of the Lake…  M  Geology                  .     x     x     x     x      x
+1871              John Richardson                 Cummerland Talk: being Short Tales and Rhymes in the Di…  M  Dialect                  .     .     .     .     x      x
+1871 (1855)       Nathaniel Hawthorne             English Notebooks                                         M  Journal                  x     .     .     .     .      .
+1871 (1867)       Richard Saul Ferguson           Cumberland and Westmorland M.P.'s from the Restoration …  M  Local history            .     .     .     .     x      x
+1871              Richard Saul Ferguson           Early Cumberland and Westmorland Friends: a Series of B…  M  Local history            .     .     .     .     x      x
+1872              Daniel Mackintosh               Glacial Drift of the Central Part of the Lake District,…  M  Geology                  .     .     .     x     x      x
+1872              George Shaw                     The Tourist's Picturesque Guide to Furness Abbey and Wi…  M  Guide                    .     .     .     x     x      x
+1872              James Stockdale                 Annales Caermoelenses, or Annals of Cartmel               M  Local history            .     .     x     x     x      x
+1872 (1615)       Sir Richard St George           The Visitation of the County of Cumberland in the Year …  M  Heraldic record          .     .     .     x     x      x
+1873              Alexander Mitchell              The English Lakes: and Other Poems                        M  Poetry                   .     .     .     x     x      x
+1873              George Shaw                     Shaw's Tourist's Picturesque Guide to the English Lakes   M  Guide                    .     .     .     .     x      .
+1873              J. Fisher Crosthwaite           Life and Times of Sir John Bankes, Attorney-General and…  M  Biography                .     .     .     .     .      x
+1873              James Clifton Ward              The Glaciation of the Northern Part of the Lake District  M  Geology                  .     x     .     x     x      x
+1873              John Pagen White                Lays and Legends of the English Lake Country, with Copi…  M  Poetry                   .     x     x     x     x      x
+1873              Myles Holmes                    History of Methodism in Ambleside                         M  Local history            .     .     .     .     x      x
+1873              Robert Ferguson                 The Dialect of Cumberland, with a Chapter on its Place-…  M  Dialect                  .     .     .     x     x      x
+1873-1874         Sara Coleridge                  Memoir and Letters of Sara Coleridge                      F  Letters and memoir       .     .     x     x     x      x
+1873              William Banks                   Views of the English Lakes                                M  Views and descrip…       .     .     .     x     x      x
+1873              William Talbot Aveline          Explanation of Quarter-Sheet 91 N.W., illustrating the …  M  Geology                  .     .     .     x     x      x
+1874              Anthony Trollope                Lady Anna                                                 M  Novel                    .     .     x     .     .      .
+1874              Charles Bennett                 The Baron of Borrowdale, and other Poems                  M  Poetry                   .     .     .     x     x      x
+1874 (1803)       Dorothy Wordsworth              Recollections of a Tour Made in Scotland, A.D. 1803       F  Travel journal           .     .     x     .     x      x
+1874              Francis Francis                 By Lake and River: an Angler's Rambles in the North of …  M  Angling narrative        .     .     .     x     .      .
+1874              James Clifton Ward              The Origin of some of the Lake-Basins of Cumberland       M  Geology                  .     .     .     x     x      .
+1875-1876         Eliza Fletcher                  Autobiography of Mrs Fletcher, with Letters and Other F…  F  Memoir                   .     .     x     .     x      x
+1875              Henry Alleyne Nicholson         On a New Genus and some New Species of Graptolites from…  M  Geology                  .     .     .     x     x      x
+1875              Henry Irwin Jenkinson           Jenkinson's Practical Guide to Carlisle, Gilsland, the …  M  Guide                    .     .     .     x     .      x
+1875              James Clifton Ward              Ice Phenomena in the Lake District                        M  Geology                  .     .     .     x     x      x
+1875              Mary Powley                     Echoes of Old Cumberland: Poems and Translations          F  Poetry                   .     .     .     x     x      x
+1875              Thomas Leeson Rowbotham         Views in the English Lake District, from Original Drawi…  M  Views and descrip…       .     .     .     x     x      x
+1875-1876         William Dickinson               Cumbriana; or, Fragments of Cumbrian Life                 M  Folklife and cust…       x     x     x     .     .      .
+1876              A. E. Platt                     The History of the Parish and Grammar School of Sedbergh  M  Local history            .     .     .     x     .      .
+1876              Anon.                           Picturesque Europe                                        M  Illustrated topog…       .     .     .     x     .      .
+1876              James Clifton Ward              The Geology of the Northern Part of the English Lake Di…  M  Geology                  .     x     x     x     x      x
+1876              Llewellynn Jewitt               The Stately Homes of England: Lowther Castle              M  Topographical des…       .     .     .     x     .      x
+1876              Robert Somervell                A Protest against the Extension of Railways in the Lake…  M  Polemic                  .     x     .     x     x      x
+1877              Alexander Hay Japp ('H. A. Pa…  Thomas De Quincey: His Life and Writings, with unpublis…  M  Biography                .     .     .     .     x      x
+1877              Charles Dent Bell               Voices from the Lakes, and other Poems                    M  Poetry                   .     .     .     .     x      x
+1877              Harriet Martineau               Harriet Martineau's Autobiography                         F  Memoir                   .     x     x     x     x      x
+1877              John Postlethwaite              Mines and Mining in the English Lake District             M  Mining                   .     .     .     .     x      .
+1877              Michael Waistell Taylor         A Group of Cumbrian Megaliths                             M  Archaeology              .     .     .     .     x      .
+1877              Richard Saul Ferguson and W. …  Some Municipal Records of Carlisle                        M  Antiquarian              .     .     .     x     x      x
+1877              W. Nicholls                     The History and Traditions of Ravenstonedale, Westmorla…  M  Local history            .     .     .     x     x      x
+1877              William Nicolson                Miscellany Accounts of the Diocese of Carlile, with the…  M  Antiquarian              .     .     .     .     x      x
+1878              Charles Dent Bell               The Four Seasons at the Lakes                             M  Poetry                   .     .     .     .     x      .
+1878              Frances Anne Kemble             Records of a Girlhood                                     F  Memoir                   .     .     .     .     x      .
+1878              Henry Thomas Wake               All the Monumental Inscriptions in the Graveyards of Br…  M  Antiquarian              .     .     .     .     x      .
+1878              J. Priestman Atkinson           A Week at the Lakes; or, The Adventures of Mr Dobbs and…  M  Comic travel             .     .     .     .     x      .
+1878              James Mansergh                  The Thirlmere Water Scheme of the Manchester Corporation  M  Engineering report       .     .     .     x     .      x
+1878              Lord William Howard             Selections from the Household Books of the Lord William…  M  Documentary editi…       .     .     .     x     .      x
+1878              Robert Somervell                The Manchester and Thirlmere Scheme: an Appeal to the P…  M  Polemic                  .     .     .     x     .      .
+1878              Samuel Manning and Samuel Gos…  English Pictures Drawn with Pen and Pencil                M  Illustrated topog…       .     .     .     x     .      .
+1878              William Angus Knight            The English Lake District as Interpreted in the Poems o…  M  Literary topograp…       .     x     .     .     x      x
+1879              Daniel Gate                     Gate's New Shepherd's Guide for Cumberland, Westmorelan…  M  Agricultural Surv…       .     .     .     x     x      x
+1879              Henry Irwin Jenkinson           Tourists' Guide to the English Lake District              M  Guide                    .     .     x     x     x      x
+1879              John Smyth                      Lakeland: A Descriptive Poem in Four Cantos               M  Poetry                   .     x     .     x     x      x
+1879              W. F. Lamonby                   History of Craft Masonry in Cumberland and Westmorland    M  Institutional his…       .     .     .     x     x      x
+1879              William Gilpin and William Ja…  Memoirs of Dr Richard Gilpin of Scaleby Castle in Cumbe…  M  Biography                .     .     .     x     x      x
+1879              William Henderson               Notes on the Folk-Lore of the Northern Counties of Engl…  M  Folklore                 .     .     .     x     .      .
+1880              Anon.                           Handy Guide to the English Lakes and Shap Spa             M  Guide                    .     .     .     x     x      x
+1880              Anon.                           The Echoes of the Lakes and Mountains; or, Wonderful Th…  M  Guide miscellany         .     .     .     x     x      x
+1880              Joseph Richardson               Furness, Past and Present: its History and Antiquities    M  Local history            .     .     .     .     x      .
+1880              Mountford John Byrde Baddeley   The Thorough Guide to the English Lake District           M  Guide                    .     x     x     x     x      x
+1880              Thomas Gough                    Observations on the Heron and the Heronry at Dallam Tow…  M  Natural history          .     .     .     .     x      .
+1880              W. Kinsey Dover                 Pre-historic Remains in the Lake District: A Paper read…  M  Archaeology              .     x     .     x     x      x
+1880              William Jackson                 The Curwens of Workington Hall and Kindred Families       M  Family history           .     .     .     x     .      .
+1881              Frederic William Henry Myers    Wordsworth                                                M  Biography                .     .     .     .     x      .
+1881              Hardwicke Drummond Rawnsley     Sonnets at the English Lakes                              M  Poetry                   .     x     .     x     x      x
+1881              Henry Frith                     Wanderings in Wordsworthshire                             M  Essay                    x     .     .     .     .      .
+1881              Mary Augusta Ward               Milly and Olly; or, A Holiday among the Mountains         F  Children's fiction       .     .     .     .     x      .
+1881              Thomas Carlyle                  Reminiscences                                             M  Memoir                   .     .     .     .     x      .
+1882              Charles Arundel Parker          The Runic Crosses at Gosforth, Cumberland, described an…  M  Archaeology              .     .     .     .     x      .
+1882              Edwin Ray Lankester             On New British Cladocera discovered in Grasmere Lake, W…  M  Natural history          .     .     .     x     x      x
+1882              Hardwicke Drummond Rawnsley     Reminiscences of Wordsworth among the Peasantry of West…  M  Oral history             .     .     .     .     x      .
+1882              James Croston                   Nooks and Corners of Lancashire and Cheshire: A Wayfare…  M  Travel narrative         .     .     .     x     .      .
+1882              Richard Saul Ferguson           Old Church Plate in the Diocese of Carlisle, with the M…  M  Antiquarian              .     .     .     .     x      x
+1882              William Angus Knight            Transactions of the Wordsworth Society                    M  Learned society t…       .     .     .     .     x      x
+1883 (1818)       John Keats                      Letters to Tom and George Keats                           M  Epistle                  x     .     .     .     .      .
+1883              T. Bulmer                       History, Topography and Directory of West Cumberland      M  County History           .     .     .     .     .      x
+1884              Anon.-Charles Dickens  Jr.  e…  The Climbs of the English Lake District                   M  Essay                    x     .     .     .     .      .
+1884              George Foster Braithwaite       The Salmonidae of Westmorland: Angling Reminiscences an…  M  Angling                  .     .     .     x     x      x
+1884 (1836)       Hyde Clarke                     Morecambe Bay Railway and Reclamation: in 1836 and 1883   M  Engineering polem…       .     .     .     x     .      .
+1884              John Burroughs                  In Wordsworth's Country                                   M  Travelogue               x     .     .     .     .      .
+1885              Charles Wareing Endell Bardsl…  Chronicles of the Town and Church of Ulverston            M  Local history            .     .     .     .     x      x
+1885              Cumberland Association for th…  Transactions of the Cumberland and Westmorland Associat…  M  Learned society t…       .     .     .     .     x      x
+1885              Hall Caine                      The Shadow of a Crime: A Cumbrian Romance                 M  Novel                    .     .     x     x     x      x
+1885              John Gilbert Baker              A Flora of the English Lake District                      M  Natural history          .     x     x     x     x      x
+1885-1889         John Ruskin                     Praeterita: Outlines of Scenes and Thoughts perhaps wor…  M  Autobiography            .     .     x     x     x      .
+1885              Samuel Ladyman                  Thoughts and Recollections of Keswick and its Inhabitan…  M  Memoir                   .     .     .     x     x      x
+1886              Alice Rea                       The Beckside Boggle, and other Lake Country Stories       F  Short fiction            .     .     .     .     x      x
+1886              Edmund Lee                      Dorothy Wordsworth: The Story of a Sister's Love          M  Biography                .     .     .     .     .      x
+1886              Hugh Alexander Macpherson and…  The Birds of Cumberland, critically studied, including …  M  Natural history          .     .     .     x     x      x
+1886              John Brownbill and J. C. Atki…  The Coucher Book of Furness Abbey                         M  Antiquarian              .     .     .     .     x      x
+1887              J. Fisher Crosthwaite           Some of the Old Families in the Parish of Crosthwaite: …  M  Local History            .     .     .     .     .      x
+1887              John Denton                     An Accompt of the most considerable Estates and Familie…  M  Antiquarian              .     .     .     .     x      x
+1887              John Ruskin                     Hortus Inclusus: Messages from the Wood to the Garden, …  M  Letters                  .     x     x     x     .      x
+1887              Thomas Gibson                   Legends and Historical Notes on Places of North Westmor…  M  Folklore                 .     .     .     .     x      x
+1887              William Angus Knight            Through the Wordsworth Country                            M  Literary topograp…       .     .     .     x     x      x
+1888 (1698)       Celia Fiennes                   Through England on a Side Saddle in the Time of William…  F  Diary, travel            x     x     x     .     .      .
+1888 (1802)       Charles Lamb                    The Letters of Charles Lamb                               M  Letters                  .     .     .     x     .      .
+1888              Edward Bellasis                 Westmorland Church Notes: being the Heraldry, Epitaphs …  M  Antiquarian              .     .     .     .     x      x
+1888              Florence Warden                 A Woman's Face; or, A Lakeland Mystery                    F  Novel                    .     .     .     x     x      x
+1888              Mary Augusta Ward               Robert Elsmere                                            F  Novel                    .     x     x     .     x      x
+1888              Thomas Ellwood                  Leaves from the Annals of a Mountain Parish in Lakeland   M  Local history            .     x     .     x     x      x
+1888              William Andrews                 North Country Poets: Poems and Biographies of Natives o…  M  Poetry anthology         .     .     .     x     x      x
+1888              William Talbot Aveline          The Geology of the Country around Kendal, Sedbergh, Bow…  M  Geology                  .     .     .     x     x      x
+1889              Anon.                           A Handbook to the English Lakes, included in the Counti…  M  Guide                    .     .     .     x     x      x
+1889              Anon.                           The Floating Island in Derwentwater                       M  Natural history          .     .     .     x     .      x
+1889-1899         Daniel Scott                    Bygone Cumberland and Westmorland                         M  Local history            .     .     x     x     x      x
+1889              John Watson                     Sylvan Folk: Sketches of Bird and Animal Life in Britain  M  Natural history          .     .     .     x     .      .
+1889              Richard Saul Ferguson           Diocesan Histories: Carlisle                              M  Ecclesiastical hi…       .     .     .     x     .      x
+1889              Samuel Taylor Coleridge, Will…  Letters from the Lake Poets: Samuel Taylor Coleridge, W…  M  Letters                  .     .     .     .     x      x
+1889              William Angus Knight            The Life of William Wordsworth                            M  Biography                .     .     .     x     x      x
+1889              William Angus Knight            Wordsworthiana: A Selection from Papers read to the Wor…  M  Literary Topograp…       .     .     .     x     .      x
+1889-1899         William Gershom Collingwood     Coniston Tales                                            M  Short fiction            x     x     .     .     .      x
+1890              Charles Pollitt                 De Quincey's Editorship of the Westmorland Gazette, wit…  M  Literary history         .     .     .     x     x      x
+1890              Charles William Dymond          Mayburgh and King Arthur's Round Table                    M  Archaeology              .     .     .     x     x      .
+1890              Frederick Amadeus Malleson      Holiday Studies of Wordsworth by Rivers, Woods and Alps   M  Travelogue               x     .     .     .     .      .
+1890              Henry Barnes                    Visitations of the Plague in Cumberland and Westmorland   M  Medical history          .     .     .     x     x      x
+1890              Historical Manuscripts Commis…  The Manuscripts of S. H. Le Fleming, Esq., of Rydal Hall  M  Documentary calen…       .     .     .     x     .      x
+1890              Karl Baedeker                   Great Britain: Handbook for Travellers                    M  Guide                    .     .     .     .     .      x
+1890              Richard Saul Ferguson           A History of Cumberland                                   M  County history           .     x     x     x     x      x
+1890              William Wallace                 Alston Moor: its Pastoral People, its Mines and Miners    M  Local history            .     .     .     x     .      .
+1890              William Wardell Bean            The Parliamentary Representation of the Six Northern Co…  M  Local History            .     .     .     .     .      x
+1890              William Watson                  Wordsworth's Grave, and other Poems                       M  Poetry                   .     .     .     .     x      .
+1891              Alexander Hay Japp              De Quincey Memorials: Letters and other Records           M  Letters                  .     .     .     .     x      .
+1891              Alfred Harker and John Edward…  The Shap Granite, and the Associated Igneous and Metamo…  M  Geology                  .     .     .     x     .      .
+1891              Charles Frederick Forshaw       A Legend of St Bees, and other Poems                      M  Poetry                   .     .     .     x     .      .
+1891              George Neilson                  Per Lineam Valli: A New Argument touching the Earthen R…  M  Antiquarian              .     .     .     .     .      x
+1891              Henry Alleyne Nicholson and J…  The Cross Fell Inlier                                     M  Geology                  .     .     .     x     .      x
+1891 (1818)       John Keats                      Letters of John Keats to His Family and Friends           M  Letters                  .     x     x     .     .      .
+1891              John Ramsden Tutin              The Wordsworth Dictionary of Persons and Places           M  Literary Topograp…       .     .     .     .     .      x
+1891              Sir Richard St George           Pedigrees recorded at the Heralds' Visitations of the C…  M  Genealogy                .     .     .     .     x      .
+1892              Hugh Alexander Macpherson       A Vertebrate Fauna of Lakeland, including Cumberland an…  M  Natural history          .     x     x     x     x      x
+1892              Michael Waistell Taylor         The Old Manorial Halls of Westmorland and Cumberland      M  Architectural his…       .     .     .     x     x      .
+1892              Samuel Barber                   Beneath Helvellyn's Shade: Notes and Sketches in the Va…  M  Topographical wri…       x     x     .     .     .      .
+1892              Sidney Bolton                   Lord Wastwater                                            M  Novel                    .     .     .     x     .      x
+1892              W. Thompson                     Sedbergh, Garsdale, and Dent: Peeps at the Past History…  M  Local history            .     .     .     x     .      .
+1892              William Jackson                 Papers and Pedigrees mainly relating to Cumberland and …  M  Antiquarian papers       .     .     .     x     x      .
+1892              William Winter                  Gray Days and Gold in England and Scotland                M  Travel essays            .     .     .     .     x      .
+1893              Henry Irwin Jenkinson           Jenkinson's Practical Guide to the English Lake District  M  Guide                    .     .     .     .     .      x
+1893 (1884)       Herbert Rix                     Down the Duddon with Wordsworth                           M  Travelogue               x     .     .     .     .      .
+1893              Historical Manuscripts Commis…  The Manuscripts of the Earl of Lonsdale                   M  Antiquarian              .     .     .     .     .      x
+1893              Richard Saul Ferguson           Testamenta Karleolensia: the Series of Wills from the P…  M  Antiquarian              .     .     .     .     .      x
+1893              William Gershom Collingwood     The Life and Work of John Ruskin                          M  Biography                .     .     .     x     x      x
+1894              Anon.                           Middleton's Illustrated Handbook to Grasmere              M  Guide                    .     .     .     x     x      x
+1894              E. Vincent Briton               The Face of Death: A Westmoreland Story                   F  Novel                    .     .     .     .     .      x
+1894              Hardwicke Drummond Rawnsley     Literary Associations of the English Lakes                M  Literary topograp…       .     .     x     x     x      x
+1894              Henry Barber                    Furness and Cartmel Notes                                 M  Local history            .     .     .     .     x      .
+1894              John Watson                     The Annals of a Quiet Valley                              M  Natural history          .     .     .     x     x      .
+1894              Richard Saul Ferguson           A History of Westmorland                                  M  County history           .     .     .     x     x      x
+1894              Thomas Ellwood                  Landnama Book of Iceland as it illustrates the Dialect,…  M  Philology                .     .     .     x     x      x
+1894              Walter Parry Haskett Smith      Climbing in the British Isles, Volume I: England          M  Mountaineering           .     .     x     x     x      x
+1894              William James Stavert           The Register of St Mary's Chapel at Conistone, in the P…  M  Local History            .     .     .     .     .      x
+1895-1896         Elbert Hubbard                  These Pages recount Little Journeys made to the Homes o…  M  Travel essays            .     .     .     .     x      x
+1895              George Stewardson Brady         The Natural History of the Solway                         M  Natural history          .     .     .     x     .      x
+1895              James Hogg                      De Quincey and his Friends: Personal Recollections, Sou…  M  Memoir                   .     .     .     .     x      .
+1895              Samuel Taylor Coleridge         Anima Poetae: from the Unpublished Note-books of Samuel…  M  Notebooks                .     .     x     .     .      .
+1895 (1802)       Samuel Taylor Coleridge         Letters of Samuel Taylor Coleridge                        M  Letters                  .     x     .     x     .      x
+1895              William Gershom Collingwood     Thorstein of the Mere: A Saga of the Northmen in Lakela…  M  Novel                    .     x     x     x     x      x
+1896              Anthony Whitehead               Legends of Westmorland and other Poems, with Notes        M  Poetry                   .     .     .     x     x      x
+1896              Hardwicke Drummond Rawnsley     A Reminiscence of Wordsworth Day, Cockermouth             M  Occasional address       .     .     .     x     .      .
+1896              Hardwicke Drummond Rawnsley     Harvey Goodwin, Bishop of Carlisle: A Biographical Memo…  M  Biography                .     .     .     x     .      x
+1896              Henry Barnes                    The President's Address on the Medical History of Carli…  M  Local History            .     .     .     .     .      x
+1896              J. J. Thomas                    Westmorland Slates, their Geology, Chemistry and Archit…  M  Geology                  .     .     .     x     x      x
+1896              James Dobie                     Memoir of William Wilson of Crummock                      M  Biography                .     .     .     x     .      .
+1896              William Gershom Collingwood     The Bondwoman: A Story of the Northmen in Lakeland        M  Novel                    .     .     .     .     x      .
+1897 (1896)       Cumberland and Westmorland An…  Report of the Cumberland Excavation Committee, 1896       M  Archaeology              .     .     .     x     x      x
+1897 (1800)       Dorothy Wordsworth              Journals of Dorothy Wordsworth                            F  Diary                    .     x     x     x     x      x
+1897 (1770)       Emile Legouis                   The Early Life of William Wordsworth, 1770-1798: A Stud…  M  Biography                .     .     .     .     .      x
+1897 (1568)       Henry Swainson Cowper           The Oldest Register Book of the Parish of Hawkshead in …  M  Documentary editi…       .     .     .     x     x      x
+1897              John Roche Dakyns and Richard…  The Geology of the Country between Appleby, Ullswater a…  M  Geology                  .     x     .     x     x      .
+1897              Owen Glynne Jones               Rock-Climbing in the English Lake District                M  Mountaineering           .     x     x     x     x      x
+1897              Tinsley Pratt                   Wordsworth at Rydal, and other Poems                      M  Poetry                   .     .     .     x     x      x
+1897              William Gershom Collingwood     The Book of Coniston                                      M  Local history            .     .     x     .     .      .
+1897              William Hale White              A Description of the Wordsworth and Coleridge Manuscrip…  M  Literary Topograp…       .     .     .     .     .      x
+1897 (1795)       William MacRitchie              Journal of a Tour through Great Britain in 1795           M  Travel journal           .     .     .     .     x      x
+1898              Alfred Ollivant                 Bob, Son of Battle (Owd Bob, the Grey Dog of Kenmuir)     M  Novel                    .     .     .     x     .      .
+1898              Bryham Kirkby                   Lakeland Words: A Collection of Dialect Words and Phras…  M  Dialect                  .     x     x     x     x      x
+1898              Edmund Bogg                     A Thousand Miles of Wandering along the Roman Wall, the…  M  Travel                   .     x     .     x     x      x
+1898              Mary Augusta Ward (Mrs Humphr…  Helbeck of Bannisdale                                     F  Novel                    .     .     x     x     x      x
+1898              William Hodgson                 Flora of Cumberland                                       M  Natural history          .     .     .     .     x      x
+1899              Edward William Prevost          A Glossary of the Words and Phrases pertaining to the D…  M  Dialect                  .     .     .     .     .      x
+1899 (1876)       Ellis Yarnall                   Walks and Visits in Wordsworth's Country                  M  Essay                    x     .     .     .     .      .
+1899              George Ernest Gilbanks          Some Records of a Cistercian Abbey: Holm Cultram, Cumbe…  M  Local history            .     .     .     .     x      x
+1899              Hardwicke Drummond Rawnsley     Life and Nature at the English Lakes                      M  Essays                   .     x     x     x     x      x
+1899              Henry Swainson Cowper           Hawkshead: the Northernmost Parish of Lancashire, its H…  M  Local history            .     .     .     x     x      x
+1899              John Watson                     The English Lake District Fisheries                       M  Angling and natur…       .     .     .     x     .      x
+1899              Thomas R. Hayes                 Flora of the Wordsworth Country                           M  Natural history          .     .     .     x     x      x
+1899              Thomas Vincent Holmes           The Geology of the Country around Carlisle                M  Geology                  .     .     .     x     .      x
+1899              William Slater Calverley        Notes on the Early Sculptured Crosses, Shrines and Monu…  M  Archaeology              .     x     .     x     x      x
+1900              Anon.                           La Suisse Anglaise: Region des Lacs Anglais               M  Guide                    .     .     .     .     x      .
+1900              Bryham Kirkby                   Granite Chips and Clints; or, Westmorland in Words        M  Dialect sketches         .     .     .     x     x      .
+1900              C. King Eley                    The Cathedral Church of Carlisle: a Description of its …  M  Architectural his…       .     .     .     x     x      x
+1900              John Flavel Curwen              Kirkbie-Kendall: Fragments collected relating to its An…  M  Local history            .     .     .     .     x      x
+1900              M. J. B. Baddeley               Black's Shilling Guide to the English Lakes               M  Guide                    x     .     .     .     .      .
+1900              Thomas Arnold                   Passages in a Wandering Life                              M  Memoir                   .     .     .     x     .      .
+1900              William Thomas Palmer           Holidays in the English Lakeland: What to see in this w…  M  Guide                    .     x     .     .     x      x
+1904 (1634)       Lt. Hammond                     A Relation of a Short Survey of 26 Counties               M  Journal                  x     .     .     .     .      .
+1934              John Byng                       The Torrington Diaries: Tours through England and Wales   M  Diary                    .     .     .     .     x      .
+1939 (1802)       Samuel Taylor Coleridge         Circumcision of the Lakes                                 M  Epistle and Journ…       x     .     .     .     .      .
+1968 (1797)       William Gell                    A Tour in the Lakes, 1797                                 M  Travelogue               x     .     .     .     .      .
+1969 (1830)       John Ruskin                     The Iteriad; or, Three Weeks Among the Lakes              M  Poetry                   x     .     .     .     .      .
+1983 (1793)       Richard Colt Hoare              The journeys of Sir Richard Colt Hoare through Wales an…  M  Journal                  x     .     .     .     .      .
+1983 (1779)       William Wilberforce             Journey to the Lake District from Cambridge               M  Journal                  x     .     .     .     .      .
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                  549 distinct works                                                                   80    80    80   290   319    321
+
+corpus                      records   works  only here  shared
+--------------------------------------------------------------
+Original CLDW                    80      80         58      22
+cldw2-unbalanced                 80      80          2      78
+cldw2-balanced                   80      80          4      76
+universe-unbalanced             291     290         52     238
+universe-balanced               321     319         58     261
+universe-balanced-run2          324     321         51     270
+--------------------------------------------------------------
+union                          1176     549
+
+1176 records across 6 corpora, merging to 549 distinct works.

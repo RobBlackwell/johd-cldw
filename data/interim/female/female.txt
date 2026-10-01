@@ -1,0 +1,67 @@
+Runs: cldw = Original CLDW, c2-u = cldw2-unbalanced, c2-b = cldw2-balanced, un-u = universe-unbalanced, un-b = universe-balanced, un-b2 = universe-balanced-run2
+
+date         author                              title                                                           cldw  c2-u  c2-b  un-u  un-b  un-b2
+----------------------------------------------------------------------------------------------------------------------------------------------------
+1790         Ann Wheeler                         The Westmorland Dialect, in Three Familiar Dialogues               .     .     .     x     x      x
+1791         Anon. ('Editor of The Letters of …  The Lake of Windermere: A Novel                                    .     .     .     x     x      x
+1792         Anon.                               The Carpenter's Daughter of Derham-Down; or, Sketches on th…       .     .     .     x     x      x
+1795 (1794)  Ann Radcliffe                       A Journey Made in the Summer of 1794 through Holland and th…       x     x     x     .     .      .
+1799         Sarah Murray                        A Companion, and Useful Guide to the Beauties of Scotland, …       .     x     x     x     x      x
+1802-1840    Ann Coward Wheeler                  The Westmoreland Dialect in Four Familiar Dialogues                .     .     .     .     x      .
+1808-1818    Elizabeth Smith                     Fragments, in Prose and Verse, by Miss Elizabeth Smith, wit…       .     .     x     .     x      x
+1809         Elizabeth Isabella Spence           Summer Excursions through parts of Oxfordshire, Yorkshire, …       .     .     .     .     x      .
+1811 (1784)  Anna Seward                         Letters of Anna Seward, written between the Years 1784 and …       .     .     .     .     .      x
+1812         Mrs F. Ryves                        Cumbrian Legends; or, Tales of Other Times                         .     .     .     x     x      x
+1814         Isabella Lickbarrow                 Poetical Effusions                                                 .     .     .     .     x      .
+1816         Jane Harvey                         Brougham Castle: A Novel                                           .     .     .     x     .      .
+1819         Catherine Hutton                    Oakwood Hall, a Novel; Including a Description of the Lakes…       x     x     .     .     .      .
+1823         Anon.                               Eugenia; or, Early Scenes in Cumberland                            .     .     .     .     x      .
+1830         Jane Bourne                         Tales of Instruction and Amusement: comprising The Garden, …       .     .     .     x     x      x
+1837         Sara Coleridge                      Phantasmion                                                        .     .     .     .     x      .
+1842         Susanna Blamire                     The Poetical Works of Miss Susanna Blamire, 'The Muse of Cu…       .     x     x     .     x      x
+1843         Elizabeth M. Stewart                Lord Dacre of Gilsland                                             .     .     .     x     .      .
+1846         Barbara Hofland                     Daniel Dennison, and the Cumberland Statesman                      .     .     .     .     x      x
+1848         Frances Blair                       Memoir of Margery Jackson, the Carlisle Miser and Misanthro…       .     .     .     .     .      x
+1849         Caroline Matilda Kirkland           Holidays Abroad; or, Europe from the West                          .     .     .     .     x      .
+1850         Catherine Ponsonby                  Lays of the Lakes, and other Poems                                 .     .     .     .     x      x
+1854         Grace Greenwood                     Haps and Mishaps of a Tour in Europe                               .     .     .     .     x      .
+1854         Harriet Beecher Stowe               Sunny Memories of Foreign Lands                                    .     .     .     .     x      x
+1854         Harriet Martineau                   Guide to Windermere, with Tours to the Neighbouring Lakes a…       .     .     .     x     x      x
+1855         Elizabeth Cleghorn Gaskell          Half a Life-Time Ago                                               .     .     x     .     x      .
+1855         Harriet Martineau                   A Complete Guide to the English Lakes                              x     x     x     .     .      .
+1859         Elizabeth Gaskell                   The Half-Brothers                                                  .     x     x     .     x      .
+1863         Mary Wilson Gordon                  Christopher North: A Memoir of John Wilson                         .     .     .     .     x      .
+1864         Eliza Lynn Linton                   The Lake Country                                                   .     x     x     x     x      x
+1865         Maria Webb                          The Fells of Swarthmoor Hall and their Friends, with an Acc…       .     .     .     x     .      .
+1866         Eliza Lynn Linton                   Lizzie Lorton of Greyrigg                                          .     x     x     x     x      x
+1873-1874    Sara Coleridge                      Memoir and Letters of Sara Coleridge                               .     .     x     x     x      x
+1874 (1803)  Dorothy Wordsworth                  Recollections of a Tour Made in Scotland, A.D. 1803                .     .     x     .     x      x
+1875-1876    Eliza Fletcher                      Autobiography of Mrs Fletcher, with Letters and Other Famil…       .     .     x     .     x      x
+1875         Mary Powley                         Echoes of Old Cumberland: Poems and Translations                   .     .     .     x     x      x
+1877         Harriet Martineau                   Harriet Martineau's Autobiography                                  .     x     x     x     x      x
+1878         Frances Anne Kemble                 Records of a Girlhood                                              .     .     .     .     x      .
+1880         Cynthia Morgan St John              Handy Guide to the English Lakes and Shap Spa                      .     .     .     .     x      .
+1881         Mary Augusta Ward                   Milly and Olly; or, A Holiday among the Mountains                  .     .     .     .     x      .
+1886         Alice Rea                           The Beckside Boggle, and other Lake Country Stories                .     .     .     .     x      x
+1888 (1698)  Celia Fiennes                       Through England on a Side Saddle in the Time of William and…       x     x     x     .     .      .
+1888         Florence Warden                     A Woman's Face; or, A Lakeland Mystery                             .     .     .     x     x      x
+1888         Mary Augusta Ward                   Robert Elsmere                                                     .     x     x     .     x      x
+1894         E. Vincent Briton                   The Face of Death: A Westmoreland Story                            .     .     .     .     .      x
+1897 (1800)  Dorothy Wordsworth                  Journals of Dorothy Wordsworth                                     .     x     x     x     x      x
+1898         Mary Augusta Ward (Mrs Humphry Wa…  Helbeck of Bannisdale                                              .     .     x     x     x      x
+----------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 47 distinct works                                                  4    12    17    18    37     27
+
+112 female-authored records across 5 run(s), merging to 47 distinct works.
+
+Female-authored texts in the original CLDW that the list above does not hold.
+A cell is the gender the run recorded, where the run holds the text at all:
+
+date  author               title                                                           c2-u  c2-b  un-u  un-b  un-b2
+------------------------------------------------------------------------------------------------------------------------
+1804  Priscilla Wakefield  A Family Tour through the British Empire                           .     .     .     .      .
+1861  Harriet Martineau    The Lights of the English Lakes                                    .     .     .     .      .
+------------------------------------------------------------------------------------------------------------------------
+                           2 lost, of which the run holds:                                    0     0     0     0      0
+
+6 of the original CLDW's 80 texts are female-authored; the list above holds 4 of them.

@@ -1,0 +1,37 @@
+I'll build this corpus by searching real repositories and verifying every download URL works before including it.
+
+Internet Archive and Gutenberg are reachable. Let me build a search + verification pipeline.
+
+This is noisy. Let me work from a curated canon of Lake District writing and locate each work with targeted searches plus automated file verification.
+
+Gutenberg catalog is productive. Let me check the IA batch and scan Gutenberg for more authors.
+
+Excellent results. Let me run more search batches in parallel.
+
+Strong candidate pool. Now filling gaps — especially more women writers and early modern texts.
+
+Now assembling the final corpus and verifying every URL.
+
+Exactly 80. Now verifying that every download URL actually retrieves full text.
+
+My pass condition was wrong — HTTP 206 is the correct response to a range request. Three real failures to fix:
+
+Three transient 500s under concurrent load. Retrying serially.
+
+All 80 verified (the 500s were parallel-request throttling). Finalising metadata and writing output.
+
+Final serial re-verification of all 80 URLs, with retries to rule out throttling artefacts:
+
+One flaky item. Swapping to a more reliable copy of the same work.
+
+`/work/texts.jsonl` is written: 80 JSONL lines, no other content.
+
+**How it was built.** Every entry came from a live search of Internet Archive (advancedsearch + metadata API) or the Project Gutenberg catalogue — nothing from recall. Each `download_url` was then fetched with curl end-to-end: 80/80 return HTTP 200 with a full text file (`_djvu.txt` or `pg*.txt`), none under 40 KB, none HTML. Where a work's Lake District relevance depended on *which* volume, I downloaded candidates and counted Lakeland place-names to pick the right one — that is how Southey's *Letters from England* resolved to vol. 2, Radcliffe's *Journey* to vol. 2, Camden's *Britannia* to Gough's vol. 3, and Defoe's *Tour* to the volume carrying Letter X.
+
+**Balance achieved:** 1622–1749 (4), 1750–99 (12), 1800–49 (18), 1850–74 (19), 1875–1900 (27); 68 distinct authors; 17 female-authored works (Radcliffe, Murray, Fiennes, Blamire, Smith, Gaskell ×2, Martineau ×2, Linton ×2, Dorothy Wordsworth ×2, Sara Coleridge, Fletcher, Mrs Humphry Ward ×2). Every genre the brief lists is represented, including the thinner categories: geological survey (Clifton Ward's Survey memoir, Mackintosh), mountaineering (Haskett Smith, O. G. Jones), early modern chorography (Drayton 1622, Camden), drama/tourism satire (Plumptre's *The Lakers*), and Furness county history (West's *Antiquities*).
+
+Three judgement calls worth flagging:
+
+- **`year` is the work's first-publication date, not the scanned edition's**, since the corpus is defined by composition period. Where the two diverge materially the `reason` field says so (Gray's *Journal in the Lakes* → 1775, text from the 1884 *Works*; Scott's *Bridal of Triermain* → 1813; West's *Antiquities* → 1774 facsimile; O. G. Jones → 1897, text of the 1900 third edition). For Fiennes and Dorothy Wordsworth's *Journals* I used first publication (1888, 1897) rather than composition — flagging it because it pushes two early texts into the late-Victorian bucket in the period counts above.
+- **Internet Archive returns intermittent HTTP 500s under concurrent load.** Several items failed one pass and succeeded the next. I re-verified serially with retries; the only persistent failure was John Davy's *The Angler in the Lake District*, whose whole item 500s through the stable path (it works only via an unstable node URL), so I excluded it and substituted Mackintosh's Lake District drift survey. Lonsdale's *Worthies* was swapped to a copy that fetches reliably.
+- **Multi-volume works are listed as the single relevant volume**, not the whole set, so no two lines duplicate the same text.

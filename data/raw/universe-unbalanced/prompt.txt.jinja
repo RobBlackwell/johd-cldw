@@ -1,0 +1,13 @@
+{% extends "data/raw/prompt/prompt.txt.jinja" %}
+{% set balanced = false %}
+{% set downloads = false %}
+{% block intro %}I want to construct a Corpus of Lake District Writing (CLDW) with a large number of texts originally composed between 1622 and 1900, that represent a range of different genres and authors. Collectively, the text should constitute an indicative sample of writing about the English Lake District between the early seventeenth century and the end of the nineteenth century.
+
+Here are the texts that are already in the corpus:
+
+{{ read_file("subset.jsonl") }}
+
+You are a digital humanities research assistant. Your task is to find as many similar texts as you can (ideally several hundreds).{% endblock %}
+{% block preamble_extra %}
+
+There should be NO DUPLICATION with the current corpus.{% endblock %}

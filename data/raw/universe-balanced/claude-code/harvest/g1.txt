@@ -1,0 +1,10 @@
+intitle:"Annales Furnesienses" Beck
+intitle:"Flora of Cumberland" Hodgson
+intitle:"Cumbrian Minstrel" Stagg
+intitle:"Minstrels of Winandermere"
+"General View of the Agriculture of the County of Cumberland" Bailey Culley
+"Mines and Mining in the English Lake District" Postlethwaite
+"Ascents and Passes in the Lake District" Prior
+"Miscellany Accounts of the Diocese of Carlisle" Nicolson
+intitle:"Pedestrian and General Guide to the Lake District" Prior
+"Letters on the geology of the Lake District" Sedgwick

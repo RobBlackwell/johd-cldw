@@ -1,0 +1,68 @@
+"natural history of westmorland"~robinson
+"antiquities of furness"~west
+"history and antiquities of the counties of westmorland"~nicolson
+"history of the county of cumberland"~hutchinson
+"general view of the agriculture of the county of cumberland"~bailey
+"general view of the agriculture of the county of westmoreland"~pringle
+"a companion and useful guide to the beauties of scotland"~murray
+"summer excursions"~spence
+"select views in cumberland"~wilkinson
+"the tourist's new guide"~green
+"minstrels of winandermere"~farish
+"poetical effusions"~lickbarrow
+"fragments in prose and verse"~smith
+"cumberland ballads"~anderson
+"the cumbrian minstrel"~stagg
+"poetical works of miss susanna blamire"~blamire
+"miscellaneous poems"~clark
+"original poems"~sanderson
+"the bridal of triermain"~scott
+"the lazy tour of two idle apprentices"~dickens
+"the woman in white"~collins
+"sunny memories of foreign lands"~stowe
+"english traits"~emerson
+"gray days and gold"~winter
+"the excursion"~wordsworth
+"the waggoner"~wordsworth
+"lyrical ballads"~wordsworth
+"sir thomas more or colloquies"~southey
+"recollections of the lakes"~quincey
+"praeterita"~ruskin
+"helbeck of bannisdale"~ward
+"milly and olly"~ward
+"robert elsmere"~ward
+"lizzie lorton"~linton
+"half a life-time ago"~gaskell
+"wrestliana"~litt
+"henry and mary"~litt
+"the folk-speech of cumberland"~gibson
+"mines and mining in the english lake district"~postlethwaite
+"kendal and windermere railway"~wordsworth
+"letters on the geology of the lake district"~sedgwick
+"a vertebrate fauna of lakeland"~macpherson
+"flora of cumberland"~hodgson
+"climbing in the british isles"~smith
+"mountain ascents"~barrow
+"ascents and passes"~prior
+"pedestrian and general guide to the lake district"~prior
+"handbook for travellers in westmorland"~murray
+"reminiscences of wordsworth among the peasantry"~rawnsley
+"through the wordsworth country"~knight
+"journal of george fox"~fox
+"journal of the life of thomas story"~story
+"miscellany accounts of the diocese of carlile"~nicolson
+"annales furnesienses"~beck
+"annals of cartmel"~stockdale
+"the annals of kendal"~nicholson
+"westmorland as it was"~briggs
+"the history and antiquities of carlisle"~jefferson
+"hawkshead"~cowper
+"kirkbie-kendall"~curwen
+"the northmen in cumberland"~ferguson
+"lays and legends of the english lake country"~white
+"the english lake district fisheries"~watson
+"scenes and recollections of fly-fishing"~chatto
+"the angler in the lake district"~davy
+"beauties of england and wales"~britton
+"britannia"~camden
+"the theatre of the empire of great britaine"~speed

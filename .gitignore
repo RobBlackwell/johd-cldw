@@ -10,3 +10,6 @@ __pycache__/
 .venv/
 venv/
 .ipynb_checkpoints/
+
+# Downloaded full texts (make -C data/raw/<variant>/<run> download)
+data/raw/*/claude-code*/texts/

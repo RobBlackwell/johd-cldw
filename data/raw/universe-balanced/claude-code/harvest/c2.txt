@@ -1,0 +1,93 @@
+"agriculture of the county of cumberland"~
+"mines and mining"~postlethwaite
+"flora of cumberland"~
+"the cumbrian minstrel"~
+"minstrels of winandermere"~
+"geology of the lake district"~sedgwick
+"guide to the lake district"~prior
+"westmorland and cumberland"~murray
+"annales furnesienses"~
+"miscellany accounts"~carlisle
+"the torrington diaries"~byng
+"diary of a tour through great britain"~macritchie
+"journal of a tour and residence in great britain"~simond
+"the doctor"~southey
+"phantasmion"~coleridge
+"poems"~quillinan
+"recreations of christopher north"~wilson
+"the isle of palms"~wilson
+"visits to remarkable places"~howitt
+"homes and haunts of the most eminent british poets"~howitt
+"diary reminiscences and correspondence of henry crabb robinson"~robinson
+"letters of charles lamb"~lamb
+"the grasmere journal"~wordsworth
+"journals of dorothy wordsworth"~wordsworth
+"recollections of a tour made in scotland"~wordsworth
+"haps and mishaps of a tour in europe"~greenwood
+"holidays abroad"~kirkland
+"views a-foot"~taylor
+"a walk from london to john o'groat's"~burritt
+"a description of the county of westmorland"~fleming
+"a cursory relation of all the antiquities"~sandford
+"an accompt of the most considerable estates"~denton
+"the worthies of cumberland"~lonsdale
+"the worthies of westmorland"~atkinson
+"the old manorial halls of westmorland"~taylor
+"a history of cumberland"~ferguson
+"a history of westmorland"~ferguson
+"bygone cumberland and westmorland"~scott
+"cumberland and westmorland ancient and modern"~sullivan
+"legends and historical notes"~gibson
+"the history and traditions of ravenstonedale"~nicholls
+"chronicles of the town and church of ulverston"~bardsley
+"some records of a cistercian abbey"~gilbanks
+"lakeland and iceland"~ellwood
+"the dialect of cumberland"~ferguson
+"a glossary of the words and phrases of cumberland"~dickinson
+"specimens of the westmorland dialect"~clarke
+"granite chips and clints"~kirkby
+"echoes of old cumberland"~powley
+"the beckside boggle"~rea
+"thorstein of the mere"~collingwood
+"the bondwoman"~collingwood
+"sonnets at the english lakes"~rawnsley
+"literary associations of the english lakes"~rawnsley
+"life and nature at the english lakes"~rawnsley
+"a protest against the extension of railways"~somervell
+"the ferns of the english lake country"~linton
+"a flora of the english lake district"~baker
+"the birds of cumberland"~macpherson
+"the salmonidae of westmorland"~braithwaite
+"tales and legends of the english lakes"~armistead
+"rides on railways"~sidney
+"a handbook of the whitehaven and furness railway"~linton
+"the echoes of the lakes and mountains"~
+"tourists guide to the english lake district"~jenkinson
+"the thorough guide to the english lake district"~baddeley
+"black's picturesque guide to the english lakes"~
+"a handbook to the english lakes"~
+"sylvan's pictorial handbook to the english lakes"~
+"a description of the scenery in the lake district"~ford
+"a complete guide to the lakes"~hudson
+"guide to windermere"~martineau
+"our english lakes mountains and waterfalls"~
+"views in the english lake district"~rowbotham
+"leaves from lakeland"~payn
+"in the lake country"~waugh
+"chapel island"~waugh
+"lakeland a descriptive poem"~smyth
+"voices from the lakes"~bell
+"windermere a poem"~collins
+"the maid of skiddaw"~bourne
+"lays of the lakes"~ponsonby
+"legends of westmorland"~whitehead
+"north country poets"~andrews
+"solomon and other lake country sketches"~woolson
+"a woman's face"~warden
+"the shadow of a crime"~caine
+"coniston hall or the jacobites"~gresley
+"daniel dennison and the cumberland statesman"~hofland
+"eugenia or early scenes in cumberland"~
+"a thousand miles of wandering"~bogg
+"highways and byways in the lake district"~bradley
+"holidays in the english lakeland"~palmer

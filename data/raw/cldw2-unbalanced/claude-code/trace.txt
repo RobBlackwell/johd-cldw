@@ -1,0 +1,51 @@
+I'll build this corpus by verifying real, downloadable full texts. Let me start by checking my working environment and memory.
+
+Network works. Let me search the Internet Archive and Project Gutenberg APIs systematically rather than relying on recall.
+
+Search is noisy. Let me run targeted title-field queries and collect candidates programmatically.
+
+Strong candidate pool. Let me run a second round of targeted searches for specific canonical works and check Project Gutenberg.
+
+Now let me search for a few remaining works and then verify every identifier against the Internet Archive metadata API.
+
+Now let me build the master candidate list and verify every single download URL against the Internet Archive metadata API.
+
+All 112 resolved to `_djvu.txt`. Now let me retry the timeout and content-verify the ambiguous multi-volume / wider-geography works.
+
+Let me resolve the one uncertain publication date, then write the corpus.
+
+81 rows — trimming one over-represented guidebook, then doing a final end-to-end verification of every URL.
+
+Two URLs are persistently 500-ing on Internet Archive's storage nodes. Let me find working alternatives rather than ship broken links.
+
+Now the definitive end-to-end verification — every URL fetched with retries, confirming real text comes back:
+
+Only Wheeler's item is unreliable. Let me find a solid replacement — ideally another woman writer of the period.
+
+Confirmed. Swapping in Blamire and running the final verification:
+
+All 80 pass. Since I found intermittent node failures, let me stress-test with single-attempt passes to catch any remaining flaky items.
+
+`/work/texts.jsonl` contains 80 lines of JSONL, nothing else.
+
+**Verification performed** — I didn't rely on recall for any entry:
+
+- Candidates were found via the Internet Archive advanced-search API (~420 items screened), not from memory.
+- Every `download_url` was fetched with `curl`/`urllib` and confirmed to return `text/plain` with real content. Final result: **80/80 live**, then stress-tested over three further passes.
+- Works with wider geography were keyword-checked against the actual downloaded text before inclusion. Examples: Defoe (found the correct volume — vols 2 and 4 failed the check, the 1753 vol 3 has Westmorland ×7, Winander ×3), Young (vol 3 confirmed, "From Carlisle to Kendal… Winnander-mere"), Gaskell (located *Half a Life-Time Ago* in vol 2, set between Kendal and Coniston), Mrs Humphry Ward (Whindale ×37, Westmoreland ×105), Dickens/Collins (Carrock ×25), Drayton (confirmed Song 30's Skiddaw/Kendal/Copland argument despite rough blackletter OCR).
+
+**Four items I rejected** rather than pad the count:
+
+- *The Lake of Windermere* (1791) and Florence Warden's *A Woman's Face, or A Lakeland Mystery* (1888) — the Lake District is in the title only; zero topography and zero place names in the body.
+- Kinross's *An Opera and Lady Grasmere* (1900) — "Lady Grasmere" is a countess, not the lake.
+- *Grasmere Rush-bearing* (1850) — 2.9 KB, too thin to be a text.
+
+Two items had persistently broken IA storage nodes (Ann Wheeler's *Westmorland Dialect*, failing ~4 of 5 attempts, with no alternative copy on IA; and Martineau's *Autobiography* vol 2). I replaced them rather than ship flaky links — Wheeler with Susanna Blamire's *Poetical Works* (1842, another Cumberland woman poet), and Martineau with a different, stable scan of the same autobiography.
+
+**Two judgement calls worth flagging:**
+
+1. **Gender field.** The schema requires M or F, which forced me to exclude genuinely anonymous works — several notable guidebooks, *Legends of Westmorland and the Lake District*, and the Antiquarian Society *Transactions*. Guessing would have put invented data in the file. Where a publisher was the attributed author I used the named person (John Murray, Adam and Charles Black). The result is 68 M / 12 F, which reflects the actual authorship of the period rather than a balanced sample.
+
+2. **Chronological weighting.** 46 of 80 fall after 1850. That is deliberate and matches the publishing history — Lakeland writing before the 1770s is sparse, and guidebooks and natural history proliferate after the railways. The 1622–1750 end is thin by necessity: Drayton, Camden, Fiennes, Defoe.
+
+Repeated authors (Wordsworth ×3, Hutchinson, West, Budworth, Martineau, Linton, Rawnsley, Collingwood ×2) are distinct works, not re-editions; where I had two editions of one work I kept one — for instance Wordsworth's *Guide* (1835) rather than also the 1822 *Description of the Scenery*.

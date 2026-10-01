@@ -1,0 +1,17 @@
+Two runs of the universe-balanced experiment, compared as works
+==================================================================
+  run1   claude-code         321 records ->  308 distinct works (13 merged within the run)
+  run2   claude-code-run2    324 records ->  310 distinct works (14 merged within the run)
+
+  common to both runs       226
+  only in run1               82
+  only in run2               84
+  union (distinct works)    392
+
+  overlap as a share of run1    73.4%
+  overlap as a share of run2    72.9%
+  Jaccard (common / union)      57.7%
+
+So the two runs agree on 226 works. Each run found roughly 309
+works, of which about 73% were found by the other run too; pooling the
+two runs yields 392 distinct works rather than 618.
